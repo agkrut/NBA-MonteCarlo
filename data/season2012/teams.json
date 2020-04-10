@@ -1,1 +1,334 @@
-{"teams": [{"isNBAFranchise": true, "city": "Atlanta", "altCityName": "Atlanta", "tricode": "ATL", "teamId": "1610612737", "nickname": "Hawks", "urlName": "hawks", "confName": "East", "divName": "Southeast"}, {"isNBAFranchise": true, "city": "Boston", "altCityName": "Boston", "tricode": "BOS", "teamId": "1610612738", "nickname": "Celtics", "urlName": "celtics", "confName": "East", "divName": "Atlantic"}, {"isNBAFranchise": true, "city": "Brooklyn", "altCityName": "Brooklyn", "tricode": "BKN", "teamId": "1610612751", "nickname": "Nets", "urlName": "nets", "confName": "East", "divName": "Atlantic"}, {"isNBAFranchise": true, "city": "Charlotte", "altCityName": "Charlotte", "tricode": "CHA", "teamId": "1610612766", "nickname": "Bobcats", "urlName": "bobcats", "confName": "East", "divName": "Southeast"}, {"isNBAFranchise": true, "city": "Chicago", "altCityName": "Chicago", "tricode": "CHI", "teamId": "1610612741", "nickname": "Bulls", "urlName": "bulls", "confName": "East", "divName": "Central"}, {"isNBAFranchise": true, "city": "Cleveland", "altCityName": "Cleveland", "tricode": "CLE", "teamId": "1610612739", "nickname": "Cavaliers", "urlName": "cavaliers", "confName": "East", "divName": "Central"}, {"isNBAFranchise": true, "city": "Dallas", "altCityName": "Dallas", "tricode": "DAL", "teamId": "1610612742", "nickname": "Mavericks", "urlName": "mavericks", "confName": "West", "divName": "Southwest"}, {"isNBAFranchise": true, "city": "Denver", "altCityName": "Denver", "tricode": "DEN", "teamId": "1610612743", "nickname": "Nuggets", "urlName": "nuggets", "confName": "West", "divName": "Northwest"}, {"isNBAFranchise": true, "city": "Detroit", "altCityName": "Detroit", "tricode": "DET", "teamId": "1610612765", "nickname": "Pistons", "urlName": "pistons", "confName": "East", "divName": "Central"}, {"isNBAFranchise": true, "city": "Golden State", "altCityName": "Golden State", "tricode": "GSW", "teamId": "1610612744", "nickname": "Warriors", "urlName": "warriors", "confName": "West", "divName": "Pacific"}, {"isNBAFranchise": true, "city": "Houston", "altCityName": "Houston", "tricode": "HOU", "teamId": "1610612745", "nickname": "Rockets", "urlName": "rockets", "confName": "West", "divName": "Southwest"}, {"isNBAFranchise": true, "city": "Indiana", "altCityName": "Indiana", "tricode": "IND", "teamId": "1610612754", "nickname": "Pacers", "urlName": "pacers", "confName": "East", "divName": "Central"}, {"isNBAFranchise": true, "city": "LA", "altCityName": "L.A. Clippers", "tricode": "LAC", "teamId": "1610612746", "nickname": "Clippers", "urlName": "clippers", "confName": "West", "divName": "Pacific"}, {"isNBAFranchise": true, "city": "Los Angeles", "altCityName": "L.A. Lakers", "tricode": "LAL", "teamId": "1610612747", "nickname": "Lakers", "urlName": "lakers", "confName": "West", "divName": "Pacific"}, {"isNBAFranchise": true, "city": "Memphis", "altCityName": "Memphis", "tricode": "MEM", "teamId": "1610612763", "nickname": "Grizzlies", "urlName": "grizzlies", "confName": "West", "divName": "Southwest"}, {"isNBAFranchise": true, "city": "Miami", "altCityName": "Miami", "tricode": "MIA", "teamId": "1610612748", "nickname": "Heat", "urlName": "heat", "confName": "East", "divName": "Southeast"}, {"isNBAFranchise": true, "city": "Milwaukee", "altCityName": "Milwaukee", "tricode": "MIL", "teamId": "1610612749", "nickname": "Bucks", "urlName": "bucks", "confName": "East", "divName": "Central"}, {"isNBAFranchise": true, "city": "Minnesota", "altCityName": "Minnesota", "tricode": "MIN", "teamId": "1610612750", "nickname": "Timberwolves", "urlName": "timberwolves", "confName": "West", "divName": "Northwest"}, {"isNBAFranchise": true, "city": "New Orleans", "altCityName": "New Orleans", "tricode": "NOP", "teamId": "1610612740", "nickname": "Hornets", "urlName": "hornets", "confName": "West", "divName": "Southwest"}, {"isNBAFranchise": true, "city": "New York", "altCityName": "New York", "tricode": "NYK", "teamId": "1610612752", "nickname": "Knicks", "urlName": "knicks", "confName": "East", "divName": "Atlantic"}, {"isNBAFranchise": true, "city": "Oklahoma City", "altCityName": "Oklahoma City", "tricode": "OKC", "teamId": "1610612760", "nickname": "Thunder", "urlName": "thunder", "confName": "West", "divName": "Northwest"}, {"isNBAFranchise": true, "city": "Orlando", "altCityName": "Orlando", "tricode": "ORL", "teamId": "1610612753", "nickname": "Magic", "urlName": "magic", "confName": "East", "divName": "Southeast"}, {"isNBAFranchise": true, "city": "Philadelphia", "altCityName": "Philadelphia", "tricode": "PHI", "teamId": "1610612755", "nickname": "76ers", "urlName": "sixers", "confName": "East", "divName": "Atlantic"}, {"isNBAFranchise": true, "city": "Phoenix", "altCityName": "Phoenix", "tricode": "PHX", "teamId": "1610612756", "nickname": "Suns", "urlName": "suns", "confName": "West", "divName": "Pacific"}, {"isNBAFranchise": true, "city": "Portland", "altCityName": "Portland", "tricode": "POR", "teamId": "1610612757", "nickname": "Trail Blazers", "urlName": "blazers", "confName": "West", "divName": "Northwest"}, {"isNBAFranchise": true, "city": "Sacramento", "altCityName": "Sacramento", "tricode": "SAC", "teamId": "1610612758", "nickname": "Kings", "urlName": "kings", "confName": "West", "divName": "Pacific"}, {"isNBAFranchise": true, "city": "San Antonio", "altCityName": "San Antonio", "tricode": "SAS", "teamId": "1610612759", "nickname": "Spurs", "urlName": "spurs", "confName": "West", "divName": "Southwest"}, {"isNBAFranchise": true, "city": "Toronto", "altCityName": "Toronto", "tricode": "TOR", "teamId": "1610612761", "nickname": "Raptors", "urlName": "raptors", "confName": "East", "divName": "Atlantic"}, {"isNBAFranchise": true, "city": "Utah", "altCityName": "Utah", "tricode": "UTA", "teamId": "1610612762", "nickname": "Jazz", "urlName": "jazz", "confName": "West", "divName": "Northwest"}, {"isNBAFranchise": true, "city": "Washington", "altCityName": "Washington", "tricode": "WAS", "teamId": "1610612764", "nickname": "Wizards", "urlName": "wizards", "confName": "East", "divName": "Southeast"}]}
+{
+    "teams": [
+        {
+            "isNBAFranchise": true,
+            "city": "Atlanta",
+            "altCityName": "Atlanta",
+            "tricode": "ATL",
+            "teamId": "1610612737",
+            "nickname": "Hawks",
+            "urlName": "hawks",
+            "confName": "East",
+            "divName": "Southeast"
+        },
+        {
+            "isNBAFranchise": true,
+            "city": "Boston",
+            "altCityName": "Boston",
+            "tricode": "BOS",
+            "teamId": "1610612738",
+            "nickname": "Celtics",
+            "urlName": "celtics",
+            "confName": "East",
+            "divName": "Atlantic"
+        },
+        {
+            "isNBAFranchise": true,
+            "city": "Brooklyn",
+            "altCityName": "Brooklyn",
+            "tricode": "BKN",
+            "teamId": "1610612751",
+            "nickname": "Nets",
+            "urlName": "nets",
+            "confName": "East",
+            "divName": "Atlantic"
+        },
+        {
+            "isNBAFranchise": true,
+            "city": "Charlotte",
+            "altCityName": "Charlotte",
+            "tricode": "CHA",
+            "teamId": "1610612766",
+            "nickname": "Bobcats",
+            "urlName": "bobcats",
+            "confName": "East",
+            "divName": "Southeast"
+        },
+        {
+            "isNBAFranchise": true,
+            "city": "Chicago",
+            "altCityName": "Chicago",
+            "tricode": "CHI",
+            "teamId": "1610612741",
+            "nickname": "Bulls",
+            "urlName": "bulls",
+            "confName": "East",
+            "divName": "Central"
+        },
+        {
+            "isNBAFranchise": true,
+            "city": "Cleveland",
+            "altCityName": "Cleveland",
+            "tricode": "CLE",
+            "teamId": "1610612739",
+            "nickname": "Cavaliers",
+            "urlName": "cavaliers",
+            "confName": "East",
+            "divName": "Central"
+        },
+        {
+            "isNBAFranchise": true,
+            "city": "Dallas",
+            "altCityName": "Dallas",
+            "tricode": "DAL",
+            "teamId": "1610612742",
+            "nickname": "Mavericks",
+            "urlName": "mavericks",
+            "confName": "West",
+            "divName": "Southwest"
+        },
+        {
+            "isNBAFranchise": true,
+            "city": "Denver",
+            "altCityName": "Denver",
+            "tricode": "DEN",
+            "teamId": "1610612743",
+            "nickname": "Nuggets",
+            "urlName": "nuggets",
+            "confName": "West",
+            "divName": "Northwest"
+        },
+        {
+            "isNBAFranchise": true,
+            "city": "Detroit",
+            "altCityName": "Detroit",
+            "tricode": "DET",
+            "teamId": "1610612765",
+            "nickname": "Pistons",
+            "urlName": "pistons",
+            "confName": "East",
+            "divName": "Central"
+        },
+        {
+            "isNBAFranchise": true,
+            "city": "Golden State",
+            "altCityName": "Golden State",
+            "tricode": "GSW",
+            "teamId": "1610612744",
+            "nickname": "Warriors",
+            "urlName": "warriors",
+            "confName": "West",
+            "divName": "Pacific"
+        },
+        {
+            "isNBAFranchise": true,
+            "city": "Houston",
+            "altCityName": "Houston",
+            "tricode": "HOU",
+            "teamId": "1610612745",
+            "nickname": "Rockets",
+            "urlName": "rockets",
+            "confName": "West",
+            "divName": "Southwest"
+        },
+        {
+            "isNBAFranchise": true,
+            "city": "Indiana",
+            "altCityName": "Indiana",
+            "tricode": "IND",
+            "teamId": "1610612754",
+            "nickname": "Pacers",
+            "urlName": "pacers",
+            "confName": "East",
+            "divName": "Central"
+        },
+        {
+            "isNBAFranchise": true,
+            "city": "LA",
+            "altCityName": "L.A. Clippers",
+            "tricode": "LAC",
+            "teamId": "1610612746",
+            "nickname": "Clippers",
+            "urlName": "clippers",
+            "confName": "West",
+            "divName": "Pacific"
+        },
+        {
+            "isNBAFranchise": true,
+            "city": "Los Angeles",
+            "altCityName": "L.A. Lakers",
+            "tricode": "LAL",
+            "teamId": "1610612747",
+            "nickname": "Lakers",
+            "urlName": "lakers",
+            "confName": "West",
+            "divName": "Pacific"
+        },
+        {
+            "isNBAFranchise": true,
+            "city": "Memphis",
+            "altCityName": "Memphis",
+            "tricode": "MEM",
+            "teamId": "1610612763",
+            "nickname": "Grizzlies",
+            "urlName": "grizzlies",
+            "confName": "West",
+            "divName": "Southwest"
+        },
+        {
+            "isNBAFranchise": true,
+            "city": "Miami",
+            "altCityName": "Miami",
+            "tricode": "MIA",
+            "teamId": "1610612748",
+            "nickname": "Heat",
+            "urlName": "heat",
+            "confName": "East",
+            "divName": "Southeast"
+        },
+        {
+            "isNBAFranchise": true,
+            "city": "Milwaukee",
+            "altCityName": "Milwaukee",
+            "tricode": "MIL",
+            "teamId": "1610612749",
+            "nickname": "Bucks",
+            "urlName": "bucks",
+            "confName": "East",
+            "divName": "Central"
+        },
+        {
+            "isNBAFranchise": true,
+            "city": "Minnesota",
+            "altCityName": "Minnesota",
+            "tricode": "MIN",
+            "teamId": "1610612750",
+            "nickname": "Timberwolves",
+            "urlName": "timberwolves",
+            "confName": "West",
+            "divName": "Northwest"
+        },
+        {
+            "isNBAFranchise": true,
+            "city": "New Orleans",
+            "altCityName": "New Orleans",
+            "tricode": "NOP",
+            "teamId": "1610612740",
+            "nickname": "Hornets",
+            "urlName": "hornets",
+            "confName": "West",
+            "divName": "Southwest"
+        },
+        {
+            "isNBAFranchise": true,
+            "city": "New York",
+            "altCityName": "New York",
+            "tricode": "NYK",
+            "teamId": "1610612752",
+            "nickname": "Knicks",
+            "urlName": "knicks",
+            "confName": "East",
+            "divName": "Atlantic"
+        },
+        {
+            "isNBAFranchise": true,
+            "city": "Oklahoma City",
+            "altCityName": "Oklahoma City",
+            "tricode": "OKC",
+            "teamId": "1610612760",
+            "nickname": "Thunder",
+            "urlName": "thunder",
+            "confName": "West",
+            "divName": "Northwest"
+        },
+        {
+            "isNBAFranchise": true,
+            "city": "Orlando",
+            "altCityName": "Orlando",
+            "tricode": "ORL",
+            "teamId": "1610612753",
+            "nickname": "Magic",
+            "urlName": "magic",
+            "confName": "East",
+            "divName": "Southeast"
+        },
+        {
+            "isNBAFranchise": true,
+            "city": "Philadelphia",
+            "altCityName": "Philadelphia",
+            "tricode": "PHI",
+            "teamId": "1610612755",
+            "nickname": "76ers",
+            "urlName": "sixers",
+            "confName": "East",
+            "divName": "Atlantic"
+        },
+        {
+            "isNBAFranchise": true,
+            "city": "Phoenix",
+            "altCityName": "Phoenix",
+            "tricode": "PHX",
+            "teamId": "1610612756",
+            "nickname": "Suns",
+            "urlName": "suns",
+            "confName": "West",
+            "divName": "Pacific"
+        },
+        {
+            "isNBAFranchise": true,
+            "city": "Portland",
+            "altCityName": "Portland",
+            "tricode": "POR",
+            "teamId": "1610612757",
+            "nickname": "Trail Blazers",
+            "urlName": "blazers",
+            "confName": "West",
+            "divName": "Northwest"
+        },
+        {
+            "isNBAFranchise": true,
+            "city": "Sacramento",
+            "altCityName": "Sacramento",
+            "tricode": "SAC",
+            "teamId": "1610612758",
+            "nickname": "Kings",
+            "urlName": "kings",
+            "confName": "West",
+            "divName": "Pacific"
+        },
+        {
+            "isNBAFranchise": true,
+            "city": "San Antonio",
+            "altCityName": "San Antonio",
+            "tricode": "SAS",
+            "teamId": "1610612759",
+            "nickname": "Spurs",
+            "urlName": "spurs",
+            "confName": "West",
+            "divName": "Southwest"
+        },
+        {
+            "isNBAFranchise": true,
+            "city": "Toronto",
+            "altCityName": "Toronto",
+            "tricode": "TOR",
+            "teamId": "1610612761",
+            "nickname": "Raptors",
+            "urlName": "raptors",
+            "confName": "East",
+            "divName": "Atlantic"
+        },
+        {
+            "isNBAFranchise": true,
+            "city": "Utah",
+            "altCityName": "Utah",
+            "tricode": "UTA",
+            "teamId": "1610612762",
+            "nickname": "Jazz",
+            "urlName": "jazz",
+            "confName": "West",
+            "divName": "Northwest"
+        },
+        {
+            "isNBAFranchise": true,
+            "city": "Washington",
+            "altCityName": "Washington",
+            "tricode": "WAS",
+            "teamId": "1610612764",
+            "nickname": "Wizards",
+            "urlName": "wizards",
+            "confName": "East",
+            "divName": "Southeast"
+        }
+    ]
+}
