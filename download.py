@@ -13,17 +13,21 @@ formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(messag
 handler.setFormatter(formatter)
 logger.addHandler(handler)
 
+# Official NBA Stats API used to generate team data
+# BallIsLife API used to generate game data
 NBAbaseURL = "http://data.nba.com/data/10s/prod/v1/"
 BILbaseURL = "https://www.balldontlie.io/api/v1/"
 
 parentDir = pathlib.Path("data").absolute()
 seasons = range(2012, 2020)
 
+# Routine that creates /data folder structure
 def createOutputStructure():
     for season in seasons:
         targetDir = parentDir.joinpath("season{}".format(season))
         targetDir.mkdir(parents=True, exist_ok=True)
 
+# Routine that downloads and writes team JSON data
 def generateListofTeamsBySeason(season):
     logger.info("Downloading teams [season={}]".format(season))
     url = urllib.parse.urljoin(NBAbaseURL, '{}/teams.json'.format(season))
@@ -35,6 +39,7 @@ def generateListofTeamsBySeason(season):
     with open(str(targetFile), 'w') as f:
         json.dump(parsedTeams, f)
 
+# Routine that downloads and writes game JSON data
 def generateListofGamesByRegularSeason(season):
     logger.info("Downloading games [season={}]".format(season))
     url = urllib.parse.urljoin(BILbaseURL, 'games')
@@ -45,7 +50,10 @@ def generateListofGamesByRegularSeason(season):
         "page" : 0,
     }
     parsedGames = {'games' : []}
-    
+
+    # Need to read first page metadata before downloading
+    # to account for pagination
+
     sampleJSON = requests.get(url, params=params).json()
     totalPages = int(sampleJSON['meta']['total_pages'])
     parsedGames['games'] += sampleJSON['data']
@@ -57,7 +65,7 @@ def generateListofGamesByRegularSeason(season):
             try:
                 pageJSON = requests.get(url, params=params).json()
                 parsedGames['games'] += pageJSON['data']
-            except:
+            except: # Edge case for JSON decode error
                 logger.warn("Error [game, season={}, page={}".format(season, i))
             else:
                 break
