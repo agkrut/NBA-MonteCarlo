@@ -14,9 +14,9 @@ handler.setFormatter(formatter)
 logger.addHandler(handler)
 
 # Official NBA Stats API used to generate team data
-# BallIsLife API used to generate game data
+# BallDontLie API used to generate game data
 NBAbaseURL = "http://data.nba.com/data/10s/prod/v1/"
-BILbaseURL = "https://www.balldontlie.io/api/v1/"
+BDLbaseURL = "https://www.balldontlie.io/api/v1/"
 
 parentDir = pathlib.Path("data").absolute()
 seasons = range(2012, 2020)
@@ -39,47 +39,39 @@ def generateListofTeamsBySeason(season):
     with open(str(targetFile), 'w') as f:
         json.dump(parsedTeams, f)
 
-# Routine that downloads and writes game JSON data
-def generateListofGamesByRegularSeason(season):
+    return [x['tricode'] for x in parsedTeams['teams']]
+
+# Routine that downloads and writes game JSON data by team
+def generateListofGamesByRegularSeason(season, tricodes):
     logger.info("Downloading games [season={}]".format(season))
-    url = urllib.parse.urljoin(BILbaseURL, 'games')
-    params = {
-        "seasons[]" : season,
-        "postseason" : False,
-        "per_page" : 100,
-        "page" : 0,
-    }
-    parsedGames = {'games' : []}
-
-    # Need to read first page metadata before downloading
-    # to account for pagination
-
-    sampleJSON = requests.get(url, params=params).json()
-    totalPages = int(sampleJSON['meta']['total_pages'])
-    parsedGames['games'] += sampleJSON['data']
-
-    for i in range(1, totalPages):
-        params['page'] = i
-
+    url = urllib.parse.urljoin(BDLbaseURL, 'games')
+    for id in range(30):
+        params = {
+            "seasons[]" : season,
+            "team_ids[]" : id + 1,
+            "postseason" : False,
+            "per_page" : 100,
+            "page" : 0,
+        }
         while True:
             try:
-                pageJSON = requests.get(url, params=params).json()
-                parsedGames['games'] += pageJSON['data']
-            except: # Edge case for JSON decode error
-                logger.warn("Error [game, season={}, page={}".format(season, i))
+                scheduleJSON = requests.get(url, params=params).json()
+                parsedGames = {'games' : scheduleJSON['data']}
+            except:
+                continue
             else:
                 break
-
-    targetFile = parentDir.joinpath("season{}".format(season)).joinpath("games.json")
-    with open(str(targetFile), 'w') as f:
-        json.dump(parsedGames, f)
+        tricode = tricodes[id]
+        targetFile = parentDir.joinpath("season{}".format(season)).joinpath("{}.json".format(tricode))
+        with open(str(targetFile), 'w') as f:
+            json.dump(parsedGames, f)
 
 def main():
     createOutputStructure()
 
     for season in seasons:
-        generateListofTeamsBySeason(season)
-        generateListofGamesByRegularSeason(season)
+        tricodes = generateListofTeamsBySeason(season)
+        generateListofGamesByRegularSeason(season, tricodes)
 
 
 if __name__ == "__main__":
