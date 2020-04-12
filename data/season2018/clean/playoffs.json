@@ -1,0 +1,1635 @@
+{
+    "004180010": {
+        "games": [
+            {
+                "game_id": "0041800101",
+                "home_team_id": 1610612749,
+                "visitor_team_id": 1610612765,
+                "series_id": "004180010",
+                "game_num": 1,
+                "result": {
+                    "home": {
+                        "abbreviation": "MIL",
+                        "points": 121,
+                        "win": true
+                    },
+                    "away": {
+                        "abbreviation": "DET",
+                        "points": 86,
+                        "win": false
+                    }
+                }
+            },
+            {
+                "game_id": "0041800102",
+                "home_team_id": 1610612749,
+                "visitor_team_id": 1610612765,
+                "series_id": "004180010",
+                "game_num": 2,
+                "result": {
+                    "home": {
+                        "abbreviation": "MIL",
+                        "points": 120,
+                        "win": true
+                    },
+                    "away": {
+                        "abbreviation": "DET",
+                        "points": 99,
+                        "win": false
+                    }
+                }
+            },
+            {
+                "game_id": "0041800103",
+                "home_team_id": 1610612765,
+                "visitor_team_id": 1610612749,
+                "series_id": "004180010",
+                "game_num": 3,
+                "result": {
+                    "home": {
+                        "abbreviation": "DET",
+                        "points": 103,
+                        "win": false
+                    },
+                    "away": {
+                        "abbreviation": "MIL",
+                        "points": 119,
+                        "win": true
+                    }
+                }
+            },
+            {
+                "game_id": "0041800104",
+                "home_team_id": 1610612765,
+                "visitor_team_id": 1610612749,
+                "series_id": "004180010",
+                "game_num": 4,
+                "result": {
+                    "home": {
+                        "abbreviation": "DET",
+                        "points": 104,
+                        "win": false
+                    },
+                    "away": {
+                        "abbreviation": "MIL",
+                        "points": 127,
+                        "win": true
+                    }
+                }
+            }
+        ],
+        "round": 1
+    },
+    "004180011": {
+        "games": [
+            {
+                "game_id": "0041800111",
+                "home_team_id": 1610612761,
+                "visitor_team_id": 1610612753,
+                "series_id": "004180011",
+                "game_num": 1,
+                "result": {
+                    "home": {
+                        "abbreviation": "TOR",
+                        "points": 101,
+                        "win": false
+                    },
+                    "away": {
+                        "abbreviation": "ORL",
+                        "points": 104,
+                        "win": true
+                    }
+                }
+            },
+            {
+                "game_id": "0041800112",
+                "home_team_id": 1610612761,
+                "visitor_team_id": 1610612753,
+                "series_id": "004180011",
+                "game_num": 2,
+                "result": {
+                    "home": {
+                        "abbreviation": "TOR",
+                        "points": 111,
+                        "win": true
+                    },
+                    "away": {
+                        "abbreviation": "ORL",
+                        "points": 82,
+                        "win": false
+                    }
+                }
+            },
+            {
+                "game_id": "0041800113",
+                "home_team_id": 1610612753,
+                "visitor_team_id": 1610612761,
+                "series_id": "004180011",
+                "game_num": 3,
+                "result": {
+                    "home": {
+                        "abbreviation": "ORL",
+                        "points": 93,
+                        "win": false
+                    },
+                    "away": {
+                        "abbreviation": "TOR",
+                        "points": 98,
+                        "win": true
+                    }
+                }
+            },
+            {
+                "game_id": "0041800114",
+                "home_team_id": 1610612753,
+                "visitor_team_id": 1610612761,
+                "series_id": "004180011",
+                "game_num": 4,
+                "result": {
+                    "home": {
+                        "abbreviation": "ORL",
+                        "points": 85,
+                        "win": false
+                    },
+                    "away": {
+                        "abbreviation": "TOR",
+                        "points": 107,
+                        "win": true
+                    }
+                }
+            },
+            {
+                "game_id": "0041800115",
+                "home_team_id": 1610612761,
+                "visitor_team_id": 1610612753,
+                "series_id": "004180011",
+                "game_num": 5,
+                "result": {
+                    "home": {
+                        "abbreviation": "TOR",
+                        "points": 115,
+                        "win": true
+                    },
+                    "away": {
+                        "abbreviation": "ORL",
+                        "points": 96,
+                        "win": false
+                    }
+                }
+            }
+        ],
+        "round": 1
+    },
+    "004180012": {
+        "games": [
+            {
+                "game_id": "0041800121",
+                "home_team_id": 1610612755,
+                "visitor_team_id": 1610612751,
+                "series_id": "004180012",
+                "game_num": 1,
+                "result": {
+                    "home": {
+                        "abbreviation": "PHI",
+                        "points": 102,
+                        "win": false
+                    },
+                    "away": {
+                        "abbreviation": "BKN",
+                        "points": 111,
+                        "win": true
+                    }
+                }
+            },
+            {
+                "game_id": "0041800122",
+                "home_team_id": 1610612755,
+                "visitor_team_id": 1610612751,
+                "series_id": "004180012",
+                "game_num": 2,
+                "result": {
+                    "home": {
+                        "abbreviation": "PHI",
+                        "points": 145,
+                        "win": true
+                    },
+                    "away": {
+                        "abbreviation": "BKN",
+                        "points": 123,
+                        "win": false
+                    }
+                }
+            },
+            {
+                "game_id": "0041800123",
+                "home_team_id": 1610612751,
+                "visitor_team_id": 1610612755,
+                "series_id": "004180012",
+                "game_num": 3,
+                "result": {
+                    "home": {
+                        "abbreviation": "BKN",
+                        "points": 115,
+                        "win": false
+                    },
+                    "away": {
+                        "abbreviation": "PHI",
+                        "points": 131,
+                        "win": true
+                    }
+                }
+            },
+            {
+                "game_id": "0041800124",
+                "home_team_id": 1610612751,
+                "visitor_team_id": 1610612755,
+                "series_id": "004180012",
+                "game_num": 4,
+                "result": {
+                    "home": {
+                        "abbreviation": "BKN",
+                        "points": 108,
+                        "win": false
+                    },
+                    "away": {
+                        "abbreviation": "PHI",
+                        "points": 112,
+                        "win": true
+                    }
+                }
+            },
+            {
+                "game_id": "0041800125",
+                "home_team_id": 1610612755,
+                "visitor_team_id": 1610612751,
+                "series_id": "004180012",
+                "game_num": 5,
+                "result": {
+                    "home": {
+                        "abbreviation": "PHI",
+                        "points": 122,
+                        "win": true
+                    },
+                    "away": {
+                        "abbreviation": "BKN",
+                        "points": 100,
+                        "win": false
+                    }
+                }
+            }
+        ],
+        "round": 1
+    },
+    "004180013": {
+        "games": [
+            {
+                "game_id": "0041800131",
+                "home_team_id": 1610612738,
+                "visitor_team_id": 1610612754,
+                "series_id": "004180013",
+                "game_num": 1,
+                "result": {
+                    "home": {
+                        "abbreviation": "BOS",
+                        "points": 84,
+                        "win": true
+                    },
+                    "away": {
+                        "abbreviation": "IND",
+                        "points": 74,
+                        "win": false
+                    }
+                }
+            },
+            {
+                "game_id": "0041800132",
+                "home_team_id": 1610612738,
+                "visitor_team_id": 1610612754,
+                "series_id": "004180013",
+                "game_num": 2,
+                "result": {
+                    "home": {
+                        "abbreviation": "BOS",
+                        "points": 99,
+                        "win": true
+                    },
+                    "away": {
+                        "abbreviation": "IND",
+                        "points": 91,
+                        "win": false
+                    }
+                }
+            },
+            {
+                "game_id": "0041800133",
+                "home_team_id": 1610612754,
+                "visitor_team_id": 1610612738,
+                "series_id": "004180013",
+                "game_num": 3,
+                "result": {
+                    "home": {
+                        "abbreviation": "IND",
+                        "points": 96,
+                        "win": false
+                    },
+                    "away": {
+                        "abbreviation": "BOS",
+                        "points": 104,
+                        "win": true
+                    }
+                }
+            },
+            {
+                "game_id": "0041800134",
+                "home_team_id": 1610612754,
+                "visitor_team_id": 1610612738,
+                "series_id": "004180013",
+                "game_num": 4,
+                "result": {
+                    "home": {
+                        "abbreviation": "IND",
+                        "points": 106,
+                        "win": false
+                    },
+                    "away": {
+                        "abbreviation": "BOS",
+                        "points": 110,
+                        "win": true
+                    }
+                }
+            }
+        ],
+        "round": 1
+    },
+    "004180014": {
+        "games": [
+            {
+                "game_id": "0041800141",
+                "home_team_id": 1610612744,
+                "visitor_team_id": 1610612746,
+                "series_id": "004180014",
+                "game_num": 1,
+                "result": {
+                    "home": {
+                        "abbreviation": "GSW",
+                        "points": 121,
+                        "win": true
+                    },
+                    "away": {
+                        "abbreviation": "LAC",
+                        "points": 104,
+                        "win": false
+                    }
+                }
+            },
+            {
+                "game_id": "0041800142",
+                "home_team_id": 1610612744,
+                "visitor_team_id": 1610612746,
+                "series_id": "004180014",
+                "game_num": 2,
+                "result": {
+                    "home": {
+                        "abbreviation": "GSW",
+                        "points": 131,
+                        "win": false
+                    },
+                    "away": {
+                        "abbreviation": "LAC",
+                        "points": 135,
+                        "win": true
+                    }
+                }
+            },
+            {
+                "game_id": "0041800143",
+                "home_team_id": 1610612746,
+                "visitor_team_id": 1610612744,
+                "series_id": "004180014",
+                "game_num": 3,
+                "result": {
+                    "home": {
+                        "abbreviation": "LAC",
+                        "points": 105,
+                        "win": false
+                    },
+                    "away": {
+                        "abbreviation": "GSW",
+                        "points": 132,
+                        "win": true
+                    }
+                }
+            },
+            {
+                "game_id": "0041800144",
+                "home_team_id": 1610612746,
+                "visitor_team_id": 1610612744,
+                "series_id": "004180014",
+                "game_num": 4,
+                "result": {
+                    "home": {
+                        "abbreviation": "LAC",
+                        "points": 105,
+                        "win": false
+                    },
+                    "away": {
+                        "abbreviation": "GSW",
+                        "points": 113,
+                        "win": true
+                    }
+                }
+            },
+            {
+                "game_id": "0041800145",
+                "home_team_id": 1610612744,
+                "visitor_team_id": 1610612746,
+                "series_id": "004180014",
+                "game_num": 5,
+                "result": {
+                    "home": {
+                        "abbreviation": "GSW",
+                        "points": 121,
+                        "win": false
+                    },
+                    "away": {
+                        "abbreviation": "LAC",
+                        "points": 129,
+                        "win": true
+                    }
+                }
+            },
+            {
+                "game_id": "0041800146",
+                "home_team_id": 1610612746,
+                "visitor_team_id": 1610612744,
+                "series_id": "004180014",
+                "game_num": 6,
+                "result": {
+                    "home": {
+                        "abbreviation": "LAC",
+                        "points": 110,
+                        "win": false
+                    },
+                    "away": {
+                        "abbreviation": "GSW",
+                        "points": 129,
+                        "win": true
+                    }
+                }
+            }
+        ],
+        "round": 1
+    },
+    "004180015": {
+        "games": [
+            {
+                "game_id": "0041800151",
+                "home_team_id": 1610612743,
+                "visitor_team_id": 1610612759,
+                "series_id": "004180015",
+                "game_num": 1,
+                "result": {
+                    "home": {
+                        "abbreviation": "DEN",
+                        "points": 96,
+                        "win": false
+                    },
+                    "away": {
+                        "abbreviation": "SAS",
+                        "points": 101,
+                        "win": true
+                    }
+                }
+            },
+            {
+                "game_id": "0041800152",
+                "home_team_id": 1610612743,
+                "visitor_team_id": 1610612759,
+                "series_id": "004180015",
+                "game_num": 2,
+                "result": {
+                    "home": {
+                        "abbreviation": "DEN",
+                        "points": 114,
+                        "win": true
+                    },
+                    "away": {
+                        "abbreviation": "SAS",
+                        "points": 105,
+                        "win": false
+                    }
+                }
+            },
+            {
+                "game_id": "0041800153",
+                "home_team_id": 1610612759,
+                "visitor_team_id": 1610612743,
+                "series_id": "004180015",
+                "game_num": 3,
+                "result": {
+                    "home": {
+                        "abbreviation": "SAS",
+                        "points": 118,
+                        "win": true
+                    },
+                    "away": {
+                        "abbreviation": "DEN",
+                        "points": 108,
+                        "win": false
+                    }
+                }
+            },
+            {
+                "game_id": "0041800154",
+                "home_team_id": 1610612759,
+                "visitor_team_id": 1610612743,
+                "series_id": "004180015",
+                "game_num": 4,
+                "result": {
+                    "home": {
+                        "abbreviation": "SAS",
+                        "points": 103,
+                        "win": false
+                    },
+                    "away": {
+                        "abbreviation": "DEN",
+                        "points": 117,
+                        "win": true
+                    }
+                }
+            },
+            {
+                "game_id": "0041800155",
+                "home_team_id": 1610612743,
+                "visitor_team_id": 1610612759,
+                "series_id": "004180015",
+                "game_num": 5,
+                "result": {
+                    "home": {
+                        "abbreviation": "DEN",
+                        "points": 108,
+                        "win": true
+                    },
+                    "away": {
+                        "abbreviation": "SAS",
+                        "points": 90,
+                        "win": false
+                    }
+                }
+            },
+            {
+                "game_id": "0041800156",
+                "home_team_id": 1610612759,
+                "visitor_team_id": 1610612743,
+                "series_id": "004180015",
+                "game_num": 6,
+                "result": {
+                    "home": {
+                        "abbreviation": "SAS",
+                        "points": 120,
+                        "win": true
+                    },
+                    "away": {
+                        "abbreviation": "DEN",
+                        "points": 103,
+                        "win": false
+                    }
+                }
+            },
+            {
+                "game_id": "0041800157",
+                "home_team_id": 1610612743,
+                "visitor_team_id": 1610612759,
+                "series_id": "004180015",
+                "game_num": 7,
+                "result": {
+                    "home": {
+                        "abbreviation": "DEN",
+                        "points": 90,
+                        "win": true
+                    },
+                    "away": {
+                        "abbreviation": "SAS",
+                        "points": 86,
+                        "win": false
+                    }
+                }
+            }
+        ],
+        "round": 1
+    },
+    "004180016": {
+        "games": [
+            {
+                "game_id": "0041800161",
+                "home_team_id": 1610612757,
+                "visitor_team_id": 1610612760,
+                "series_id": "004180016",
+                "game_num": 1,
+                "result": {
+                    "home": {
+                        "abbreviation": "POR",
+                        "points": 104,
+                        "win": true
+                    },
+                    "away": {
+                        "abbreviation": "OKC",
+                        "points": 99,
+                        "win": false
+                    }
+                }
+            },
+            {
+                "game_id": "0041800162",
+                "home_team_id": 1610612757,
+                "visitor_team_id": 1610612760,
+                "series_id": "004180016",
+                "game_num": 2,
+                "result": {
+                    "home": {
+                        "abbreviation": "POR",
+                        "points": 114,
+                        "win": true
+                    },
+                    "away": {
+                        "abbreviation": "OKC",
+                        "points": 94,
+                        "win": false
+                    }
+                }
+            },
+            {
+                "game_id": "0041800163",
+                "home_team_id": 1610612760,
+                "visitor_team_id": 1610612757,
+                "series_id": "004180016",
+                "game_num": 3,
+                "result": {
+                    "home": {
+                        "abbreviation": "OKC",
+                        "points": 120,
+                        "win": true
+                    },
+                    "away": {
+                        "abbreviation": "POR",
+                        "points": 108,
+                        "win": false
+                    }
+                }
+            },
+            {
+                "game_id": "0041800164",
+                "home_team_id": 1610612760,
+                "visitor_team_id": 1610612757,
+                "series_id": "004180016",
+                "game_num": 4,
+                "result": {
+                    "home": {
+                        "abbreviation": "OKC",
+                        "points": 98,
+                        "win": false
+                    },
+                    "away": {
+                        "abbreviation": "POR",
+                        "points": 111,
+                        "win": true
+                    }
+                }
+            },
+            {
+                "game_id": "0041800165",
+                "home_team_id": 1610612757,
+                "visitor_team_id": 1610612760,
+                "series_id": "004180016",
+                "game_num": 5,
+                "result": {
+                    "home": {
+                        "abbreviation": "POR",
+                        "points": 118,
+                        "win": true
+                    },
+                    "away": {
+                        "abbreviation": "OKC",
+                        "points": 115,
+                        "win": false
+                    }
+                }
+            }
+        ],
+        "round": 1
+    },
+    "004180017": {
+        "games": [
+            {
+                "game_id": "0041800171",
+                "home_team_id": 1610612745,
+                "visitor_team_id": 1610612762,
+                "series_id": "004180017",
+                "game_num": 1,
+                "result": {
+                    "home": {
+                        "abbreviation": "HOU",
+                        "points": 122,
+                        "win": true
+                    },
+                    "away": {
+                        "abbreviation": "UTA",
+                        "points": 90,
+                        "win": false
+                    }
+                }
+            },
+            {
+                "game_id": "0041800172",
+                "home_team_id": 1610612745,
+                "visitor_team_id": 1610612762,
+                "series_id": "004180017",
+                "game_num": 2,
+                "result": {
+                    "home": {
+                        "abbreviation": "HOU",
+                        "points": 118,
+                        "win": true
+                    },
+                    "away": {
+                        "abbreviation": "UTA",
+                        "points": 98,
+                        "win": false
+                    }
+                }
+            },
+            {
+                "game_id": "0041800173",
+                "home_team_id": 1610612762,
+                "visitor_team_id": 1610612745,
+                "series_id": "004180017",
+                "game_num": 3,
+                "result": {
+                    "home": {
+                        "abbreviation": "UTA",
+                        "points": 101,
+                        "win": false
+                    },
+                    "away": {
+                        "abbreviation": "HOU",
+                        "points": 104,
+                        "win": true
+                    }
+                }
+            },
+            {
+                "game_id": "0041800174",
+                "home_team_id": 1610612762,
+                "visitor_team_id": 1610612745,
+                "series_id": "004180017",
+                "game_num": 4,
+                "result": {
+                    "home": {
+                        "abbreviation": "UTA",
+                        "points": 107,
+                        "win": true
+                    },
+                    "away": {
+                        "abbreviation": "HOU",
+                        "points": 91,
+                        "win": false
+                    }
+                }
+            },
+            {
+                "game_id": "0041800175",
+                "home_team_id": 1610612745,
+                "visitor_team_id": 1610612762,
+                "series_id": "004180017",
+                "game_num": 5,
+                "result": {
+                    "home": {
+                        "abbreviation": "HOU",
+                        "points": 100,
+                        "win": true
+                    },
+                    "away": {
+                        "abbreviation": "UTA",
+                        "points": 93,
+                        "win": false
+                    }
+                }
+            }
+        ],
+        "round": 1
+    },
+    "004180020": {
+        "games": [
+            {
+                "game_id": "0041800201",
+                "home_team_id": 1610612749,
+                "visitor_team_id": 1610612738,
+                "series_id": "004180020",
+                "game_num": 1,
+                "result": {
+                    "home": {
+                        "abbreviation": "MIL",
+                        "points": 90,
+                        "win": false
+                    },
+                    "away": {
+                        "abbreviation": "BOS",
+                        "points": 112,
+                        "win": true
+                    }
+                }
+            },
+            {
+                "game_id": "0041800202",
+                "home_team_id": 1610612749,
+                "visitor_team_id": 1610612738,
+                "series_id": "004180020",
+                "game_num": 2,
+                "result": {
+                    "home": {
+                        "abbreviation": "MIL",
+                        "points": 123,
+                        "win": true
+                    },
+                    "away": {
+                        "abbreviation": "BOS",
+                        "points": 102,
+                        "win": false
+                    }
+                }
+            },
+            {
+                "game_id": "0041800203",
+                "home_team_id": 1610612738,
+                "visitor_team_id": 1610612749,
+                "series_id": "004180020",
+                "game_num": 3,
+                "result": {
+                    "home": {
+                        "abbreviation": "BOS",
+                        "points": 116,
+                        "win": false
+                    },
+                    "away": {
+                        "abbreviation": "MIL",
+                        "points": 123,
+                        "win": true
+                    }
+                }
+            },
+            {
+                "game_id": "0041800204",
+                "home_team_id": 1610612738,
+                "visitor_team_id": 1610612749,
+                "series_id": "004180020",
+                "game_num": 4,
+                "result": {
+                    "home": {
+                        "abbreviation": "BOS",
+                        "points": 101,
+                        "win": false
+                    },
+                    "away": {
+                        "abbreviation": "MIL",
+                        "points": 113,
+                        "win": true
+                    }
+                }
+            },
+            {
+                "game_id": "0041800205",
+                "home_team_id": 1610612749,
+                "visitor_team_id": 1610612738,
+                "series_id": "004180020",
+                "game_num": 5,
+                "result": {
+                    "home": {
+                        "abbreviation": "MIL",
+                        "points": 116,
+                        "win": true
+                    },
+                    "away": {
+                        "abbreviation": "BOS",
+                        "points": 91,
+                        "win": false
+                    }
+                }
+            }
+        ],
+        "round": 2
+    },
+    "004180021": {
+        "games": [
+            {
+                "game_id": "0041800211",
+                "home_team_id": 1610612761,
+                "visitor_team_id": 1610612755,
+                "series_id": "004180021",
+                "game_num": 1,
+                "result": {
+                    "home": {
+                        "abbreviation": "TOR",
+                        "points": 108,
+                        "win": true
+                    },
+                    "away": {
+                        "abbreviation": "PHI",
+                        "points": 95,
+                        "win": false
+                    }
+                }
+            },
+            {
+                "game_id": "0041800212",
+                "home_team_id": 1610612761,
+                "visitor_team_id": 1610612755,
+                "series_id": "004180021",
+                "game_num": 2,
+                "result": {
+                    "home": {
+                        "abbreviation": "TOR",
+                        "points": 89,
+                        "win": false
+                    },
+                    "away": {
+                        "abbreviation": "PHI",
+                        "points": 94,
+                        "win": true
+                    }
+                }
+            },
+            {
+                "game_id": "0041800213",
+                "home_team_id": 1610612755,
+                "visitor_team_id": 1610612761,
+                "series_id": "004180021",
+                "game_num": 3,
+                "result": {
+                    "home": {
+                        "abbreviation": "PHI",
+                        "points": 116,
+                        "win": true
+                    },
+                    "away": {
+                        "abbreviation": "TOR",
+                        "points": 95,
+                        "win": false
+                    }
+                }
+            },
+            {
+                "game_id": "0041800214",
+                "home_team_id": 1610612755,
+                "visitor_team_id": 1610612761,
+                "series_id": "004180021",
+                "game_num": 4,
+                "result": {
+                    "home": {
+                        "abbreviation": "PHI",
+                        "points": 96,
+                        "win": false
+                    },
+                    "away": {
+                        "abbreviation": "TOR",
+                        "points": 101,
+                        "win": true
+                    }
+                }
+            },
+            {
+                "game_id": "0041800215",
+                "home_team_id": 1610612761,
+                "visitor_team_id": 1610612755,
+                "series_id": "004180021",
+                "game_num": 5,
+                "result": {
+                    "home": {
+                        "abbreviation": "TOR",
+                        "points": 125,
+                        "win": true
+                    },
+                    "away": {
+                        "abbreviation": "PHI",
+                        "points": 89,
+                        "win": false
+                    }
+                }
+            },
+            {
+                "game_id": "0041800216",
+                "home_team_id": 1610612755,
+                "visitor_team_id": 1610612761,
+                "series_id": "004180021",
+                "game_num": 6,
+                "result": {
+                    "home": {
+                        "abbreviation": "PHI",
+                        "points": 112,
+                        "win": true
+                    },
+                    "away": {
+                        "abbreviation": "TOR",
+                        "points": 101,
+                        "win": false
+                    }
+                }
+            },
+            {
+                "game_id": "0041800217",
+                "home_team_id": 1610612761,
+                "visitor_team_id": 1610612755,
+                "series_id": "004180021",
+                "game_num": 7,
+                "result": {
+                    "home": {
+                        "abbreviation": "TOR",
+                        "points": 92,
+                        "win": true
+                    },
+                    "away": {
+                        "abbreviation": "PHI",
+                        "points": 90,
+                        "win": false
+                    }
+                }
+            }
+        ],
+        "round": 2
+    },
+    "004180022": {
+        "games": [
+            {
+                "game_id": "0041800221",
+                "home_team_id": 1610612744,
+                "visitor_team_id": 1610612745,
+                "series_id": "004180022",
+                "game_num": 1,
+                "result": {
+                    "home": {
+                        "abbreviation": "GSW",
+                        "points": 104,
+                        "win": true
+                    },
+                    "away": {
+                        "abbreviation": "HOU",
+                        "points": 100,
+                        "win": false
+                    }
+                }
+            },
+            {
+                "game_id": "0041800222",
+                "home_team_id": 1610612744,
+                "visitor_team_id": 1610612745,
+                "series_id": "004180022",
+                "game_num": 2,
+                "result": {
+                    "home": {
+                        "abbreviation": "GSW",
+                        "points": 115,
+                        "win": true
+                    },
+                    "away": {
+                        "abbreviation": "HOU",
+                        "points": 109,
+                        "win": false
+                    }
+                }
+            },
+            {
+                "game_id": "0041800223",
+                "home_team_id": 1610612745,
+                "visitor_team_id": 1610612744,
+                "series_id": "004180022",
+                "game_num": 3,
+                "result": {
+                    "home": {
+                        "abbreviation": "HOU",
+                        "points": 126,
+                        "win": true
+                    },
+                    "away": {
+                        "abbreviation": "GSW",
+                        "points": 121,
+                        "win": false
+                    }
+                }
+            },
+            {
+                "game_id": "0041800224",
+                "home_team_id": 1610612745,
+                "visitor_team_id": 1610612744,
+                "series_id": "004180022",
+                "game_num": 4,
+                "result": {
+                    "home": {
+                        "abbreviation": "HOU",
+                        "points": 112,
+                        "win": true
+                    },
+                    "away": {
+                        "abbreviation": "GSW",
+                        "points": 108,
+                        "win": false
+                    }
+                }
+            },
+            {
+                "game_id": "0041800225",
+                "home_team_id": 1610612744,
+                "visitor_team_id": 1610612745,
+                "series_id": "004180022",
+                "game_num": 5,
+                "result": {
+                    "home": {
+                        "abbreviation": "GSW",
+                        "points": 104,
+                        "win": true
+                    },
+                    "away": {
+                        "abbreviation": "HOU",
+                        "points": 99,
+                        "win": false
+                    }
+                }
+            },
+            {
+                "game_id": "0041800226",
+                "home_team_id": 1610612745,
+                "visitor_team_id": 1610612744,
+                "series_id": "004180022",
+                "game_num": 6,
+                "result": {
+                    "home": {
+                        "abbreviation": "HOU",
+                        "points": 113,
+                        "win": false
+                    },
+                    "away": {
+                        "abbreviation": "GSW",
+                        "points": 118,
+                        "win": true
+                    }
+                }
+            }
+        ],
+        "round": 2
+    },
+    "004180023": {
+        "games": [
+            {
+                "game_id": "0041800231",
+                "home_team_id": 1610612743,
+                "visitor_team_id": 1610612757,
+                "series_id": "004180023",
+                "game_num": 1,
+                "result": {
+                    "home": {
+                        "abbreviation": "DEN",
+                        "points": 121,
+                        "win": true
+                    },
+                    "away": {
+                        "abbreviation": "POR",
+                        "points": 113,
+                        "win": false
+                    }
+                }
+            },
+            {
+                "game_id": "0041800232",
+                "home_team_id": 1610612743,
+                "visitor_team_id": 1610612757,
+                "series_id": "004180023",
+                "game_num": 2,
+                "result": {
+                    "home": {
+                        "abbreviation": "DEN",
+                        "points": 90,
+                        "win": false
+                    },
+                    "away": {
+                        "abbreviation": "POR",
+                        "points": 97,
+                        "win": true
+                    }
+                }
+            },
+            {
+                "game_id": "0041800233",
+                "home_team_id": 1610612757,
+                "visitor_team_id": 1610612743,
+                "series_id": "004180023",
+                "game_num": 3,
+                "result": {
+                    "home": {
+                        "abbreviation": "POR",
+                        "points": 140,
+                        "win": true
+                    },
+                    "away": {
+                        "abbreviation": "DEN",
+                        "points": 137,
+                        "win": false
+                    }
+                }
+            },
+            {
+                "game_id": "0041800234",
+                "home_team_id": 1610612757,
+                "visitor_team_id": 1610612743,
+                "series_id": "004180023",
+                "game_num": 4,
+                "result": {
+                    "home": {
+                        "abbreviation": "POR",
+                        "points": 112,
+                        "win": false
+                    },
+                    "away": {
+                        "abbreviation": "DEN",
+                        "points": 116,
+                        "win": true
+                    }
+                }
+            },
+            {
+                "game_id": "0041800235",
+                "home_team_id": 1610612743,
+                "visitor_team_id": 1610612757,
+                "series_id": "004180023",
+                "game_num": 5,
+                "result": {
+                    "home": {
+                        "abbreviation": "DEN",
+                        "points": 124,
+                        "win": true
+                    },
+                    "away": {
+                        "abbreviation": "POR",
+                        "points": 98,
+                        "win": false
+                    }
+                }
+            },
+            {
+                "game_id": "0041800236",
+                "home_team_id": 1610612757,
+                "visitor_team_id": 1610612743,
+                "series_id": "004180023",
+                "game_num": 6,
+                "result": {
+                    "home": {
+                        "abbreviation": "POR",
+                        "points": 119,
+                        "win": true
+                    },
+                    "away": {
+                        "abbreviation": "DEN",
+                        "points": 108,
+                        "win": false
+                    }
+                }
+            },
+            {
+                "game_id": "0041800237",
+                "home_team_id": 1610612743,
+                "visitor_team_id": 1610612757,
+                "series_id": "004180023",
+                "game_num": 7,
+                "result": {
+                    "home": {
+                        "abbreviation": "DEN",
+                        "points": 96,
+                        "win": false
+                    },
+                    "away": {
+                        "abbreviation": "POR",
+                        "points": 100,
+                        "win": true
+                    }
+                }
+            }
+        ],
+        "round": 2
+    },
+    "004180030": {
+        "games": [
+            {
+                "game_id": "0041800301",
+                "home_team_id": 1610612749,
+                "visitor_team_id": 1610612761,
+                "series_id": "004180030",
+                "game_num": 1,
+                "result": {
+                    "home": {
+                        "abbreviation": "MIL",
+                        "points": 108,
+                        "win": true
+                    },
+                    "away": {
+                        "abbreviation": "TOR",
+                        "points": 100,
+                        "win": false
+                    }
+                }
+            },
+            {
+                "game_id": "0041800302",
+                "home_team_id": 1610612749,
+                "visitor_team_id": 1610612761,
+                "series_id": "004180030",
+                "game_num": 2,
+                "result": {
+                    "home": {
+                        "abbreviation": "MIL",
+                        "points": 125,
+                        "win": true
+                    },
+                    "away": {
+                        "abbreviation": "TOR",
+                        "points": 103,
+                        "win": false
+                    }
+                }
+            },
+            {
+                "game_id": "0041800303",
+                "home_team_id": 1610612761,
+                "visitor_team_id": 1610612749,
+                "series_id": "004180030",
+                "game_num": 3,
+                "result": {
+                    "home": {
+                        "abbreviation": "TOR",
+                        "points": 118,
+                        "win": true
+                    },
+                    "away": {
+                        "abbreviation": "MIL",
+                        "points": 112,
+                        "win": false
+                    }
+                }
+            },
+            {
+                "game_id": "0041800304",
+                "home_team_id": 1610612761,
+                "visitor_team_id": 1610612749,
+                "series_id": "004180030",
+                "game_num": 4,
+                "result": {
+                    "home": {
+                        "abbreviation": "TOR",
+                        "points": 120,
+                        "win": true
+                    },
+                    "away": {
+                        "abbreviation": "MIL",
+                        "points": 102,
+                        "win": false
+                    }
+                }
+            },
+            {
+                "game_id": "0041800305",
+                "home_team_id": 1610612749,
+                "visitor_team_id": 1610612761,
+                "series_id": "004180030",
+                "game_num": 5,
+                "result": {
+                    "home": {
+                        "abbreviation": "MIL",
+                        "points": 99,
+                        "win": false
+                    },
+                    "away": {
+                        "abbreviation": "TOR",
+                        "points": 105,
+                        "win": true
+                    }
+                }
+            },
+            {
+                "game_id": "0041800306",
+                "home_team_id": 1610612761,
+                "visitor_team_id": 1610612749,
+                "series_id": "004180030",
+                "game_num": 6,
+                "result": {
+                    "home": {
+                        "abbreviation": "TOR",
+                        "points": 100,
+                        "win": true
+                    },
+                    "away": {
+                        "abbreviation": "MIL",
+                        "points": 94,
+                        "win": false
+                    }
+                }
+            }
+        ],
+        "round": 3
+    },
+    "004180031": {
+        "games": [
+            {
+                "game_id": "0041800311",
+                "home_team_id": 1610612744,
+                "visitor_team_id": 1610612757,
+                "series_id": "004180031",
+                "game_num": 1,
+                "result": {
+                    "home": {
+                        "abbreviation": "GSW",
+                        "points": 116,
+                        "win": true
+                    },
+                    "away": {
+                        "abbreviation": "POR",
+                        "points": 94,
+                        "win": false
+                    }
+                }
+            },
+            {
+                "game_id": "0041800312",
+                "home_team_id": 1610612744,
+                "visitor_team_id": 1610612757,
+                "series_id": "004180031",
+                "game_num": 2,
+                "result": {
+                    "home": {
+                        "abbreviation": "GSW",
+                        "points": 114,
+                        "win": true
+                    },
+                    "away": {
+                        "abbreviation": "POR",
+                        "points": 111,
+                        "win": false
+                    }
+                }
+            },
+            {
+                "game_id": "0041800313",
+                "home_team_id": 1610612757,
+                "visitor_team_id": 1610612744,
+                "series_id": "004180031",
+                "game_num": 3,
+                "result": {
+                    "home": {
+                        "abbreviation": "POR",
+                        "points": 99,
+                        "win": false
+                    },
+                    "away": {
+                        "abbreviation": "GSW",
+                        "points": 110,
+                        "win": true
+                    }
+                }
+            },
+            {
+                "game_id": "0041800314",
+                "home_team_id": 1610612757,
+                "visitor_team_id": 1610612744,
+                "series_id": "004180031",
+                "game_num": 4,
+                "result": {
+                    "home": {
+                        "abbreviation": "POR",
+                        "points": 117,
+                        "win": false
+                    },
+                    "away": {
+                        "abbreviation": "GSW",
+                        "points": 119,
+                        "win": true
+                    }
+                }
+            }
+        ],
+        "round": 3
+    },
+    "004180040": {
+        "games": [
+            {
+                "game_id": "0041800401",
+                "home_team_id": 1610612761,
+                "visitor_team_id": 1610612744,
+                "series_id": "004180040",
+                "game_num": 1,
+                "result": {
+                    "home": {
+                        "abbreviation": "TOR",
+                        "points": 118,
+                        "win": true
+                    },
+                    "away": {
+                        "abbreviation": "GSW",
+                        "points": 109,
+                        "win": false
+                    }
+                }
+            },
+            {
+                "game_id": "0041800402",
+                "home_team_id": 1610612761,
+                "visitor_team_id": 1610612744,
+                "series_id": "004180040",
+                "game_num": 2,
+                "result": {
+                    "home": {
+                        "abbreviation": "TOR",
+                        "points": 104,
+                        "win": false
+                    },
+                    "away": {
+                        "abbreviation": "GSW",
+                        "points": 109,
+                        "win": true
+                    }
+                }
+            },
+            {
+                "game_id": "0041800403",
+                "home_team_id": 1610612744,
+                "visitor_team_id": 1610612761,
+                "series_id": "004180040",
+                "game_num": 3,
+                "result": {
+                    "home": {
+                        "abbreviation": "GSW",
+                        "points": 109,
+                        "win": false
+                    },
+                    "away": {
+                        "abbreviation": "TOR",
+                        "points": 123,
+                        "win": true
+                    }
+                }
+            },
+            {
+                "game_id": "0041800404",
+                "home_team_id": 1610612744,
+                "visitor_team_id": 1610612761,
+                "series_id": "004180040",
+                "game_num": 4,
+                "result": {
+                    "home": {
+                        "abbreviation": "GSW",
+                        "points": 92,
+                        "win": false
+                    },
+                    "away": {
+                        "abbreviation": "TOR",
+                        "points": 105,
+                        "win": true
+                    }
+                }
+            },
+            {
+                "game_id": "0041800405",
+                "home_team_id": 1610612761,
+                "visitor_team_id": 1610612744,
+                "series_id": "004180040",
+                "game_num": 5,
+                "result": {
+                    "home": {
+                        "abbreviation": "TOR",
+                        "points": 105,
+                        "win": false
+                    },
+                    "away": {
+                        "abbreviation": "GSW",
+                        "points": 106,
+                        "win": true
+                    }
+                }
+            },
+            {
+                "game_id": "0041800406",
+                "home_team_id": 1610612744,
+                "visitor_team_id": 1610612761,
+                "series_id": "004180040",
+                "game_num": 6,
+                "result": {
+                    "home": {
+                        "abbreviation": "GSW",
+                        "points": 110,
+                        "win": false
+                    },
+                    "away": {
+                        "abbreviation": "TOR",
+                        "points": 114,
+                        "win": true
+                    }
+                }
+            }
+        ],
+        "round": 4
+    }
+}

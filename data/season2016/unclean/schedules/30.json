@@ -1,0 +1,2389 @@
+{
+    "data": [
+        {
+            "id": 32813,
+            "date": "2016-11-21T00:00:00.000Z",
+            "home_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "home_team_score": 106,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 24,
+                "abbreviation": "PHX",
+                "city": "Phoenix",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Phoenix Suns",
+                "name": "Suns"
+            },
+            "visitor_team_score": 101
+        },
+        {
+            "id": 32820,
+            "date": "2016-11-30T00:00:00.000Z",
+            "home_team": {
+                "id": 21,
+                "abbreviation": "OKC",
+                "city": "Oklahoma City",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Oklahoma City Thunder",
+                "name": "Thunder"
+            },
+            "home_team_score": 126,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "visitor_team_score": 115
+        },
+        {
+            "id": 32933,
+            "date": "2016-11-26T00:00:00.000Z",
+            "home_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "home_team_score": 100,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 27,
+                "abbreviation": "SAS",
+                "city": "San Antonio",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "San Antonio Spurs",
+                "name": "Spurs"
+            },
+            "visitor_team_score": 112
+        },
+        {
+            "id": 32942,
+            "date": "2016-12-05T00:00:00.000Z",
+            "home_team": {
+                "id": 3,
+                "abbreviation": "BKN",
+                "city": "Brooklyn",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Brooklyn Nets",
+                "name": "Nets"
+            },
+            "home_team_score": 113,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "visitor_team_score": 118
+        },
+        {
+            "id": 32959,
+            "date": "2017-03-10T00:00:00.000Z",
+            "home_team": {
+                "id": 26,
+                "abbreviation": "SAC",
+                "city": "Sacramento",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Sacramento Kings",
+                "name": "Kings"
+            },
+            "home_team_score": 122,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "visitor_team_score": 130
+        },
+        {
+            "id": 33089,
+            "date": "2017-03-03T00:00:00.000Z",
+            "home_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "home_team_score": 106,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 28,
+                "abbreviation": "TOR",
+                "city": "Toronto",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Toronto Raptors",
+                "name": "Raptors"
+            },
+            "visitor_team_score": 114
+        },
+        {
+            "id": 33091,
+            "date": "2017-03-05T00:00:00.000Z",
+            "home_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "home_team_score": 115,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 22,
+                "abbreviation": "ORL",
+                "city": "Orlando",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Orlando Magic",
+                "name": "Magic"
+            },
+            "visitor_team_score": 114
+        },
+        {
+            "id": 33093,
+            "date": "2017-03-07T00:00:00.000Z",
+            "home_team": {
+                "id": 24,
+                "abbreviation": "PHX",
+                "city": "Phoenix",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Phoenix Suns",
+                "name": "Suns"
+            },
+            "home_team_score": 127,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "visitor_team_score": 131
+        },
+        {
+            "id": 33111,
+            "date": "2017-03-24T00:00:00.000Z",
+            "home_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "home_team_score": 129,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 3,
+                "abbreviation": "BKN",
+                "city": "Brooklyn",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Brooklyn Nets",
+                "name": "Nets"
+            },
+            "visitor_team_score": 108
+        },
+        {
+            "id": 33115,
+            "date": "2017-03-29T00:00:00.000Z",
+            "home_team": {
+                "id": 13,
+                "abbreviation": "LAC",
+                "city": "LA",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "LA Clippers",
+                "name": "Clippers"
+            },
+            "home_team_score": 133,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "visitor_team_score": 124
+        },
+        {
+            "id": 33126,
+            "date": "2017-04-12T00:00:00.000Z",
+            "home_team": {
+                "id": 16,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 110,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "visitor_team_score": 102
+        },
+        {
+            "id": 33205,
+            "date": "2016-12-06T00:00:00.000Z",
+            "home_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "home_team_score": 116,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 22,
+                "abbreviation": "ORL",
+                "city": "Orlando",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Orlando Magic",
+                "name": "Magic"
+            },
+            "visitor_team_score": 124
+        },
+        {
+            "id": 33220,
+            "date": "2017-03-08T00:00:00.000Z",
+            "home_team": {
+                "id": 8,
+                "abbreviation": "DEN",
+                "city": "Denver",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Denver Nuggets",
+                "name": "Nuggets"
+            },
+            "home_team_score": 113,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "visitor_team_score": 123
+        },
+        {
+            "id": 33343,
+            "date": "2016-12-16T00:00:00.000Z",
+            "home_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "home_team_score": 122,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 9,
+                "abbreviation": "DET",
+                "city": "Detroit",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Detroit Pistons",
+                "name": "Pistons"
+            },
+            "visitor_team_score": 108
+        },
+        {
+            "id": 33355,
+            "date": "2017-01-02T00:00:00.000Z",
+            "home_team": {
+                "id": 11,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "home_team_score": 101,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "visitor_team_score": 91
+        },
+        {
+            "id": 33395,
+            "date": "2017-02-13T00:00:00.000Z",
+            "home_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "home_team_score": 120,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 21,
+                "abbreviation": "OKC",
+                "city": "Oklahoma City",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Oklahoma City Thunder",
+                "name": "Thunder"
+            },
+            "visitor_team_score": 98
+        },
+        {
+            "id": 33406,
+            "date": "2017-03-11T00:00:00.000Z",
+            "home_team": {
+                "id": 25,
+                "abbreviation": "POR",
+                "city": "Portland",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Portland Trail Blazers",
+                "name": "Trail Blazers"
+            },
+            "home_team_score": 124,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "visitor_team_score": 125
+        },
+        {
+            "id": 33408,
+            "date": "2017-03-13T00:00:00.000Z",
+            "home_team": {
+                "id": 18,
+                "abbreviation": "MIN",
+                "city": "Minnesota",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Minnesota Timberwolves",
+                "name": "Timberwolves"
+            },
+            "home_team_score": 119,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "visitor_team_score": 104
+        },
+        {
+            "id": 33410,
+            "date": "2017-03-15T00:00:00.000Z",
+            "home_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "home_team_score": 107,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 7,
+                "abbreviation": "DAL",
+                "city": "Dallas",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Dallas Mavericks",
+                "name": "Mavericks"
+            },
+            "visitor_team_score": 112
+        },
+        {
+            "id": 33429,
+            "date": "2017-04-06T00:00:00.000Z",
+            "home_team": {
+                "id": 20,
+                "abbreviation": "NYK",
+                "city": "New York",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "New York Knicks",
+                "name": "Knicks"
+            },
+            "home_team_score": 103,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "visitor_team_score": 106
+        },
+        {
+            "id": 33431,
+            "date": "2017-04-08T00:00:00.000Z",
+            "home_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "home_team_score": 103,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 16,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 106
+        },
+        {
+            "id": 33492,
+            "date": "2016-12-30T00:00:00.000Z",
+            "home_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "home_team_score": 118,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 3,
+                "abbreviation": "BKN",
+                "city": "Brooklyn",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Brooklyn Nets",
+                "name": "Nets"
+            },
+            "visitor_team_score": 95
+        },
+        {
+            "id": 33497,
+            "date": "2017-01-06T00:00:00.000Z",
+            "home_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "home_team_score": 112,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 18,
+                "abbreviation": "MIN",
+                "city": "Minnesota",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Minnesota Timberwolves",
+                "name": "Timberwolves"
+            },
+            "visitor_team_score": 105
+        },
+        {
+            "id": 33507,
+            "date": "2017-01-18T00:00:00.000Z",
+            "home_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "home_team_score": 104,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 15,
+                "abbreviation": "MEM",
+                "city": "Memphis",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Memphis Grizzlies",
+                "name": "Grizzlies"
+            },
+            "visitor_team_score": 101
+        },
+        {
+            "id": 33515,
+            "date": "2017-01-31T00:00:00.000Z",
+            "home_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "home_team_score": 117,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 20,
+                "abbreviation": "NYK",
+                "city": "New York",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "New York Knicks",
+                "name": "Knicks"
+            },
+            "visitor_team_score": 101
+        },
+        {
+            "id": 33608,
+            "date": "2016-12-12T00:00:00.000Z",
+            "home_team": {
+                "id": 16,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 112,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "visitor_team_score": 101
+        },
+        {
+            "id": 33637,
+            "date": "2017-01-19T00:00:00.000Z",
+            "home_team": {
+                "id": 20,
+                "abbreviation": "NYK",
+                "city": "New York",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "New York Knicks",
+                "name": "Knicks"
+            },
+            "home_team_score": 110,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "visitor_team_score": 113
+        },
+        {
+            "id": 33639,
+            "date": "2017-01-21T00:00:00.000Z",
+            "home_team": {
+                "id": 9,
+                "abbreviation": "DET",
+                "city": "Detroit",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Detroit Pistons",
+                "name": "Pistons"
+            },
+            "home_team_score": 113,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "visitor_team_score": 112
+        },
+        {
+            "id": 33642,
+            "date": "2017-01-23T00:00:00.000Z",
+            "home_team": {
+                "id": 4,
+                "abbreviation": "CHA",
+                "city": "Charlotte",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Charlotte Hornets",
+                "name": "Hornets"
+            },
+            "home_team_score": 99,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "visitor_team_score": 109
+        },
+        {
+            "id": 33669,
+            "date": "2017-04-10T00:00:00.000Z",
+            "home_team": {
+                "id": 9,
+                "abbreviation": "DET",
+                "city": "Detroit",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Detroit Pistons",
+                "name": "Pistons"
+            },
+            "home_team_score": 101,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "visitor_team_score": 105
+        },
+        {
+            "id": 33760,
+            "date": "2016-12-14T00:00:00.000Z",
+            "home_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "home_team_score": 109,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 4,
+                "abbreviation": "CHA",
+                "city": "Charlotte",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Charlotte Hornets",
+                "name": "Hornets"
+            },
+            "visitor_team_score": 106
+        },
+        {
+            "id": 33775,
+            "date": "2017-01-03T00:00:00.000Z",
+            "home_team": {
+                "id": 7,
+                "abbreviation": "DAL",
+                "city": "Dallas",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Dallas Mavericks",
+                "name": "Mavericks"
+            },
+            "home_team_score": 113,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "visitor_team_score": 105
+        },
+        {
+            "id": 33787,
+            "date": "2017-01-16T00:00:00.000Z",
+            "home_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "home_team_score": 120,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 25,
+                "abbreviation": "POR",
+                "city": "Portland",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Portland Trail Blazers",
+                "name": "Trail Blazers"
+            },
+            "visitor_team_score": 101
+        },
+        {
+            "id": 33809,
+            "date": "2017-02-16T00:00:00.000Z",
+            "home_team": {
+                "id": 12,
+                "abbreviation": "IND",
+                "city": "Indiana",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Indiana Pacers",
+                "name": "Pacers"
+            },
+            "home_team_score": 98,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "visitor_team_score": 111
+        },
+        {
+            "id": 33832,
+            "date": "2017-03-20T00:00:00.000Z",
+            "home_team": {
+                "id": 2,
+                "abbreviation": "BOS",
+                "city": "Boston",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Boston Celtics",
+                "name": "Celtics"
+            },
+            "home_team_score": 110,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "visitor_team_score": 102
+        },
+        {
+            "id": 33969,
+            "date": "2016-12-18T00:00:00.000Z",
+            "home_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "home_team_score": 117,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 13,
+                "abbreviation": "LAC",
+                "city": "LA",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "LA Clippers",
+                "name": "Clippers"
+            },
+            "visitor_team_score": 110
+        },
+        {
+            "id": 33985,
+            "date": "2017-04-02T00:00:00.000Z",
+            "home_team": {
+                "id": 10,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "home_team_score": 139,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "visitor_team_score": 115
+        },
+        {
+            "id": 33986,
+            "date": "2017-04-04T00:00:00.000Z",
+            "home_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "home_team_score": 118,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 4,
+                "abbreviation": "CHA",
+                "city": "Charlotte",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Charlotte Hornets",
+                "name": "Hornets"
+            },
+            "visitor_team_score": 111
+        },
+        {
+            "id": 34031,
+            "date": "2016-10-30T00:00:00.000Z",
+            "home_team": {
+                "id": 15,
+                "abbreviation": "MEM",
+                "city": "Memphis",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Memphis Grizzlies",
+                "name": "Grizzlies"
+            },
+            "home_team_score": 112,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "visitor_team_score": 103
+        },
+        {
+            "id": 34040,
+            "date": "2016-11-09T00:00:00.000Z",
+            "home_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "home_team_score": 118,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 2,
+                "abbreviation": "BOS",
+                "city": "Boston",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Boston Celtics",
+                "name": "Celtics"
+            },
+            "visitor_team_score": 93
+        },
+        {
+            "id": 34043,
+            "date": "2016-11-12T00:00:00.000Z",
+            "home_team": {
+                "id": 5,
+                "abbreviation": "CHI",
+                "city": "Chicago",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Chicago Bulls",
+                "name": "Bulls"
+            },
+            "home_team_score": 106,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "visitor_team_score": 95
+        },
+        {
+            "id": 34048,
+            "date": "2016-11-19T00:00:00.000Z",
+            "home_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "home_team_score": 111,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 16,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 114
+        },
+        {
+            "id": 34072,
+            "date": "2016-12-19T00:00:00.000Z",
+            "home_team": {
+                "id": 12,
+                "abbreviation": "IND",
+                "city": "Indiana",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Indiana Pacers",
+                "name": "Pacers"
+            },
+            "home_team_score": 107,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "visitor_team_score": 105
+        },
+        {
+            "id": 34079,
+            "date": "2016-12-26T00:00:00.000Z",
+            "home_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "home_team_score": 107,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 17,
+                "abbreviation": "MIL",
+                "city": "Milwaukee",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Milwaukee Bucks",
+                "name": "Bucks"
+            },
+            "visitor_team_score": 102
+        },
+        {
+            "id": 34116,
+            "date": "2017-02-10T00:00:00.000Z",
+            "home_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "home_team_score": 112,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 12,
+                "abbreviation": "IND",
+                "city": "Indiana",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Indiana Pacers",
+                "name": "Pacers"
+            },
+            "visitor_team_score": 107
+        },
+        {
+            "id": 34121,
+            "date": "2017-03-25T00:00:00.000Z",
+            "home_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "home_team_score": 115,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "visitor_team_score": 127
+        },
+        {
+            "id": 34123,
+            "date": "2017-03-28T00:00:00.000Z",
+            "home_team": {
+                "id": 14,
+                "abbreviation": "LAL",
+                "city": "Los Angeles",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Los Angeles Lakers",
+                "name": "Lakers"
+            },
+            "home_team_score": 108,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "visitor_team_score": 119
+        },
+        {
+            "id": 34157,
+            "date": "2016-11-05T00:00:00.000Z",
+            "home_team": {
+                "id": 22,
+                "abbreviation": "ORL",
+                "city": "Orlando",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Orlando Magic",
+                "name": "Magic"
+            },
+            "home_team_score": 88,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "visitor_team_score": 86
+        },
+        {
+            "id": 34183,
+            "date": "2016-12-28T00:00:00.000Z",
+            "home_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "home_team_score": 111,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 12,
+                "abbreviation": "IND",
+                "city": "Indiana",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Indiana Pacers",
+                "name": "Pacers"
+            },
+            "visitor_team_score": 105
+        },
+        {
+            "id": 34192,
+            "date": "2017-01-08T00:00:00.000Z",
+            "home_team": {
+                "id": 17,
+                "abbreviation": "MIL",
+                "city": "Milwaukee",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Milwaukee Bucks",
+                "name": "Bucks"
+            },
+            "home_team_score": 101,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "visitor_team_score": 107
+        },
+        {
+            "id": 34194,
+            "date": "2017-01-11T00:00:00.000Z",
+            "home_team": {
+                "id": 2,
+                "abbreviation": "BOS",
+                "city": "Boston",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Boston Celtics",
+                "name": "Celtics"
+            },
+            "home_team_score": 117,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "visitor_team_score": 108
+        },
+        {
+            "id": 34206,
+            "date": "2017-01-27T00:00:00.000Z",
+            "home_team": {
+                "id": 1,
+                "abbreviation": "ATL",
+                "city": "Atlanta",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Atlanta Hawks",
+                "name": "Hawks"
+            },
+            "home_team_score": 86,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "visitor_team_score": 112
+        },
+        {
+            "id": 34213,
+            "date": "2017-02-02T00:00:00.000Z",
+            "home_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "home_team_score": 116,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 14,
+                "abbreviation": "LAL",
+                "city": "Los Angeles",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Los Angeles Lakers",
+                "name": "Lakers"
+            },
+            "visitor_team_score": 108
+        },
+        {
+            "id": 34283,
+            "date": "2016-10-27T00:00:00.000Z",
+            "home_team": {
+                "id": 1,
+                "abbreviation": "ATL",
+                "city": "Atlanta",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Atlanta Hawks",
+                "name": "Hawks"
+            },
+            "home_team_score": 114,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "visitor_team_score": 99
+        },
+        {
+            "id": 34288,
+            "date": "2016-11-02T00:00:00.000Z",
+            "home_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "home_team_score": 103,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 28,
+                "abbreviation": "TOR",
+                "city": "Toronto",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Toronto Raptors",
+                "name": "Raptors"
+            },
+            "visitor_team_score": 113
+        },
+        {
+            "id": 34294,
+            "date": "2016-11-07T00:00:00.000Z",
+            "home_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "home_team_score": 106,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 11,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "visitor_team_score": 114
+        },
+        {
+            "id": 34426,
+            "date": "2016-11-04T00:00:00.000Z",
+            "home_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "home_team_score": 95,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1,
+                "abbreviation": "ATL",
+                "city": "Atlanta",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Atlanta Hawks",
+                "name": "Hawks"
+            },
+            "visitor_team_score": 92
+        },
+        {
+            "id": 34434,
+            "date": "2016-12-23T00:00:00.000Z",
+            "home_team": {
+                "id": 17,
+                "abbreviation": "MIL",
+                "city": "Milwaukee",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Milwaukee Bucks",
+                "name": "Bucks"
+            },
+            "home_team_score": 123,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "visitor_team_score": 96
+        },
+        {
+            "id": 34449,
+            "date": "2017-01-14T00:00:00.000Z",
+            "home_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "home_team_score": 109,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 23,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "visitor_team_score": 93
+        },
+        {
+            "id": 34467,
+            "date": "2017-02-06T00:00:00.000Z",
+            "home_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "home_team_score": 135,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 140
+        },
+        {
+            "id": 34470,
+            "date": "2017-02-08T00:00:00.000Z",
+            "home_team": {
+                "id": 3,
+                "abbreviation": "BKN",
+                "city": "Brooklyn",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Brooklyn Nets",
+                "name": "Nets"
+            },
+            "home_team_score": 110,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "visitor_team_score": 114
+        },
+        {
+            "id": 34570,
+            "date": "2016-11-16T00:00:00.000Z",
+            "home_team": {
+                "id": 23,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "home_team_score": 109,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "visitor_team_score": 102
+        },
+        {
+            "id": 34578,
+            "date": "2016-12-21T00:00:00.000Z",
+            "home_team": {
+                "id": 5,
+                "abbreviation": "CHI",
+                "city": "Chicago",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Chicago Bulls",
+                "name": "Bulls"
+            },
+            "home_team_score": 97,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "visitor_team_score": 107
+        },
+        {
+            "id": 34699,
+            "date": "2017-01-10T00:00:00.000Z",
+            "home_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "home_team_score": 101,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 5,
+                "abbreviation": "CHI",
+                "city": "Chicago",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Chicago Bulls",
+                "name": "Bulls"
+            },
+            "visitor_team_score": 99
+        },
+        {
+            "id": 34710,
+            "date": "2017-01-24T00:00:00.000Z",
+            "home_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "home_team_score": 123,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 2,
+                "abbreviation": "BOS",
+                "city": "Boston",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Boston Celtics",
+                "name": "Celtics"
+            },
+            "visitor_team_score": 108
+        },
+        {
+            "id": 34843,
+            "date": "2016-11-17T00:00:00.000Z",
+            "home_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "home_team_score": 119,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 20,
+                "abbreviation": "NYK",
+                "city": "New York",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "New York Knicks",
+                "name": "Knicks"
+            },
+            "visitor_team_score": 112
+        },
+        {
+            "id": 34857,
+            "date": "2016-12-02T00:00:00.000Z",
+            "home_team": {
+                "id": 27,
+                "abbreviation": "SAS",
+                "city": "San Antonio",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "San Antonio Spurs",
+                "name": "Spurs"
+            },
+            "home_team_score": 107,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "visitor_team_score": 105
+        },
+        {
+            "id": 34973,
+            "date": "2017-01-29T00:00:00.000Z",
+            "home_team": {
+                "id": 19,
+                "abbreviation": "NOP",
+                "city": "New Orleans",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "New Orleans Pelicans",
+                "name": "Pelicans"
+            },
+            "home_team_score": 94,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "visitor_team_score": 107
+        },
+        {
+            "id": 35151,
+            "date": "2017-02-28T00:00:00.000Z",
+            "home_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "home_team_score": 112,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 10,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 108
+        },
+        {
+            "id": 35246,
+            "date": "2016-11-28T00:00:00.000Z",
+            "home_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "home_team_score": 101,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 26,
+                "abbreviation": "SAC",
+                "city": "Sacramento",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Sacramento Kings",
+                "name": "Kings"
+            },
+            "visitor_team_score": 95
+        },
+        {
+            "id": 35255,
+            "date": "2016-12-08T00:00:00.000Z",
+            "home_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "home_team_score": 92,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 8,
+                "abbreviation": "DEN",
+                "city": "Denver",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Denver Nuggets",
+                "name": "Nuggets"
+            },
+            "visitor_team_score": 85
+        },
+        {
+            "id": 35257,
+            "date": "2016-12-10T00:00:00.000Z",
+            "home_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "home_team_score": 110,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 17,
+                "abbreviation": "MIL",
+                "city": "Milwaukee",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Milwaukee Bucks",
+                "name": "Bucks"
+            },
+            "visitor_team_score": 105
+        },
+        {
+            "id": 35259,
+            "date": "2017-02-04T00:00:00.000Z",
+            "home_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "home_team_score": 105,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 19,
+                "abbreviation": "NOP",
+                "city": "New Orleans",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "New Orleans Pelicans",
+                "name": "Pelicans"
+            },
+            "visitor_team_score": 91
+        },
+        {
+            "id": 35400,
+            "date": "2017-03-17T00:00:00.000Z",
+            "home_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "home_team_score": 112,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 5,
+                "abbreviation": "CHI",
+                "city": "Chicago",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Chicago Bulls",
+                "name": "Bulls"
+            },
+            "visitor_team_score": 107
+        },
+        {
+            "id": 35401,
+            "date": "2017-03-18T00:00:00.000Z",
+            "home_team": {
+                "id": 4,
+                "abbreviation": "CHA",
+                "city": "Charlotte",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Charlotte Hornets",
+                "name": "Hornets"
+            },
+            "home_team_score": 98,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "visitor_team_score": 93
+        },
+        {
+            "id": 35506,
+            "date": "2016-11-11T00:00:00.000Z",
+            "home_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "home_team_score": 94,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 105
+        },
+        {
+            "id": 35518,
+            "date": "2016-11-25T00:00:00.000Z",
+            "home_team": {
+                "id": 22,
+                "abbreviation": "ORL",
+                "city": "Orlando",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Orlando Magic",
+                "name": "Magic"
+            },
+            "home_team_score": 91,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "visitor_team_score": 94
+        },
+        {
+            "id": 35534,
+            "date": "2017-02-24T00:00:00.000Z",
+            "home_team": {
+                "id": 23,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "home_team_score": 120,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "visitor_team_score": 112
+        },
+        {
+            "id": 35536,
+            "date": "2017-02-26T00:00:00.000Z",
+            "home_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "home_team_score": 92,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 29,
+                "abbreviation": "UTA",
+                "city": "Utah",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Utah Jazz",
+                "name": "Jazz"
+            },
+            "visitor_team_score": 102
+        },
+        {
+            "id": 35539,
+            "date": "2017-03-01T00:00:00.000Z",
+            "home_team": {
+                "id": 28,
+                "abbreviation": "TOR",
+                "city": "Toronto",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Toronto Raptors",
+                "name": "Raptors"
+            },
+            "home_team_score": 96,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "visitor_team_score": 105
+        },
+        {
+            "id": 35556,
+            "date": "2017-03-22T00:00:00.000Z",
+            "home_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "home_team_score": 104,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1,
+                "abbreviation": "ATL",
+                "city": "Atlanta",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Atlanta Hawks",
+                "name": "Hawks"
+            },
+            "visitor_team_score": 100
+        },
+        {
+            "id": 35563,
+            "date": "2017-03-31T00:00:00.000Z",
+            "home_team": {
+                "id": 29,
+                "abbreviation": "UTA",
+                "city": "Utah",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Utah Jazz",
+                "name": "Jazz"
+            },
+            "home_team_score": 95,
+            "period": 4,
+            "postseason": false,
+            "season": 2016,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "visitor_team_score": 88
+        }
+    ],
+    "meta": {
+        "total_pages": 1,
+        "current_page": 1,
+        "next_page": null,
+        "per_page": 100,
+        "total_count": 82
+    }
+}

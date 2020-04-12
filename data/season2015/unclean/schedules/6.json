@@ -1,0 +1,2389 @@
+{
+    "data": [
+        {
+            "id": 27302,
+            "date": "2015-12-05T00:00:00.000Z",
+            "home_team": {
+                "id": 16,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 99,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 84
+        },
+        {
+            "id": 27409,
+            "date": "2015-12-17T00:00:00.000Z",
+            "home_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "home_team_score": 104,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 21,
+                "abbreviation": "OKC",
+                "city": "Oklahoma City",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Oklahoma City Thunder",
+                "name": "Thunder"
+            },
+            "visitor_team_score": 100
+        },
+        {
+            "id": 27417,
+            "date": "2015-12-25T00:00:00.000Z",
+            "home_team": {
+                "id": 10,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "home_team_score": 89,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 83
+        },
+        {
+            "id": 27419,
+            "date": "2015-12-28T00:00:00.000Z",
+            "home_team": {
+                "id": 24,
+                "abbreviation": "PHX",
+                "city": "Phoenix",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Phoenix Suns",
+                "name": "Suns"
+            },
+            "home_team_score": 97,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 101
+        },
+        {
+            "id": 27424,
+            "date": "2016-01-04T00:00:00.000Z",
+            "home_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "home_team_score": 122,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 28,
+                "abbreviation": "TOR",
+                "city": "Toronto",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Toronto Raptors",
+                "name": "Raptors"
+            },
+            "visitor_team_score": 100
+        },
+        {
+            "id": 27430,
+            "date": "2016-01-12T00:00:00.000Z",
+            "home_team": {
+                "id": 7,
+                "abbreviation": "DAL",
+                "city": "Dallas",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Dallas Mavericks",
+                "name": "Mavericks"
+            },
+            "home_team_score": 107,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 110
+        },
+        {
+            "id": 27446,
+            "date": "2016-01-30T00:00:00.000Z",
+            "home_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "home_team_score": 117,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 27,
+                "abbreviation": "SAS",
+                "city": "San Antonio",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "San Antonio Spurs",
+                "name": "Spurs"
+            },
+            "visitor_team_score": 103
+        },
+        {
+            "id": 27551,
+            "date": "2016-02-01T00:00:00.000Z",
+            "home_team": {
+                "id": 12,
+                "abbreviation": "IND",
+                "city": "Indiana",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Indiana Pacers",
+                "name": "Pacers"
+            },
+            "home_team_score": 106,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 111
+        },
+        {
+            "id": 27558,
+            "date": "2016-02-08T00:00:00.000Z",
+            "home_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "home_team_score": 120,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 26,
+                "abbreviation": "SAC",
+                "city": "Sacramento",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Sacramento Kings",
+                "name": "Kings"
+            },
+            "visitor_team_score": 100
+        },
+        {
+            "id": 27830,
+            "date": "2015-11-10T00:00:00.000Z",
+            "home_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "home_team_score": 118,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 29,
+                "abbreviation": "UTA",
+                "city": "Utah",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Utah Jazz",
+                "name": "Jazz"
+            },
+            "visitor_team_score": 114
+        },
+        {
+            "id": 27846,
+            "date": "2015-12-29T00:00:00.000Z",
+            "home_team": {
+                "id": 8,
+                "abbreviation": "DEN",
+                "city": "Denver",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Denver Nuggets",
+                "name": "Nuggets"
+            },
+            "home_team_score": 87,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 93
+        },
+        {
+            "id": 27852,
+            "date": "2016-01-06T00:00:00.000Z",
+            "home_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "home_team_score": 115,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 121
+        },
+        {
+            "id": 28052,
+            "date": "2015-12-26T00:00:00.000Z",
+            "home_team": {
+                "id": 25,
+                "abbreviation": "POR",
+                "city": "Portland",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Portland Trail Blazers",
+                "name": "Trail Blazers"
+            },
+            "home_team_score": 105,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 76
+        },
+        {
+            "id": 28065,
+            "date": "2016-01-10T00:00:00.000Z",
+            "home_team": {
+                "id": 23,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "home_team_score": 85,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 95
+        },
+        {
+            "id": 28068,
+            "date": "2016-01-15T00:00:00.000Z",
+            "home_team": {
+                "id": 11,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "home_team_score": 77,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 91
+        },
+        {
+            "id": 28074,
+            "date": "2016-01-20T00:00:00.000Z",
+            "home_team": {
+                "id": 3,
+                "abbreviation": "BKN",
+                "city": "Brooklyn",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Brooklyn Nets",
+                "name": "Nets"
+            },
+            "home_team_score": 78,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 91
+        },
+        {
+            "id": 28075,
+            "date": "2016-01-21T00:00:00.000Z",
+            "home_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "home_team_score": 115,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 13,
+                "abbreviation": "LAC",
+                "city": "LA",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "LA Clippers",
+                "name": "Clippers"
+            },
+            "visitor_team_score": 102
+        },
+        {
+            "id": 28088,
+            "date": "2016-02-03T00:00:00.000Z",
+            "home_team": {
+                "id": 4,
+                "abbreviation": "CHA",
+                "city": "Charlotte",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Charlotte Hornets",
+                "name": "Hornets"
+            },
+            "home_team_score": 106,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 97
+        },
+        {
+            "id": 28095,
+            "date": "2016-02-06T00:00:00.000Z",
+            "home_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "home_team_score": 99,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 19,
+                "abbreviation": "NOP",
+                "city": "New Orleans",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "New Orleans Pelicans",
+                "name": "Pelicans"
+            },
+            "visitor_team_score": 84
+        },
+        {
+            "id": 28106,
+            "date": "2016-02-18T00:00:00.000Z",
+            "home_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "home_team_score": 106,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 5,
+                "abbreviation": "CHI",
+                "city": "Chicago",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Chicago Bulls",
+                "name": "Bulls"
+            },
+            "visitor_team_score": 95
+        },
+        {
+            "id": 28117,
+            "date": "2016-02-21T00:00:00.000Z",
+            "home_team": {
+                "id": 21,
+                "abbreviation": "OKC",
+                "city": "Oklahoma City",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Oklahoma City Thunder",
+                "name": "Thunder"
+            },
+            "home_team_score": 92,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 115
+        },
+        {
+            "id": 28204,
+            "date": "2016-01-02T00:00:00.000Z",
+            "home_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "home_team_score": 104,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 22,
+                "abbreviation": "ORL",
+                "city": "Orlando",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Orlando Magic",
+                "name": "Magic"
+            },
+            "visitor_team_score": 79
+        },
+        {
+            "id": 28213,
+            "date": "2016-02-05T00:00:00.000Z",
+            "home_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "home_team_score": 103,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 2,
+                "abbreviation": "BOS",
+                "city": "Boston",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Boston Celtics",
+                "name": "Celtics"
+            },
+            "visitor_team_score": 104
+        },
+        {
+            "id": 28217,
+            "date": "2016-02-10T00:00:00.000Z",
+            "home_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "home_team_score": 120,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 14,
+                "abbreviation": "LAL",
+                "city": "Los Angeles",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Los Angeles Lakers",
+                "name": "Lakers"
+            },
+            "visitor_team_score": 111
+        },
+        {
+            "id": 28223,
+            "date": "2016-02-28T00:00:00.000Z",
+            "home_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "home_team_score": 113,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 99
+        },
+        {
+            "id": 28233,
+            "date": "2016-03-09T00:00:00.000Z",
+            "home_team": {
+                "id": 26,
+                "abbreviation": "SAC",
+                "city": "Sacramento",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Sacramento Kings",
+                "name": "Kings"
+            },
+            "home_team_score": 111,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 120
+        },
+        {
+            "id": 28664,
+            "date": "2015-11-02T00:00:00.000Z",
+            "home_team": {
+                "id": 23,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "home_team_score": 100,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 107
+        },
+        {
+            "id": 28666,
+            "date": "2015-11-04T00:00:00.000Z",
+            "home_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "home_team_score": 96,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 20,
+                "abbreviation": "NYK",
+                "city": "New York",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "New York Knicks",
+                "name": "Knicks"
+            },
+            "visitor_team_score": 86
+        },
+        {
+            "id": 28882,
+            "date": "2015-10-30T00:00:00.000Z",
+            "home_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "home_team_score": 102,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 16,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 92
+        },
+        {
+            "id": 28909,
+            "date": "2016-01-18T00:00:00.000Z",
+            "home_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "home_team_score": 98,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 10,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 132
+        },
+        {
+            "id": 28913,
+            "date": "2016-01-23T00:00:00.000Z",
+            "home_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "home_team_score": 83,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 5,
+                "abbreviation": "CHI",
+                "city": "Chicago",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Chicago Bulls",
+                "name": "Bulls"
+            },
+            "visitor_team_score": 96
+        },
+        {
+            "id": 28937,
+            "date": "2016-02-22T00:00:00.000Z",
+            "home_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "home_team_score": 88,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 9,
+                "abbreviation": "DET",
+                "city": "Detroit",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Detroit Pistons",
+                "name": "Pistons"
+            },
+            "visitor_team_score": 96
+        },
+        {
+            "id": 29033,
+            "date": "2015-11-08T00:00:00.000Z",
+            "home_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "home_team_score": 101,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 12,
+                "abbreviation": "IND",
+                "city": "Indiana",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Indiana Pacers",
+                "name": "Pacers"
+            },
+            "visitor_team_score": 97
+        },
+        {
+            "id": 29044,
+            "date": "2015-11-17T00:00:00.000Z",
+            "home_team": {
+                "id": 9,
+                "abbreviation": "DET",
+                "city": "Detroit",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Detroit Pistons",
+                "name": "Pistons"
+            },
+            "home_team_score": 104,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 99
+        },
+        {
+            "id": 29047,
+            "date": "2015-11-21T00:00:00.000Z",
+            "home_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "home_team_score": 109,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1,
+                "abbreviation": "ATL",
+                "city": "Atlanta",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Atlanta Hawks",
+                "name": "Hawks"
+            },
+            "visitor_team_score": 97
+        },
+        {
+            "id": 29049,
+            "date": "2015-11-23T00:00:00.000Z",
+            "home_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "home_team_score": 117,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 22,
+                "abbreviation": "ORL",
+                "city": "Orlando",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Orlando Magic",
+                "name": "Magic"
+            },
+            "visitor_team_score": 103
+        },
+        {
+            "id": 29062,
+            "date": "2015-12-04T00:00:00.000Z",
+            "home_team": {
+                "id": 19,
+                "abbreviation": "NOP",
+                "city": "New Orleans",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "New Orleans Pelicans",
+                "name": "Pelicans"
+            },
+            "home_team_score": 114,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 108
+        },
+        {
+            "id": 29073,
+            "date": "2015-12-20T00:00:00.000Z",
+            "home_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "home_team_score": 108,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 23,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "visitor_team_score": 86
+        },
+        {
+            "id": 29270,
+            "date": "2016-01-25T00:00:00.000Z",
+            "home_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "home_team_score": 114,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 18,
+                "abbreviation": "MIN",
+                "city": "Minnesota",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Minnesota Timberwolves",
+                "name": "Timberwolves"
+            },
+            "visitor_team_score": 107
+        },
+        {
+            "id": 29276,
+            "date": "2016-02-26T00:00:00.000Z",
+            "home_team": {
+                "id": 28,
+                "abbreviation": "TOR",
+                "city": "Toronto",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Toronto Raptors",
+                "name": "Raptors"
+            },
+            "home_team_score": 99,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 97
+        },
+        {
+            "id": 29301,
+            "date": "2016-03-16T00:00:00.000Z",
+            "home_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "home_team_score": 99,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 7,
+                "abbreviation": "DAL",
+                "city": "Dallas",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Dallas Mavericks",
+                "name": "Mavericks"
+            },
+            "visitor_team_score": 98
+        },
+        {
+            "id": 29314,
+            "date": "2016-03-21T00:00:00.000Z",
+            "home_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "home_team_score": 124,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 8,
+                "abbreviation": "DEN",
+                "city": "Denver",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Denver Nuggets",
+                "name": "Nuggets"
+            },
+            "visitor_team_score": 91
+        },
+        {
+            "id": 29325,
+            "date": "2016-03-24T00:00:00.000Z",
+            "home_team": {
+                "id": 3,
+                "abbreviation": "BKN",
+                "city": "Brooklyn",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Brooklyn Nets",
+                "name": "Nets"
+            },
+            "home_team_score": 104,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 95
+        },
+        {
+            "id": 29334,
+            "date": "2016-03-26T00:00:00.000Z",
+            "home_team": {
+                "id": 20,
+                "abbreviation": "NYK",
+                "city": "New York",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "New York Knicks",
+                "name": "Knicks"
+            },
+            "home_team_score": 93,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 107
+        },
+        {
+            "id": 29347,
+            "date": "2016-03-29T00:00:00.000Z",
+            "home_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "home_team_score": 100,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 11,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "visitor_team_score": 106
+        },
+        {
+            "id": 29463,
+            "date": "2016-01-14T00:00:00.000Z",
+            "home_team": {
+                "id": 27,
+                "abbreviation": "SAS",
+                "city": "San Antonio",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "San Antonio Spurs",
+                "name": "Spurs"
+            },
+            "home_team_score": 99,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 95
+        },
+        {
+            "id": 29839,
+            "date": "2015-11-14T00:00:00.000Z",
+            "home_team": {
+                "id": 17,
+                "abbreviation": "MIL",
+                "city": "Milwaukee",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Milwaukee Bucks",
+                "name": "Bucks"
+            },
+            "home_team_score": 108,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 105
+        },
+        {
+            "id": 29883,
+            "date": "2016-02-29T00:00:00.000Z",
+            "home_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "home_team_score": 100,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 12,
+                "abbreviation": "IND",
+                "city": "Indiana",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Indiana Pacers",
+                "name": "Pacers"
+            },
+            "visitor_team_score": 96
+        },
+        {
+            "id": 29891,
+            "date": "2016-03-04T00:00:00.000Z",
+            "home_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "home_team_score": 108,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "visitor_team_score": 83
+        },
+        {
+            "id": 29943,
+            "date": "2016-01-27T00:00:00.000Z",
+            "home_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "home_team_score": 115,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 24,
+                "abbreviation": "PHX",
+                "city": "Phoenix",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Phoenix Suns",
+                "name": "Suns"
+            },
+            "visitor_team_score": 93
+        },
+        {
+            "id": 29975,
+            "date": "2016-03-05T00:00:00.000Z",
+            "home_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "home_team_score": 120,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 2,
+                "abbreviation": "BOS",
+                "city": "Boston",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Boston Celtics",
+                "name": "Celtics"
+            },
+            "visitor_team_score": 103
+        },
+        {
+            "id": 29979,
+            "date": "2016-03-07T00:00:00.000Z",
+            "home_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "home_team_score": 103,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 15,
+                "abbreviation": "MEM",
+                "city": "Memphis",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Memphis Grizzlies",
+                "name": "Grizzlies"
+            },
+            "visitor_team_score": 106
+        },
+        {
+            "id": 29991,
+            "date": "2016-03-13T00:00:00.000Z",
+            "home_team": {
+                "id": 13,
+                "abbreviation": "LAC",
+                "city": "LA",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "LA Clippers",
+                "name": "Clippers"
+            },
+            "home_team_score": 90,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 114
+        },
+        {
+            "id": 29994,
+            "date": "2016-03-14T00:00:00.000Z",
+            "home_team": {
+                "id": 29,
+                "abbreviation": "UTA",
+                "city": "Utah",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Utah Jazz",
+                "name": "Jazz"
+            },
+            "home_team_score": 94,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 85
+        },
+        {
+            "id": 30004,
+            "date": "2016-03-18T00:00:00.000Z",
+            "home_team": {
+                "id": 22,
+                "abbreviation": "ORL",
+                "city": "Orlando",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Orlando Magic",
+                "name": "Magic"
+            },
+            "home_team_score": 103,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 109
+        },
+        {
+            "id": 30008,
+            "date": "2016-03-19T00:00:00.000Z",
+            "home_team": {
+                "id": 16,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 122,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 101
+        },
+        {
+            "id": 30426,
+            "date": "2015-11-13T00:00:00.000Z",
+            "home_team": {
+                "id": 20,
+                "abbreviation": "NYK",
+                "city": "New York",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "New York Knicks",
+                "name": "Knicks"
+            },
+            "home_team_score": 84,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 90
+        },
+        {
+            "id": 30913,
+            "date": "2016-01-29T00:00:00.000Z",
+            "home_team": {
+                "id": 9,
+                "abbreviation": "DET",
+                "city": "Detroit",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Detroit Pistons",
+                "name": "Pistons"
+            },
+            "home_team_score": 106,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 114
+        },
+        {
+            "id": 30928,
+            "date": "2016-03-10T00:00:00.000Z",
+            "home_team": {
+                "id": 14,
+                "abbreviation": "LAL",
+                "city": "Los Angeles",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Los Angeles Lakers",
+                "name": "Lakers"
+            },
+            "home_team_score": 108,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 120
+        },
+        {
+            "id": 30934,
+            "date": "2016-03-23T00:00:00.000Z",
+            "home_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "home_team_score": 113,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 17,
+                "abbreviation": "MIL",
+                "city": "Milwaukee",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Milwaukee Bucks",
+                "name": "Bucks"
+            },
+            "visitor_team_score": 104
+        },
+        {
+            "id": 30962,
+            "date": "2016-03-31T00:00:00.000Z",
+            "home_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "home_team_score": 107,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 3,
+                "abbreviation": "BKN",
+                "city": "Brooklyn",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Brooklyn Nets",
+                "name": "Nets"
+            },
+            "visitor_team_score": 87
+        },
+        {
+            "id": 30972,
+            "date": "2016-04-01T00:00:00.000Z",
+            "home_team": {
+                "id": 1,
+                "abbreviation": "ATL",
+                "city": "Atlanta",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Atlanta Hawks",
+                "name": "Hawks"
+            },
+            "home_team_score": 108,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 110
+        },
+        {
+            "id": 31090,
+            "date": "2015-10-27T00:00:00.000Z",
+            "home_team": {
+                "id": 5,
+                "abbreviation": "CHI",
+                "city": "Chicago",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Chicago Bulls",
+                "name": "Bulls"
+            },
+            "home_team_score": 97,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 95
+        },
+        {
+            "id": 31093,
+            "date": "2015-10-28T00:00:00.000Z",
+            "home_team": {
+                "id": 15,
+                "abbreviation": "MEM",
+                "city": "Memphis",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Memphis Grizzlies",
+                "name": "Grizzlies"
+            },
+            "home_team_score": 76,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 106
+        },
+        {
+            "id": 31103,
+            "date": "2015-11-06T00:00:00.000Z",
+            "home_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "home_team_score": 108,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 23,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "visitor_team_score": 102
+        },
+        {
+            "id": 31110,
+            "date": "2015-11-19T00:00:00.000Z",
+            "home_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "home_team_score": 115,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 17,
+                "abbreviation": "MIL",
+                "city": "Milwaukee",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Milwaukee Bucks",
+                "name": "Bucks"
+            },
+            "visitor_team_score": 100
+        },
+        {
+            "id": 31611,
+            "date": "2015-11-28T00:00:00.000Z",
+            "home_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "home_team_score": 90,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 3,
+                "abbreviation": "BKN",
+                "city": "Brooklyn",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Brooklyn Nets",
+                "name": "Nets"
+            },
+            "visitor_team_score": 88
+        },
+        {
+            "id": 31623,
+            "date": "2015-12-11T00:00:00.000Z",
+            "home_team": {
+                "id": 22,
+                "abbreviation": "ORL",
+                "city": "Orlando",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Orlando Magic",
+                "name": "Magic"
+            },
+            "home_team_score": 76,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 111
+        },
+        {
+            "id": 32018,
+            "date": "2015-12-15T00:00:00.000Z",
+            "home_team": {
+                "id": 2,
+                "abbreviation": "BOS",
+                "city": "Boston",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Boston Celtics",
+                "name": "Celtics"
+            },
+            "home_team_score": 77,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 89
+        },
+        {
+            "id": 32023,
+            "date": "2015-12-23T00:00:00.000Z",
+            "home_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "home_team_score": 91,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 20,
+                "abbreviation": "NYK",
+                "city": "New York",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "New York Knicks",
+                "name": "Knicks"
+            },
+            "visitor_team_score": 84
+        },
+        {
+            "id": 32061,
+            "date": "2016-02-24T00:00:00.000Z",
+            "home_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "home_team_score": 114,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 4,
+                "abbreviation": "CHA",
+                "city": "Charlotte",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Charlotte Hornets",
+                "name": "Hornets"
+            },
+            "visitor_team_score": 103
+        },
+        {
+            "id": 32177,
+            "date": "2015-11-25T00:00:00.000Z",
+            "home_team": {
+                "id": 28,
+                "abbreviation": "TOR",
+                "city": "Toronto",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Toronto Raptors",
+                "name": "Raptors"
+            },
+            "home_team_score": 103,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 99
+        },
+        {
+            "id": 32431,
+            "date": "2015-11-27T00:00:00.000Z",
+            "home_team": {
+                "id": 4,
+                "abbreviation": "CHA",
+                "city": "Charlotte",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Charlotte Hornets",
+                "name": "Hornets"
+            },
+            "home_team_score": 90,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 95
+        },
+        {
+            "id": 32579,
+            "date": "2015-12-08T00:00:00.000Z",
+            "home_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "home_team_score": 105,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 25,
+                "abbreviation": "POR",
+                "city": "Portland",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Portland Trail Blazers",
+                "name": "Trail Blazers"
+            },
+            "visitor_team_score": 100
+        },
+        {
+            "id": 32605,
+            "date": "2016-01-08T00:00:00.000Z",
+            "home_team": {
+                "id": 18,
+                "abbreviation": "MIN",
+                "city": "Minnesota",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Minnesota Timberwolves",
+                "name": "Timberwolves"
+            },
+            "home_team_score": 99,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 125
+        },
+        {
+            "id": 32741,
+            "date": "2015-12-01T00:00:00.000Z",
+            "home_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "home_team_score": 85,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 30,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "visitor_team_score": 97
+        },
+        {
+            "id": 32779,
+            "date": "2016-04-06T00:00:00.000Z",
+            "home_team": {
+                "id": 12,
+                "abbreviation": "IND",
+                "city": "Indiana",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Indiana Pacers",
+                "name": "Pacers"
+            },
+            "home_team_score": 123,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 109
+        },
+        {
+            "id": 32787,
+            "date": "2016-04-03T00:00:00.000Z",
+            "home_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "home_team_score": 112,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 4,
+                "abbreviation": "CHA",
+                "city": "Charlotte",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Charlotte Hornets",
+                "name": "Hornets"
+            },
+            "visitor_team_score": 103
+        },
+        {
+            "id": 32790,
+            "date": "2016-04-09T00:00:00.000Z",
+            "home_team": {
+                "id": 5,
+                "abbreviation": "CHI",
+                "city": "Chicago",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Chicago Bulls",
+                "name": "Bulls"
+            },
+            "home_team_score": 105,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 102
+        },
+        {
+            "id": 32929,
+            "date": "2016-04-11T00:00:00.000Z",
+            "home_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "home_team_score": 109,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1,
+                "abbreviation": "ATL",
+                "city": "Atlanta",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Atlanta Hawks",
+                "name": "Hawks"
+            },
+            "visitor_team_score": 94
+        },
+        {
+            "id": 33468,
+            "date": "2016-04-05T00:00:00.000Z",
+            "home_team": {
+                "id": 17,
+                "abbreviation": "MIL",
+                "city": "Milwaukee",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Milwaukee Bucks",
+                "name": "Bucks"
+            },
+            "home_team_score": 80,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 109
+        },
+        {
+            "id": 35649,
+            "date": "2016-04-13T00:00:00.000Z",
+            "home_team": {
+                "id": 6,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "home_team_score": 110,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 9,
+                "abbreviation": "DET",
+                "city": "Detroit",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Detroit Pistons",
+                "name": "Pistons"
+            },
+            "visitor_team_score": 112
+        }
+    ],
+    "meta": {
+        "total_pages": 1,
+        "current_page": 1,
+        "next_page": null,
+        "per_page": 100,
+        "total_count": 82
+    }
+}

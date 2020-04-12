@@ -1,0 +1,2382 @@
+{
+    "games": [
+        {
+            "id": 34725,
+            "date": "2017-10-18T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612753,
+                "abbreviation": "ORL",
+                "city": "Orlando",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Orlando Magic",
+                "name": "Magic"
+            },
+            "home_team_score": 116,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 109
+        },
+        {
+            "id": 35425,
+            "date": "2017-10-21T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 112,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612754,
+                "abbreviation": "IND",
+                "city": "Indiana",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Indiana Pacers",
+                "name": "Pacers"
+            },
+            "visitor_team_score": 108
+        },
+        {
+            "id": 35583,
+            "date": "2017-10-23T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 104,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612737,
+                "abbreviation": "ATL",
+                "city": "Atlanta",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Atlanta Hawks",
+                "name": "Hawks"
+            },
+            "visitor_team_score": 93
+        },
+        {
+            "id": 34733,
+            "date": "2017-10-25T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 100,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612759,
+                "abbreviation": "SAS",
+                "city": "San Antonio",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "San Antonio Spurs",
+                "name": "Spurs"
+            },
+            "visitor_team_score": 117
+        },
+        {
+            "id": 32875,
+            "date": "2017-10-28T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 90,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612738,
+                "abbreviation": "BOS",
+                "city": "Boston",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Boston Celtics",
+                "name": "Celtics"
+            },
+            "visitor_team_score": 96
+        },
+        {
+            "id": 32968,
+            "date": "2017-10-30T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 122,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612750,
+                "abbreviation": "MIN",
+                "city": "Minnesota",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Minnesota Timberwolves",
+                "name": "Timberwolves"
+            },
+            "visitor_team_score": 125
+        },
+        {
+            "id": 32878,
+            "date": "2017-11-01T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 97,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612741,
+                "abbreviation": "CHI",
+                "city": "Chicago",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Chicago Bulls",
+                "name": "Bulls"
+            },
+            "visitor_team_score": 91
+        },
+        {
+            "id": 32879,
+            "date": "2017-11-03T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612743,
+                "abbreviation": "DEN",
+                "city": "Denver",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Denver Nuggets",
+                "name": "Nuggets"
+            },
+            "home_team_score": 95,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 94
+        },
+        {
+            "id": 34741,
+            "date": "2017-11-05T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612746,
+                "abbreviation": "LAC",
+                "city": "LA",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "LA Clippers",
+                "name": "Clippers"
+            },
+            "home_team_score": 101,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 104
+        },
+        {
+            "id": 32975,
+            "date": "2017-11-06T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "home_team_score": 97,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 80
+        },
+        {
+            "id": 33134,
+            "date": "2017-11-08T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612756,
+                "abbreviation": "PHX",
+                "city": "Phoenix",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Phoenix Suns",
+                "name": "Suns"
+            },
+            "home_team_score": 115,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 126
+        },
+        {
+            "id": 35439,
+            "date": "2017-11-10T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612762,
+                "abbreviation": "UTA",
+                "city": "Utah",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Utah Jazz",
+                "name": "Jazz"
+            },
+            "home_team_score": 74,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 84
+        },
+        {
+            "id": 34633,
+            "date": "2017-11-12T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612765,
+                "abbreviation": "DET",
+                "city": "Detroit",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Detroit Pistons",
+                "name": "Pistons"
+            },
+            "home_team_score": 112,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 103
+        },
+        {
+            "id": 35186,
+            "date": "2017-11-15T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 93,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612764,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "visitor_team_score": 102
+        },
+        {
+            "id": 33437,
+            "date": "2017-11-17T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612764,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "home_team_score": 88,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 91
+        },
+        {
+            "id": 35448,
+            "date": "2017-11-19T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 95,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612754,
+                "abbreviation": "IND",
+                "city": "Indiana",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Indiana Pacers",
+                "name": "Pacers"
+            },
+            "visitor_team_score": 120
+        },
+        {
+            "id": 35018,
+            "date": "2017-11-22T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 104,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612738,
+                "abbreviation": "BOS",
+                "city": "Boston",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Boston Celtics",
+                "name": "Celtics"
+            },
+            "visitor_team_score": 98
+        },
+        {
+            "id": 35451,
+            "date": "2017-11-24T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612750,
+                "abbreviation": "MIN",
+                "city": "Minnesota",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Minnesota Timberwolves",
+                "name": "Timberwolves"
+            },
+            "home_team_score": 97,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 109
+        },
+        {
+            "id": 34643,
+            "date": "2017-11-26T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612741,
+                "abbreviation": "CHI",
+                "city": "Chicago",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Chicago Bulls",
+                "name": "Bulls"
+            },
+            "home_team_score": 93,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 100
+        },
+        {
+            "id": 35454,
+            "date": "2017-11-28T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612739,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "home_team_score": 108,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 97
+        },
+        {
+            "id": 35455,
+            "date": "2017-11-29T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612752,
+                "abbreviation": "NYK",
+                "city": "New York",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "New York Knicks",
+                "name": "Knicks"
+            },
+            "home_team_score": 115,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 86
+        },
+        {
+            "id": 35025,
+            "date": "2017-12-01T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 105,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612766,
+                "abbreviation": "CHA",
+                "city": "Charlotte",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Charlotte Hornets",
+                "name": "Hornets"
+            },
+            "visitor_team_score": 100
+        },
+        {
+            "id": 35027,
+            "date": "2017-12-03T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 95,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 123
+        },
+        {
+            "id": 35029,
+            "date": "2017-12-06T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612759,
+                "abbreviation": "SAS",
+                "city": "San Antonio",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "San Antonio Spurs",
+                "name": "Spurs"
+            },
+            "home_team_score": 117,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 105
+        },
+        {
+            "id": 35205,
+            "date": "2017-12-09T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612751,
+                "abbreviation": "BKN",
+                "city": "Brooklyn",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Brooklyn Nets",
+                "name": "Nets"
+            },
+            "home_team_score": 89,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 101
+        },
+        {
+            "id": 33453,
+            "date": "2017-12-11T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612763,
+                "abbreviation": "MEM",
+                "city": "Memphis",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Memphis Grizzlies",
+                "name": "Grizzlies"
+            },
+            "home_team_score": 82,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 107
+        },
+        {
+            "id": 34658,
+            "date": "2017-12-13T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 95,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612757,
+                "abbreviation": "POR",
+                "city": "Portland",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Portland Trail Blazers",
+                "name": "Trail Blazers"
+            },
+            "visitor_team_score": 102
+        },
+        {
+            "id": 34660,
+            "date": "2017-12-15T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612766,
+                "abbreviation": "CHA",
+                "city": "Charlotte",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Charlotte Hornets",
+                "name": "Hornets"
+            },
+            "home_team_score": 98,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 104
+        },
+        {
+            "id": 33569,
+            "date": "2017-12-16T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 90,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612746,
+                "abbreviation": "LAC",
+                "city": "LA",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "LA Clippers",
+                "name": "Clippers"
+            },
+            "visitor_team_score": 85
+        },
+        {
+            "id": 33682,
+            "date": "2017-12-18T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612737,
+                "abbreviation": "ATL",
+                "city": "Atlanta",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Atlanta Hawks",
+                "name": "Hawks"
+            },
+            "home_team_score": 110,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 104
+        },
+        {
+            "id": 35313,
+            "date": "2017-12-20T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612738,
+                "abbreviation": "BOS",
+                "city": "Boston",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Boston Celtics",
+                "name": "Celtics"
+            },
+            "home_team_score": 89,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 90
+        },
+        {
+            "id": 35474,
+            "date": "2017-12-22T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 113,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612742,
+                "abbreviation": "DAL",
+                "city": "Dallas",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Dallas Mavericks",
+                "name": "Mavericks"
+            },
+            "visitor_team_score": 101
+        },
+        {
+            "id": 33574,
+            "date": "2017-12-23T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 94,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612740,
+                "abbreviation": "NOP",
+                "city": "New Orleans",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "New Orleans Pelicans",
+                "name": "Pelicans"
+            },
+            "visitor_team_score": 109
+        },
+        {
+            "id": 33576,
+            "date": "2017-12-26T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 107,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612753,
+                "abbreviation": "ORL",
+                "city": "Orlando",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Orlando Magic",
+                "name": "Magic"
+            },
+            "visitor_team_score": 89
+        },
+        {
+            "id": 35046,
+            "date": "2017-12-29T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 87,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612751,
+                "abbreviation": "BKN",
+                "city": "Brooklyn",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Brooklyn Nets",
+                "name": "Nets"
+            },
+            "visitor_team_score": 111
+        },
+        {
+            "id": 35047,
+            "date": "2017-12-30T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612753,
+                "abbreviation": "ORL",
+                "city": "Orlando",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Orlando Magic",
+                "name": "Magic"
+            },
+            "home_team_score": 111,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 117
+        },
+        {
+            "id": 35051,
+            "date": "2018-01-03T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 111,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612765,
+                "abbreviation": "DET",
+                "city": "Detroit",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Detroit Pistons",
+                "name": "Pistons"
+            },
+            "visitor_team_score": 104
+        },
+        {
+            "id": 34236,
+            "date": "2018-01-05T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 107,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612752,
+                "abbreviation": "NYK",
+                "city": "New York",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "New York Knicks",
+                "name": "Knicks"
+            },
+            "visitor_team_score": 103
+        },
+        {
+            "id": 35323,
+            "date": "2018-01-07T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 103,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612762,
+                "abbreviation": "UTA",
+                "city": "Utah",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Utah Jazz",
+                "name": "Jazz"
+            },
+            "visitor_team_score": 102
+        },
+        {
+            "id": 33178,
+            "date": "2018-01-09T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612761,
+                "abbreviation": "TOR",
+                "city": "Toronto",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Toronto Raptors",
+                "name": "Raptors"
+            },
+            "home_team_score": 89,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 90
+        },
+        {
+            "id": 33590,
+            "date": "2018-01-10T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612754,
+                "abbreviation": "IND",
+                "city": "Indiana",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Indiana Pacers",
+                "name": "Pacers"
+            },
+            "home_team_score": 106,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 114
+        },
+        {
+            "id": 35495,
+            "date": "2018-01-14T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 97,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612749,
+                "abbreviation": "MIL",
+                "city": "Milwaukee",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Milwaukee Bucks",
+                "name": "Bucks"
+            },
+            "visitor_team_score": 79
+        },
+        {
+            "id": 35056,
+            "date": "2018-01-15T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612741,
+                "abbreviation": "CHI",
+                "city": "Chicago",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Chicago Bulls",
+                "name": "Bulls"
+            },
+            "home_team_score": 119,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 111
+        },
+        {
+            "id": 35057,
+            "date": "2018-01-17T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612749,
+                "abbreviation": "MIL",
+                "city": "Milwaukee",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Milwaukee Bucks",
+                "name": "Bucks"
+            },
+            "home_team_score": 101,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 106
+        },
+        {
+            "id": 35337,
+            "date": "2018-01-19T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612751,
+                "abbreviation": "BKN",
+                "city": "Brooklyn",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Brooklyn Nets",
+                "name": "Nets"
+            },
+            "home_team_score": 101,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 95
+        },
+        {
+            "id": 34333,
+            "date": "2018-01-20T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612766,
+                "abbreviation": "CHA",
+                "city": "Charlotte",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Charlotte Hornets",
+                "name": "Hornets"
+            },
+            "home_team_score": 105,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 106
+        },
+        {
+            "id": 35343,
+            "date": "2018-01-22T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "home_team_score": 99,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 90
+        },
+        {
+            "id": 33190,
+            "date": "2018-01-25T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 88,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612758,
+                "abbreviation": "SAC",
+                "city": "Sacramento",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Sacramento Kings",
+                "name": "Kings"
+            },
+            "visitor_team_score": 89
+        },
+        {
+            "id": 35216,
+            "date": "2018-01-27T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 95,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612766,
+                "abbreviation": "CHA",
+                "city": "Charlotte",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Charlotte Hornets",
+                "name": "Hornets"
+            },
+            "visitor_team_score": 91
+        },
+        {
+            "id": 35500,
+            "date": "2018-01-29T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612742,
+                "abbreviation": "DAL",
+                "city": "Dallas",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Dallas Mavericks",
+                "name": "Mavericks"
+            },
+            "home_team_score": 88,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 95
+        },
+        {
+            "id": 34773,
+            "date": "2018-01-31T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612739,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "home_team_score": 91,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 89
+        },
+        {
+            "id": 32991,
+            "date": "2018-02-02T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "home_team_score": 103,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 97
+        },
+        {
+            "id": 35363,
+            "date": "2018-02-03T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612765,
+                "abbreviation": "DET",
+                "city": "Detroit",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Detroit Pistons",
+                "name": "Pistons"
+            },
+            "home_team_score": 111,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 107
+        },
+        {
+            "id": 35590,
+            "date": "2018-02-05T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 109,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612753,
+                "abbreviation": "ORL",
+                "city": "Orlando",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Orlando Magic",
+                "name": "Magic"
+            },
+            "visitor_team_score": 111
+        },
+        {
+            "id": 34260,
+            "date": "2018-02-07T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 101,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "visitor_team_score": 109
+        },
+        {
+            "id": 33591,
+            "date": "2018-02-09T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 91,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612749,
+                "abbreviation": "MIL",
+                "city": "Milwaukee",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Milwaukee Bucks",
+                "name": "Bucks"
+            },
+            "visitor_team_score": 85
+        },
+        {
+            "id": 33695,
+            "date": "2018-02-13T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612761,
+                "abbreviation": "TOR",
+                "city": "Toronto",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Toronto Raptors",
+                "name": "Raptors"
+            },
+            "home_team_score": 115,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 112
+        },
+        {
+            "id": 33242,
+            "date": "2018-02-14T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "home_team_score": 104,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 102
+        },
+        {
+            "id": 34274,
+            "date": "2018-02-23T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612740,
+                "abbreviation": "NOP",
+                "city": "New Orleans",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "New Orleans Pelicans",
+                "name": "Pelicans"
+            },
+            "home_team_score": 124,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 123
+        },
+        {
+            "id": 35598,
+            "date": "2018-02-24T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 115,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612763,
+                "abbreviation": "MEM",
+                "city": "Memphis",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Memphis Grizzlies",
+                "name": "Grizzlies"
+            },
+            "visitor_team_score": 89
+        },
+        {
+            "id": 35069,
+            "date": "2018-02-27T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 102,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "visitor_team_score": 101
+        },
+        {
+            "id": 34362,
+            "date": "2018-03-01T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 113,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612747,
+                "abbreviation": "LAL",
+                "city": "Los Angeles",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Los Angeles Lakers",
+                "name": "Lakers"
+            },
+            "visitor_team_score": 131
+        },
+        {
+            "id": 34364,
+            "date": "2018-03-03T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 105,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612765,
+                "abbreviation": "DET",
+                "city": "Detroit",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Detroit Pistons",
+                "name": "Pistons"
+            },
+            "visitor_team_score": 96
+        },
+        {
+            "id": 33600,
+            "date": "2018-03-05T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 125,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612756,
+                "abbreviation": "PHX",
+                "city": "Phoenix",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Phoenix Suns",
+                "name": "Suns"
+            },
+            "visitor_team_score": 103
+        },
+        {
+            "id": 34909,
+            "date": "2018-03-06T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612764,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "home_team_score": 117,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 113
+        },
+        {
+            "id": 34369,
+            "date": "2018-03-08T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 108,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "visitor_team_score": 99
+        },
+        {
+            "id": 34496,
+            "date": "2018-03-10T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 129,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612764,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "visitor_team_score": 102
+        },
+        {
+            "id": 34373,
+            "date": "2018-03-12T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612757,
+                "abbreviation": "POR",
+                "city": "Portland",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Portland Trail Blazers",
+                "name": "Trail Blazers"
+            },
+            "home_team_score": 115,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 99
+        },
+        {
+            "id": 34376,
+            "date": "2018-03-14T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612758,
+                "abbreviation": "SAC",
+                "city": "Sacramento",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Sacramento Kings",
+                "name": "Kings"
+            },
+            "home_team_score": 123,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 119
+        },
+        {
+            "id": 34795,
+            "date": "2018-03-16T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612747,
+                "abbreviation": "LAL",
+                "city": "Los Angeles",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Los Angeles Lakers",
+                "name": "Lakers"
+            },
+            "home_team_score": 91,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 92
+        },
+        {
+            "id": 34922,
+            "date": "2018-03-19T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 149,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612743,
+                "abbreviation": "DEN",
+                "city": "Denver",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Denver Nuggets",
+                "name": "Nuggets"
+            },
+            "visitor_team_score": 141
+        },
+        {
+            "id": 35090,
+            "date": "2018-03-21T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 119,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612752,
+                "abbreviation": "NYK",
+                "city": "New York",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "New York Knicks",
+                "name": "Knicks"
+            },
+            "visitor_team_score": 98
+        },
+        {
+            "id": 35094,
+            "date": "2018-03-23T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612760,
+                "abbreviation": "OKC",
+                "city": "Oklahoma City",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Oklahoma City Thunder",
+                "name": "Thunder"
+            },
+            "home_team_score": 105,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 99
+        },
+        {
+            "id": 35096,
+            "date": "2018-03-25T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612754,
+                "abbreviation": "IND",
+                "city": "Indiana",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Indiana Pacers",
+                "name": "Pacers"
+            },
+            "home_team_score": 113,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 107
+        },
+        {
+            "id": 34938,
+            "date": "2018-03-27T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 98,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612739,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 79
+        },
+        {
+            "id": 33015,
+            "date": "2018-03-29T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 103,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612741,
+                "abbreviation": "CHI",
+                "city": "Chicago",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Chicago Bulls",
+                "name": "Bulls"
+            },
+            "visitor_team_score": 92
+        },
+        {
+            "id": 33271,
+            "date": "2018-03-31T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 109,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612751,
+                "abbreviation": "BKN",
+                "city": "Brooklyn",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Brooklyn Nets",
+                "name": "Nets"
+            },
+            "visitor_team_score": 110
+        },
+        {
+            "id": 34395,
+            "date": "2018-04-03T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 101,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612737,
+                "abbreviation": "ATL",
+                "city": "Atlanta",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Atlanta Hawks",
+                "name": "Hawks"
+            },
+            "visitor_team_score": 98
+        },
+        {
+            "id": 34397,
+            "date": "2018-04-04T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612737,
+                "abbreviation": "ATL",
+                "city": "Atlanta",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Atlanta Hawks",
+                "name": "Hawks"
+            },
+            "home_team_score": 86,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 115
+        },
+        {
+            "id": 33022,
+            "date": "2018-04-06T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612752,
+                "abbreviation": "NYK",
+                "city": "New York",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "New York Knicks",
+                "name": "Knicks"
+            },
+            "home_team_score": 122,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 98
+        },
+        {
+            "id": 33277,
+            "date": "2018-04-09T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 93,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612760,
+                "abbreviation": "OKC",
+                "city": "Oklahoma City",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Oklahoma City Thunder",
+                "name": "Thunder"
+            },
+            "visitor_team_score": 115
+        },
+        {
+            "id": 35631,
+            "date": "2018-04-11T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 116,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612761,
+                "abbreviation": "TOR",
+                "city": "Toronto",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Toronto Raptors",
+                "name": "Raptors"
+            },
+            "visitor_team_score": 109
+        }
+    ]
+}

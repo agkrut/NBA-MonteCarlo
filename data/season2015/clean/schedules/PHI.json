@@ -1,0 +1,2382 @@
+{
+    "games": [
+        {
+            "id": 27684,
+            "date": "2015-10-28T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612738,
+                "abbreviation": "BOS",
+                "city": "Boston",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Boston Celtics",
+                "name": "Celtics"
+            },
+            "home_team_score": 112,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "visitor_team_score": 95
+        },
+        {
+            "id": 28394,
+            "date": "2015-10-30T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "home_team_score": 71,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612762,
+                "abbreviation": "UTA",
+                "city": "Utah",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Utah Jazz",
+                "name": "Jazz"
+            },
+            "visitor_team_score": 99
+        },
+        {
+            "id": 28664,
+            "date": "2015-11-02T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "home_team_score": 100,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612739,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 107
+        },
+        {
+            "id": 27826,
+            "date": "2015-11-04T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612749,
+                "abbreviation": "MIL",
+                "city": "Milwaukee",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Milwaukee Bucks",
+                "name": "Bucks"
+            },
+            "home_team_score": 91,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "visitor_team_score": 87
+        },
+        {
+            "id": 31103,
+            "date": "2015-11-06T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612739,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "home_team_score": 108,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "visitor_team_score": 102
+        },
+        {
+            "id": 30424,
+            "date": "2015-11-07T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "home_team_score": 97,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612753,
+                "abbreviation": "ORL",
+                "city": "Orlando",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Orlando Magic",
+                "name": "Magic"
+            },
+            "visitor_team_score": 105
+        },
+        {
+            "id": 28892,
+            "date": "2015-11-09T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "home_team_score": 88,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612741,
+                "abbreviation": "CHI",
+                "city": "Chicago",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Chicago Bulls",
+                "name": "Bulls"
+            },
+            "visitor_team_score": 111
+        },
+        {
+            "id": 29036,
+            "date": "2015-11-11T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "home_team_score": 103,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612761,
+                "abbreviation": "TOR",
+                "city": "Toronto",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Toronto Raptors",
+                "name": "Raptors"
+            },
+            "visitor_team_score": 119
+        },
+        {
+            "id": 28895,
+            "date": "2015-11-13T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612760,
+                "abbreviation": "OKC",
+                "city": "Oklahoma City",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Oklahoma City Thunder",
+                "name": "Thunder"
+            },
+            "home_team_score": 102,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "visitor_team_score": 85
+        },
+        {
+            "id": 27833,
+            "date": "2015-11-14T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612759,
+                "abbreviation": "SAS",
+                "city": "San Antonio",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "San Antonio Spurs",
+                "name": "Spurs"
+            },
+            "home_team_score": 92,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "visitor_team_score": 83
+        },
+        {
+            "id": 30568,
+            "date": "2015-11-16T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "home_team_score": 86,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612742,
+                "abbreviation": "DAL",
+                "city": "Dallas",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Dallas Mavericks",
+                "name": "Mavericks"
+            },
+            "visitor_team_score": 92
+        },
+        {
+            "id": 29045,
+            "date": "2015-11-18T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "home_team_score": 85,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612754,
+                "abbreviation": "IND",
+                "city": "Indiana",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Indiana Pacers",
+                "name": "Pacers"
+            },
+            "visitor_team_score": 112
+        },
+        {
+            "id": 31111,
+            "date": "2015-11-20T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612766,
+                "abbreviation": "CHA",
+                "city": "Charlotte",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Charlotte Hornets",
+                "name": "Hornets"
+            },
+            "home_team_score": 113,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "visitor_team_score": 88
+        },
+        {
+            "id": 29844,
+            "date": "2015-11-21T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 96,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "visitor_team_score": 91
+        },
+        {
+            "id": 29846,
+            "date": "2015-11-23T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612750,
+                "abbreviation": "MIN",
+                "city": "Minnesota",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Minnesota Timberwolves",
+                "name": "Timberwolves"
+            },
+            "home_team_score": 100,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "visitor_team_score": 95
+        },
+        {
+            "id": 31607,
+            "date": "2015-11-25T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612738,
+                "abbreviation": "BOS",
+                "city": "Boston",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Boston Celtics",
+                "name": "Celtics"
+            },
+            "home_team_score": 84,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "visitor_team_score": 80
+        },
+        {
+            "id": 29850,
+            "date": "2015-11-27T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "home_team_score": 116,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "visitor_team_score": 114
+        },
+        {
+            "id": 31612,
+            "date": "2015-11-29T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612763,
+                "abbreviation": "MEM",
+                "city": "Memphis",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Memphis Grizzlies",
+                "name": "Grizzlies"
+            },
+            "home_team_score": 92,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "visitor_team_score": 84
+        },
+        {
+            "id": 32435,
+            "date": "2015-12-01T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "home_team_score": 103,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612747,
+                "abbreviation": "LAL",
+                "city": "Los Angeles",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Los Angeles Lakers",
+                "name": "Lakers"
+            },
+            "visitor_team_score": 91
+        },
+        {
+            "id": 32183,
+            "date": "2015-12-02T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612752,
+                "abbreviation": "NYK",
+                "city": "New York",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "New York Knicks",
+                "name": "Knicks"
+            },
+            "home_team_score": 99,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "visitor_team_score": 87
+        },
+        {
+            "id": 32439,
+            "date": "2015-12-05T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "home_team_score": 105,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612743,
+                "abbreviation": "DEN",
+                "city": "Denver",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Denver Nuggets",
+                "name": "Nuggets"
+            },
+            "visitor_team_score": 108
+        },
+        {
+            "id": 31619,
+            "date": "2015-12-07T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "home_team_score": 68,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612759,
+                "abbreviation": "SAS",
+                "city": "San Antonio",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "San Antonio Spurs",
+                "name": "Spurs"
+            },
+            "visitor_team_score": 119
+        },
+        {
+            "id": 32581,
+            "date": "2015-12-10T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612751,
+                "abbreviation": "BKN",
+                "city": "Brooklyn",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Brooklyn Nets",
+                "name": "Nets"
+            },
+            "home_team_score": 100,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "visitor_team_score": 91
+        },
+        {
+            "id": 32442,
+            "date": "2015-12-11T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "home_team_score": 95,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612765,
+                "abbreviation": "DET",
+                "city": "Detroit",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Detroit Pistons",
+                "name": "Pistons"
+            },
+            "visitor_team_score": 107
+        },
+        {
+            "id": 27309,
+            "date": "2015-12-13T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612761,
+                "abbreviation": "TOR",
+                "city": "Toronto",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Toronto Raptors",
+                "name": "Raptors"
+            },
+            "home_team_score": 96,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "visitor_team_score": 76
+        },
+        {
+            "id": 29069,
+            "date": "2015-12-14T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612741,
+                "abbreviation": "CHI",
+                "city": "Chicago",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Chicago Bulls",
+                "name": "Bulls"
+            },
+            "home_team_score": 115,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "visitor_team_score": 96
+        },
+        {
+            "id": 32195,
+            "date": "2015-12-16T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612737,
+                "abbreviation": "ATL",
+                "city": "Atlanta",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Atlanta Hawks",
+                "name": "Hawks"
+            },
+            "home_team_score": 127,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "visitor_team_score": 106
+        },
+        {
+            "id": 27694,
+            "date": "2015-12-18T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "home_team_score": 97,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612752,
+                "abbreviation": "NYK",
+                "city": "New York",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "New York Knicks",
+                "name": "Knicks"
+            },
+            "visitor_team_score": 107
+        },
+        {
+            "id": 29073,
+            "date": "2015-12-20T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612739,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "home_team_score": 108,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "visitor_team_score": 86
+        },
+        {
+            "id": 32022,
+            "date": "2015-12-22T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "home_team_score": 90,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612763,
+                "abbreviation": "MEM",
+                "city": "Memphis",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Memphis Grizzlies",
+                "name": "Grizzlies"
+            },
+            "visitor_team_score": 104
+        },
+        {
+            "id": 31633,
+            "date": "2015-12-23T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612749,
+                "abbreviation": "MIL",
+                "city": "Milwaukee",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Milwaukee Bucks",
+                "name": "Bucks"
+            },
+            "home_team_score": 113,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "visitor_team_score": 100
+        },
+        {
+            "id": 27843,
+            "date": "2015-12-26T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612756,
+                "abbreviation": "PHX",
+                "city": "Phoenix",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Phoenix Suns",
+                "name": "Suns"
+            },
+            "home_team_score": 104,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "visitor_team_score": 111
+        },
+        {
+            "id": 32593,
+            "date": "2015-12-28T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612762,
+                "abbreviation": "UTA",
+                "city": "Utah",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Utah Jazz",
+                "name": "Jazz"
+            },
+            "home_team_score": 95,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "visitor_team_score": 91
+        },
+        {
+            "id": 28055,
+            "date": "2015-12-30T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612758,
+                "abbreviation": "SAC",
+                "city": "Sacramento",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Sacramento Kings",
+                "name": "Kings"
+            },
+            "home_team_score": 105,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "visitor_team_score": 110
+        },
+        {
+            "id": 32597,
+            "date": "2016-01-01T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612747,
+                "abbreviation": "LAL",
+                "city": "Los Angeles",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Los Angeles Lakers",
+                "name": "Lakers"
+            },
+            "home_team_score": 93,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "visitor_team_score": 84
+        },
+        {
+            "id": 28059,
+            "date": "2016-01-02T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612746,
+                "abbreviation": "LAC",
+                "city": "LA",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "LA Clippers",
+                "name": "Clippers"
+            },
+            "home_team_score": 130,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "visitor_team_score": 99
+        },
+        {
+            "id": 32600,
+            "date": "2016-01-04T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "home_team_score": 109,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612750,
+                "abbreviation": "MIN",
+                "city": "Minnesota",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Minnesota Timberwolves",
+                "name": "Timberwolves"
+            },
+            "visitor_team_score": 99
+        },
+        {
+            "id": 28208,
+            "date": "2016-01-07T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "home_team_score": 98,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612737,
+                "abbreviation": "ATL",
+                "city": "Atlanta",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Atlanta Hawks",
+                "name": "Hawks"
+            },
+            "visitor_team_score": 126
+        },
+        {
+            "id": 31641,
+            "date": "2016-01-09T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "home_team_score": 95,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612761,
+                "abbreviation": "TOR",
+                "city": "Toronto",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Toronto Raptors",
+                "name": "Raptors"
+            },
+            "visitor_team_score": 108
+        },
+        {
+            "id": 28065,
+            "date": "2016-01-10T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "home_team_score": 85,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612739,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 95
+        },
+        {
+            "id": 32041,
+            "date": "2016-01-14T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "home_team_score": 111,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612741,
+                "abbreviation": "CHI",
+                "city": "Chicago",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Chicago Bulls",
+                "name": "Bulls"
+            },
+            "visitor_team_score": 115
+        },
+        {
+            "id": 29465,
+            "date": "2016-01-16T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "home_team_score": 114,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612757,
+                "abbreviation": "POR",
+                "city": "Portland",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Portland Trail Blazers",
+                "name": "Trail Blazers"
+            },
+            "visitor_team_score": 89
+        },
+        {
+            "id": 28071,
+            "date": "2016-01-18T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612752,
+                "abbreviation": "NYK",
+                "city": "New York",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "New York Knicks",
+                "name": "Knicks"
+            },
+            "home_team_score": 119,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "visitor_team_score": 113
+        },
+        {
+            "id": 32470,
+            "date": "2016-01-20T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612753,
+                "abbreviation": "ORL",
+                "city": "Orlando",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Orlando Magic",
+                "name": "Magic"
+            },
+            "home_team_score": 87,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "visitor_team_score": 96
+        },
+        {
+            "id": 28914,
+            "date": "2016-01-24T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "home_team_score": 92,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612738,
+                "abbreviation": "BOS",
+                "city": "Boston",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Boston Celtics",
+                "name": "Celtics"
+            },
+            "visitor_team_score": 112
+        },
+        {
+            "id": 28079,
+            "date": "2016-01-26T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "home_team_score": 113,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612756,
+                "abbreviation": "PHX",
+                "city": "Phoenix",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Phoenix Suns",
+                "name": "Suns"
+            },
+            "visitor_team_score": 103
+        },
+        {
+            "id": 28917,
+            "date": "2016-01-27T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612765,
+                "abbreviation": "DET",
+                "city": "Detroit",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Detroit Pistons",
+                "name": "Pistons"
+            },
+            "home_team_score": 110,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "visitor_team_score": 97
+        },
+        {
+            "id": 28083,
+            "date": "2016-01-30T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "home_team_score": 105,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 108
+        },
+        {
+            "id": 27553,
+            "date": "2016-02-03T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "home_team_score": 86,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612737,
+                "abbreviation": "ATL",
+                "city": "Atlanta",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Atlanta Hawks",
+                "name": "Hawks"
+            },
+            "visitor_team_score": 124
+        },
+        {
+            "id": 28927,
+            "date": "2016-02-05T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612764,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "home_team_score": 106,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "visitor_team_score": 94
+        },
+        {
+            "id": 29271,
+            "date": "2016-02-06T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "home_team_score": 103,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612751,
+                "abbreviation": "BKN",
+                "city": "Brooklyn",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Brooklyn Nets",
+                "name": "Nets"
+            },
+            "visitor_team_score": 98
+        },
+        {
+            "id": 28216,
+            "date": "2016-02-08T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "home_team_score": 92,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612746,
+                "abbreviation": "LAC",
+                "city": "LA",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "LA Clippers",
+                "name": "Clippers"
+            },
+            "visitor_team_score": 98
+        },
+        {
+            "id": 28099,
+            "date": "2016-02-10T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "home_team_score": 110,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612758,
+                "abbreviation": "SAC",
+                "city": "Sacramento",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Sacramento Kings",
+                "name": "Kings"
+            },
+            "visitor_team_score": 114
+        },
+        {
+            "id": 28112,
+            "date": "2016-02-19T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612740,
+                "abbreviation": "NOP",
+                "city": "New Orleans",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "New Orleans Pelicans",
+                "name": "Pelicans"
+            },
+            "home_team_score": 121,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "visitor_team_score": 114
+        },
+        {
+            "id": 29872,
+            "date": "2016-02-21T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612742,
+                "abbreviation": "DAL",
+                "city": "Dallas",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Dallas Mavericks",
+                "name": "Mavericks"
+            },
+            "home_team_score": 129,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "visitor_team_score": 103
+        },
+        {
+            "id": 32060,
+            "date": "2016-02-23T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "home_team_score": 115,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612753,
+                "abbreviation": "ORL",
+                "city": "Orlando",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Orlando Magic",
+                "name": "Magic"
+            },
+            "visitor_team_score": 124
+        },
+        {
+            "id": 28939,
+            "date": "2016-02-24T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612765,
+                "abbreviation": "DET",
+                "city": "Detroit",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Detroit Pistons",
+                "name": "Pistons"
+            },
+            "home_team_score": 111,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "visitor_team_score": 91
+        },
+        {
+            "id": 29961,
+            "date": "2016-02-26T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "home_team_score": 94,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612764,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "visitor_team_score": 103
+        },
+        {
+            "id": 27566,
+            "date": "2016-02-28T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612753,
+                "abbreviation": "ORL",
+                "city": "Orlando",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Orlando Magic",
+                "name": "Magic"
+            },
+            "home_team_score": 130,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "visitor_team_score": 116
+        },
+        {
+            "id": 28224,
+            "date": "2016-02-29T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612764,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "home_team_score": 116,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "visitor_team_score": 108
+        },
+        {
+            "id": 29281,
+            "date": "2016-03-02T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "home_team_score": 99,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612766,
+                "abbreviation": "CHA",
+                "city": "Charlotte",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Charlotte Hornets",
+                "name": "Hornets"
+            },
+            "visitor_team_score": 119
+        },
+        {
+            "id": 32063,
+            "date": "2016-03-04T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "home_team_score": 102,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 112
+        },
+        {
+            "id": 27576,
+            "date": "2016-03-06T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 103,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "visitor_team_score": 98
+        },
+        {
+            "id": 27581,
+            "date": "2016-03-09T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "home_team_score": 104,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "visitor_team_score": 118
+        },
+        {
+            "id": 29290,
+            "date": "2016-03-11T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "home_team_score": 95,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612751,
+                "abbreviation": "BKN",
+                "city": "Brooklyn",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Brooklyn Nets",
+                "name": "Nets"
+            },
+            "visitor_team_score": 89
+        },
+        {
+            "id": 29293,
+            "date": "2016-03-12T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "home_team_score": 111,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612765,
+                "abbreviation": "DET",
+                "city": "Detroit",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Detroit Pistons",
+                "name": "Pistons"
+            },
+            "visitor_team_score": 125
+        },
+        {
+            "id": 28248,
+            "date": "2016-03-15T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612751,
+                "abbreviation": "BKN",
+                "city": "Brooklyn",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Brooklyn Nets",
+                "name": "Nets"
+            },
+            "home_team_score": 131,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "visitor_team_score": 114
+        },
+        {
+            "id": 30002,
+            "date": "2016-03-17T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "home_team_score": 94,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612764,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "visitor_team_score": 99
+        },
+        {
+            "id": 28255,
+            "date": "2016-03-18T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "home_team_score": 97,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612760,
+                "abbreviation": "OKC",
+                "city": "Oklahoma City",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Oklahoma City Thunder",
+                "name": "Thunder"
+            },
+            "visitor_team_score": 111
+        },
+        {
+            "id": 30011,
+            "date": "2016-03-20T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "home_team_score": 105,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612738,
+                "abbreviation": "BOS",
+                "city": "Boston",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Boston Celtics",
+                "name": "Celtics"
+            },
+            "visitor_team_score": 120
+        },
+        {
+            "id": 29315,
+            "date": "2016-03-21T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612754,
+                "abbreviation": "IND",
+                "city": "Indiana",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Indiana Pacers",
+                "name": "Pacers"
+            },
+            "home_team_score": 91,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "visitor_team_score": 75
+        },
+        {
+            "id": 29323,
+            "date": "2016-03-23T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612743,
+                "abbreviation": "DEN",
+                "city": "Denver",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Denver Nuggets",
+                "name": "Nuggets"
+            },
+            "home_team_score": 104,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "visitor_team_score": 103
+        },
+        {
+            "id": 30941,
+            "date": "2016-03-26T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612757,
+                "abbreviation": "POR",
+                "city": "Portland",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Portland Trail Blazers",
+                "name": "Trail Blazers"
+            },
+            "home_team_score": 108,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "visitor_team_score": 105
+        },
+        {
+            "id": 30944,
+            "date": "2016-03-27T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "home_team_score": 117,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "visitor_team_score": 105
+        },
+        {
+            "id": 30951,
+            "date": "2016-03-29T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "home_team_score": 85,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612766,
+                "abbreviation": "CHA",
+                "city": "Charlotte",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Charlotte Hornets",
+                "name": "Hornets"
+            },
+            "visitor_team_score": 100
+        },
+        {
+            "id": 30967,
+            "date": "2016-04-01T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612766,
+                "abbreviation": "CHA",
+                "city": "Charlotte",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Charlotte Hornets",
+                "name": "Hornets"
+            },
+            "home_team_score": 100,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "visitor_team_score": 91
+        },
+        {
+            "id": 30977,
+            "date": "2016-04-02T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "home_team_score": 102,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612754,
+                "abbreviation": "IND",
+                "city": "Indiana",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Indiana Pacers",
+                "name": "Pacers"
+            },
+            "visitor_team_score": 115
+        },
+        {
+            "id": 35643,
+            "date": "2016-04-05T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "home_team_score": 107,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612740,
+                "abbreviation": "NOP",
+                "city": "New Orleans",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "New Orleans Pelicans",
+                "name": "Pelicans"
+            },
+            "visitor_team_score": 93
+        },
+        {
+            "id": 33199,
+            "date": "2016-04-08T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "home_team_score": 102,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612752,
+                "abbreviation": "NYK",
+                "city": "New York",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "New York Knicks",
+                "name": "Knicks"
+            },
+            "visitor_team_score": 109
+        },
+        {
+            "id": 33065,
+            "date": "2016-04-10T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "home_team_score": 108,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612749,
+                "abbreviation": "MIL",
+                "city": "Milwaukee",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Milwaukee Bucks",
+                "name": "Bucks"
+            },
+            "visitor_team_score": 109
+        },
+        {
+            "id": 33067,
+            "date": "2016-04-12T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612761,
+                "abbreviation": "TOR",
+                "city": "Toronto",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Toronto Raptors",
+                "name": "Raptors"
+            },
+            "home_team_score": 122,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "visitor_team_score": 98
+        },
+        {
+            "id": 33474,
+            "date": "2016-04-13T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612741,
+                "abbreviation": "CHI",
+                "city": "Chicago",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Chicago Bulls",
+                "name": "Bulls"
+            },
+            "home_team_score": 115,
+            "period": 4,
+            "postseason": false,
+            "season": 2015,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "visitor_team_score": 105
+        }
+    ]
+}

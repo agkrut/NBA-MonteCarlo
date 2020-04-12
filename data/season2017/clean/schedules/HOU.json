@@ -1,0 +1,2382 @@
+{
+    "games": [
+        {
+            "id": 33873,
+            "date": "2017-10-17T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "home_team_score": 121,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "visitor_team_score": 122
+        },
+        {
+            "id": 35164,
+            "date": "2017-10-18T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612758,
+                "abbreviation": "SAC",
+                "city": "Sacramento",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Sacramento Kings",
+                "name": "Kings"
+            },
+            "home_team_score": 100,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "visitor_team_score": 105
+        },
+        {
+            "id": 34990,
+            "date": "2017-10-21T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "home_team_score": 107,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612742,
+                "abbreviation": "DAL",
+                "city": "Dallas",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Dallas Mavericks",
+                "name": "Mavericks"
+            },
+            "visitor_team_score": 91
+        },
+        {
+            "id": 34731,
+            "date": "2017-10-23T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "home_team_score": 90,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612763,
+                "abbreviation": "MEM",
+                "city": "Memphis",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Memphis Grizzlies",
+                "name": "Grizzlies"
+            },
+            "visitor_team_score": 98
+        },
+        {
+            "id": 35274,
+            "date": "2017-10-25T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "home_team_score": 104,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "visitor_team_score": 105
+        },
+        {
+            "id": 32874,
+            "date": "2017-10-27T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612766,
+                "abbreviation": "CHA",
+                "city": "Charlotte",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Charlotte Hornets",
+                "name": "Hornets"
+            },
+            "home_team_score": 93,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "visitor_team_score": 109
+        },
+        {
+            "id": 34625,
+            "date": "2017-10-28T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612763,
+                "abbreviation": "MEM",
+                "city": "Memphis",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Memphis Grizzlies",
+                "name": "Grizzlies"
+            },
+            "home_team_score": 103,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "visitor_team_score": 89
+        },
+        {
+            "id": 34627,
+            "date": "2017-10-30T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "home_team_score": 107,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "visitor_team_score": 115
+        },
+        {
+            "id": 35174,
+            "date": "2017-11-01T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612752,
+                "abbreviation": "NYK",
+                "city": "New York",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "New York Knicks",
+                "name": "Knicks"
+            },
+            "home_team_score": 97,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "visitor_team_score": 119
+        },
+        {
+            "id": 34738,
+            "date": "2017-11-03T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612737,
+                "abbreviation": "ATL",
+                "city": "Atlanta",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Atlanta Hawks",
+                "name": "Hawks"
+            },
+            "home_team_score": 104,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "visitor_team_score": 119
+        },
+        {
+            "id": 35005,
+            "date": "2017-11-05T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "home_team_score": 137,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612762,
+                "abbreviation": "UTA",
+                "city": "Utah",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Utah Jazz",
+                "name": "Jazz"
+            },
+            "visitor_team_score": 110
+        },
+        {
+            "id": 35285,
+            "date": "2017-11-09T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "home_team_score": 117,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612739,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 113
+        },
+        {
+            "id": 35010,
+            "date": "2017-11-11T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "home_team_score": 111,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612763,
+                "abbreviation": "MEM",
+                "city": "Memphis",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Memphis Grizzlies",
+                "name": "Grizzlies"
+            },
+            "visitor_team_score": 96
+        },
+        {
+            "id": 35011,
+            "date": "2017-11-12T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612754,
+                "abbreviation": "IND",
+                "city": "Indiana",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Indiana Pacers",
+                "name": "Pacers"
+            },
+            "home_team_score": 95,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "visitor_team_score": 118
+        },
+        {
+            "id": 32886,
+            "date": "2017-11-14T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "home_team_score": 113,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612761,
+                "abbreviation": "TOR",
+                "city": "Toronto",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Toronto Raptors",
+                "name": "Raptors"
+            },
+            "visitor_team_score": 129
+        },
+        {
+            "id": 35445,
+            "date": "2017-11-16T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612756,
+                "abbreviation": "PHX",
+                "city": "Phoenix",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Phoenix Suns",
+                "name": "Suns"
+            },
+            "home_team_score": 116,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "visitor_team_score": 142
+        },
+        {
+            "id": 33141,
+            "date": "2017-11-18T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612763,
+                "abbreviation": "MEM",
+                "city": "Memphis",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Memphis Grizzlies",
+                "name": "Grizzlies"
+            },
+            "home_team_score": 83,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "visitor_team_score": 105
+        },
+        {
+            "id": 32891,
+            "date": "2017-11-22T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "home_team_score": 125,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612743,
+                "abbreviation": "DEN",
+                "city": "Denver",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Denver Nuggets",
+                "name": "Nuggets"
+            },
+            "visitor_team_score": 95
+        },
+        {
+            "id": 35452,
+            "date": "2017-11-25T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "home_team_score": 117,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612752,
+                "abbreviation": "NYK",
+                "city": "New York",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "New York Knicks",
+                "name": "Knicks"
+            },
+            "visitor_team_score": 102
+        },
+        {
+            "id": 32986,
+            "date": "2017-11-27T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "home_team_score": 117,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612751,
+                "abbreviation": "BKN",
+                "city": "Brooklyn",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Brooklyn Nets",
+                "name": "Nets"
+            },
+            "visitor_team_score": 103
+        },
+        {
+            "id": 34645,
+            "date": "2017-11-29T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "home_team_score": 118,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612754,
+                "abbreviation": "IND",
+                "city": "Indiana",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Indiana Pacers",
+                "name": "Pacers"
+            },
+            "visitor_team_score": 97
+        },
+        {
+            "id": 34649,
+            "date": "2017-12-03T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612747,
+                "abbreviation": "LAL",
+                "city": "Los Angeles",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Los Angeles Lakers",
+                "name": "Lakers"
+            },
+            "home_team_score": 95,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "visitor_team_score": 118
+        },
+        {
+            "id": 35030,
+            "date": "2017-12-07T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612762,
+                "abbreviation": "UTA",
+                "city": "Utah",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Utah Jazz",
+                "name": "Jazz"
+            },
+            "home_team_score": 101,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "visitor_team_score": 112
+        },
+        {
+            "id": 33674,
+            "date": "2017-12-09T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612757,
+                "abbreviation": "POR",
+                "city": "Portland",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Portland Trail Blazers",
+                "name": "Trail Blazers"
+            },
+            "home_team_score": 117,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "visitor_team_score": 124
+        },
+        {
+            "id": 34656,
+            "date": "2017-12-11T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "home_team_score": 130,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612740,
+                "abbreviation": "NOP",
+                "city": "New Orleans",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "New Orleans Pelicans",
+                "name": "Pelicans"
+            },
+            "visitor_team_score": 123
+        },
+        {
+            "id": 33566,
+            "date": "2017-12-13T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "home_team_score": 108,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612766,
+                "abbreviation": "CHA",
+                "city": "Charlotte",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Charlotte Hornets",
+                "name": "Hornets"
+            },
+            "visitor_team_score": 96
+        },
+        {
+            "id": 35467,
+            "date": "2017-12-15T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "home_team_score": 124,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612759,
+                "abbreviation": "SAS",
+                "city": "San Antonio",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "San Antonio Spurs",
+                "name": "Spurs"
+            },
+            "visitor_team_score": 109
+        },
+        {
+            "id": 33680,
+            "date": "2017-12-16T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "home_team_score": 115,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612749,
+                "abbreviation": "MIL",
+                "city": "Milwaukee",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Milwaukee Bucks",
+                "name": "Bucks"
+            },
+            "visitor_team_score": 111
+        },
+        {
+            "id": 32911,
+            "date": "2017-12-18T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "home_team_score": 120,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612762,
+                "abbreviation": "UTA",
+                "city": "Utah",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Utah Jazz",
+                "name": "Jazz"
+            },
+            "visitor_team_score": 99
+        },
+        {
+            "id": 33683,
+            "date": "2017-12-20T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "home_team_score": 116,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612747,
+                "abbreviation": "LAL",
+                "city": "Los Angeles",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Los Angeles Lakers",
+                "name": "Lakers"
+            },
+            "visitor_team_score": 122
+        },
+        {
+            "id": 32914,
+            "date": "2017-12-22T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "home_team_score": 118,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612746,
+                "abbreviation": "LAC",
+                "city": "LA",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "LA Clippers",
+                "name": "Clippers"
+            },
+            "visitor_team_score": 128
+        },
+        {
+            "id": 33575,
+            "date": "2017-12-25T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612760,
+                "abbreviation": "OKC",
+                "city": "Oklahoma City",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Oklahoma City Thunder",
+                "name": "Thunder"
+            },
+            "home_team_score": 112,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "visitor_team_score": 107
+        },
+        {
+            "id": 35316,
+            "date": "2017-12-28T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612738,
+                "abbreviation": "BOS",
+                "city": "Boston",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Boston Celtics",
+                "name": "Celtics"
+            },
+            "home_team_score": 99,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "visitor_team_score": 98
+        },
+        {
+            "id": 33465,
+            "date": "2017-12-29T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612764,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "home_team_score": 121,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "visitor_team_score": 103
+        },
+        {
+            "id": 34675,
+            "date": "2017-12-31T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "home_team_score": 148,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612747,
+                "abbreviation": "LAL",
+                "city": "Los Angeles",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Los Angeles Lakers",
+                "name": "Lakers"
+            },
+            "visitor_team_score": 142
+        },
+        {
+            "id": 33584,
+            "date": "2018-01-03T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612753,
+                "abbreviation": "ORL",
+                "city": "Orlando",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Orlando Magic",
+                "name": "Magic"
+            },
+            "home_team_score": 98,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "visitor_team_score": 116
+        },
+        {
+            "id": 34319,
+            "date": "2018-01-04T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "home_team_score": 114,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 124
+        },
+        {
+            "id": 35322,
+            "date": "2018-01-06T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612765,
+                "abbreviation": "DET",
+                "city": "Detroit",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Detroit Pistons",
+                "name": "Pistons"
+            },
+            "home_team_score": 108,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "visitor_team_score": 101
+        },
+        {
+            "id": 35489,
+            "date": "2018-01-08T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612741,
+                "abbreviation": "CHI",
+                "city": "Chicago",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Chicago Bulls",
+                "name": "Bulls"
+            },
+            "home_team_score": 107,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "visitor_team_score": 116
+        },
+        {
+            "id": 35490,
+            "date": "2018-01-10T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "home_team_score": 121,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612757,
+                "abbreviation": "POR",
+                "city": "Portland",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Portland Trail Blazers",
+                "name": "Trail Blazers"
+            },
+            "visitor_team_score": 112
+        },
+        {
+            "id": 34325,
+            "date": "2018-01-12T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612756,
+                "abbreviation": "PHX",
+                "city": "Phoenix",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Phoenix Suns",
+                "name": "Suns"
+            },
+            "home_team_score": 95,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "visitor_team_score": 112
+        },
+        {
+            "id": 34329,
+            "date": "2018-01-15T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612746,
+                "abbreviation": "LAC",
+                "city": "LA",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "LA Clippers",
+                "name": "Clippers"
+            },
+            "home_team_score": 113,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "visitor_team_score": 102
+        },
+        {
+            "id": 34890,
+            "date": "2018-01-18T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "home_team_score": 116,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612750,
+                "abbreviation": "MIN",
+                "city": "Minnesota",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Minnesota Timberwolves",
+                "name": "Timberwolves"
+            },
+            "visitor_team_score": 98
+        },
+        {
+            "id": 35338,
+            "date": "2018-01-20T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "home_team_score": 116,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 108
+        },
+        {
+            "id": 35343,
+            "date": "2018-01-22T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "home_team_score": 99,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 90
+        },
+        {
+            "id": 33189,
+            "date": "2018-01-24T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612742,
+                "abbreviation": "DAL",
+                "city": "Dallas",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Dallas Mavericks",
+                "name": "Mavericks"
+            },
+            "home_team_score": 97,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "visitor_team_score": 104
+        },
+        {
+            "id": 35349,
+            "date": "2018-01-26T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612740,
+                "abbreviation": "NOP",
+                "city": "New Orleans",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "New Orleans Pelicans",
+                "name": "Pelicans"
+            },
+            "home_team_score": 115,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "visitor_team_score": 113
+        },
+        {
+            "id": 35499,
+            "date": "2018-01-28T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "home_team_score": 113,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612756,
+                "abbreviation": "PHX",
+                "city": "Phoenix",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Phoenix Suns",
+                "name": "Suns"
+            },
+            "visitor_team_score": 102
+        },
+        {
+            "id": 34254,
+            "date": "2018-01-30T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "home_team_score": 114,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612753,
+                "abbreviation": "ORL",
+                "city": "Orlando",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Orlando Magic",
+                "name": "Magic"
+            },
+            "visitor_team_score": 107
+        },
+        {
+            "id": 34774,
+            "date": "2018-02-01T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612759,
+                "abbreviation": "SAS",
+                "city": "San Antonio",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "San Antonio Spurs",
+                "name": "Spurs"
+            },
+            "home_team_score": 91,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "visitor_team_score": 102
+        },
+        {
+            "id": 34344,
+            "date": "2018-02-03T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612739,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "home_team_score": 88,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "visitor_team_score": 120
+        },
+        {
+            "id": 34779,
+            "date": "2018-02-06T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612751,
+                "abbreviation": "BKN",
+                "city": "Brooklyn",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Brooklyn Nets",
+                "name": "Nets"
+            },
+            "home_team_score": 113,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "visitor_team_score": 123
+        },
+        {
+            "id": 34260,
+            "date": "2018-02-07T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 101,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "visitor_team_score": 109
+        },
+        {
+            "id": 34350,
+            "date": "2018-02-09T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "home_team_score": 130,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612743,
+                "abbreviation": "DEN",
+                "city": "Denver",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Denver Nuggets",
+                "name": "Nuggets"
+            },
+            "visitor_team_score": 104
+        },
+        {
+            "id": 32999,
+            "date": "2018-02-11T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "home_team_score": 104,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612742,
+                "abbreviation": "DAL",
+                "city": "Dallas",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Dallas Mavericks",
+                "name": "Mavericks"
+            },
+            "visitor_team_score": 97
+        },
+        {
+            "id": 33001,
+            "date": "2018-02-13T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612750,
+                "abbreviation": "MIN",
+                "city": "Minnesota",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Minnesota Timberwolves",
+                "name": "Timberwolves"
+            },
+            "home_team_score": 108,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "visitor_team_score": 126
+        },
+        {
+            "id": 34783,
+            "date": "2018-02-14T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "home_team_score": 100,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612758,
+                "abbreviation": "SAC",
+                "city": "Sacramento",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Sacramento Kings",
+                "name": "Kings"
+            },
+            "visitor_team_score": 91
+        },
+        {
+            "id": 35065,
+            "date": "2018-02-23T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "home_team_score": 120,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612750,
+                "abbreviation": "MIN",
+                "city": "Minnesota",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Minnesota Timberwolves",
+                "name": "Timberwolves"
+            },
+            "visitor_team_score": 102
+        },
+        {
+            "id": 35599,
+            "date": "2018-02-25T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612743,
+                "abbreviation": "DEN",
+                "city": "Denver",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Denver Nuggets",
+                "name": "Nuggets"
+            },
+            "home_team_score": 114,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "visitor_team_score": 119
+        },
+        {
+            "id": 34360,
+            "date": "2018-02-26T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612762,
+                "abbreviation": "UTA",
+                "city": "Utah",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Utah Jazz",
+                "name": "Jazz"
+            },
+            "home_team_score": 85,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "visitor_team_score": 96
+        },
+        {
+            "id": 33007,
+            "date": "2018-02-28T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612746,
+                "abbreviation": "LAC",
+                "city": "LA",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "LA Clippers",
+                "name": "Clippers"
+            },
+            "home_team_score": 92,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "visitor_team_score": 105
+        },
+        {
+            "id": 33598,
+            "date": "2018-03-03T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "home_team_score": 123,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612738,
+                "abbreviation": "BOS",
+                "city": "Boston",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Boston Celtics",
+                "name": "Celtics"
+            },
+            "visitor_team_score": 120
+        },
+        {
+            "id": 34367,
+            "date": "2018-03-06T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612760,
+                "abbreviation": "OKC",
+                "city": "Oklahoma City",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Oklahoma City Thunder",
+                "name": "Thunder"
+            },
+            "home_team_score": 112,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "visitor_team_score": 122
+        },
+        {
+            "id": 34368,
+            "date": "2018-03-07T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612749,
+                "abbreviation": "MIL",
+                "city": "Milwaukee",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Milwaukee Bucks",
+                "name": "Bucks"
+            },
+            "home_team_score": 99,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "visitor_team_score": 110
+        },
+        {
+            "id": 34912,
+            "date": "2018-03-09T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612761,
+                "abbreviation": "TOR",
+                "city": "Toronto",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Toronto Raptors",
+                "name": "Raptors"
+            },
+            "home_team_score": 108,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "visitor_team_score": 105
+        },
+        {
+            "id": 33256,
+            "date": "2018-03-11T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612742,
+                "abbreviation": "DAL",
+                "city": "Dallas",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Dallas Mavericks",
+                "name": "Mavericks"
+            },
+            "home_team_score": 82,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "visitor_team_score": 105
+        },
+        {
+            "id": 33701,
+            "date": "2018-03-12T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "home_team_score": 109,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612759,
+                "abbreviation": "SAS",
+                "city": "San Antonio",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "San Antonio Spurs",
+                "name": "Spurs"
+            },
+            "visitor_team_score": 93
+        },
+        {
+            "id": 34377,
+            "date": "2018-03-15T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "home_team_score": 101,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612746,
+                "abbreviation": "LAC",
+                "city": "LA",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "LA Clippers",
+                "name": "Clippers"
+            },
+            "visitor_team_score": 96
+        },
+        {
+            "id": 33260,
+            "date": "2018-03-17T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612740,
+                "abbreviation": "NOP",
+                "city": "New Orleans",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "New Orleans Pelicans",
+                "name": "Pelicans"
+            },
+            "home_team_score": 101,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "visitor_team_score": 107
+        },
+        {
+            "id": 35086,
+            "date": "2018-03-18T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612750,
+                "abbreviation": "MIN",
+                "city": "Minnesota",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Minnesota Timberwolves",
+                "name": "Timberwolves"
+            },
+            "home_team_score": 120,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "visitor_team_score": 129
+        },
+        {
+            "id": 34924,
+            "date": "2018-03-20T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612757,
+                "abbreviation": "POR",
+                "city": "Portland",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Portland Trail Blazers",
+                "name": "Trail Blazers"
+            },
+            "home_team_score": 111,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "visitor_team_score": 115
+        },
+        {
+            "id": 35092,
+            "date": "2018-03-22T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "home_team_score": 100,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612765,
+                "abbreviation": "DET",
+                "city": "Detroit",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Detroit Pistons",
+                "name": "Pistons"
+            },
+            "visitor_team_score": 96
+        },
+        {
+            "id": 34520,
+            "date": "2018-03-24T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "home_team_score": 114,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612740,
+                "abbreviation": "NOP",
+                "city": "New Orleans",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "New Orleans Pelicans",
+                "name": "Pelicans"
+            },
+            "visitor_team_score": 91
+        },
+        {
+            "id": 34934,
+            "date": "2018-03-25T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "home_team_score": 118,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612737,
+                "abbreviation": "ATL",
+                "city": "Atlanta",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Atlanta Hawks",
+                "name": "Hawks"
+            },
+            "visitor_team_score": 99
+        },
+        {
+            "id": 34937,
+            "date": "2018-03-27T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "home_team_score": 118,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612741,
+                "abbreviation": "CHI",
+                "city": "Chicago",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Chicago Bulls",
+                "name": "Bulls"
+            },
+            "visitor_team_score": 86
+        },
+        {
+            "id": 34942,
+            "date": "2018-03-30T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "home_team_score": 104,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612756,
+                "abbreviation": "PHX",
+                "city": "Phoenix",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Phoenix Suns",
+                "name": "Suns"
+            },
+            "visitor_team_score": 103
+        },
+        {
+            "id": 35623,
+            "date": "2018-04-01T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612759,
+                "abbreviation": "SAS",
+                "city": "San Antonio",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "San Antonio Spurs",
+                "name": "Spurs"
+            },
+            "home_team_score": 100,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "visitor_team_score": 83
+        },
+        {
+            "id": 34531,
+            "date": "2018-04-03T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "home_team_score": 120,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612764,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "visitor_team_score": 104
+        },
+        {
+            "id": 34399,
+            "date": "2018-04-05T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "home_team_score": 96,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612757,
+                "abbreviation": "POR",
+                "city": "Portland",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Portland Trail Blazers",
+                "name": "Trail Blazers"
+            },
+            "visitor_team_score": 94
+        },
+        {
+            "id": 34951,
+            "date": "2018-04-07T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "home_team_score": 102,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612760,
+                "abbreviation": "OKC",
+                "city": "Oklahoma City",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Oklahoma City Thunder",
+                "name": "Thunder"
+            },
+            "visitor_team_score": 108
+        },
+        {
+            "id": 33278,
+            "date": "2018-04-10T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612747,
+                "abbreviation": "LAL",
+                "city": "Los Angeles",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Los Angeles Lakers",
+                "name": "Lakers"
+            },
+            "home_team_score": 99,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "visitor_team_score": 105
+        },
+        {
+            "id": 34960,
+            "date": "2018-04-11T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612758,
+                "abbreviation": "SAC",
+                "city": "Sacramento",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Sacramento Kings",
+                "name": "Kings"
+            },
+            "home_team_score": 96,
+            "period": 4,
+            "postseason": false,
+            "season": 2017,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "visitor_team_score": 83
+        }
+    ]
+}

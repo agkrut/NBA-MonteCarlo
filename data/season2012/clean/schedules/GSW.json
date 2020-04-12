@@ -1,0 +1,2382 @@
+{
+    "games": [
+        {
+            "id": 30709,
+            "date": "2012-10-31T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612756,
+                "abbreviation": "PHX",
+                "city": "Phoenix",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Phoenix Suns",
+                "name": "Suns"
+            },
+            "home_team_score": 85,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 87
+        },
+        {
+            "id": 30846,
+            "date": "2012-11-02T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "home_team_score": 94,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612763,
+                "abbreviation": "MEM",
+                "city": "Memphis",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Memphis Grizzlies",
+                "name": "Grizzlies"
+            },
+            "visitor_team_score": 104
+        },
+        {
+            "id": 30981,
+            "date": "2012-11-03T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612746,
+                "abbreviation": "LAC",
+                "city": "LA",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "LA Clippers",
+                "name": "Clippers"
+            },
+            "home_team_score": 110,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 114
+        },
+        {
+            "id": 30077,
+            "date": "2012-11-05T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612758,
+                "abbreviation": "SAC",
+                "city": "Sacramento",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Sacramento Kings",
+                "name": "Kings"
+            },
+            "home_team_score": 94,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 92
+        },
+        {
+            "id": 30716,
+            "date": "2012-11-07T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "home_team_score": 106,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612739,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "visitor_team_score": 96
+        },
+        {
+            "id": 30080,
+            "date": "2012-11-09T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612747,
+                "abbreviation": "LAL",
+                "city": "Los Angeles",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Los Angeles Lakers",
+                "name": "Lakers"
+            },
+            "home_team_score": 101,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 77
+        },
+        {
+            "id": 30850,
+            "date": "2012-11-10T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "home_team_score": 101,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612743,
+                "abbreviation": "DEN",
+                "city": "Denver",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Denver Nuggets",
+                "name": "Nuggets"
+            },
+            "visitor_team_score": 107
+        },
+        {
+            "id": 31667,
+            "date": "2012-11-14T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "home_team_score": 92,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612737,
+                "abbreviation": "ATL",
+                "city": "Atlanta",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Atlanta Hawks",
+                "name": "Hawks"
+            },
+            "visitor_team_score": 88
+        },
+        {
+            "id": 31262,
+            "date": "2012-11-16T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612750,
+                "abbreviation": "MIN",
+                "city": "Minnesota",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Minnesota Timberwolves",
+                "name": "Timberwolves"
+            },
+            "home_team_score": 98,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 106
+        },
+        {
+            "id": 31127,
+            "date": "2012-11-18T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612760,
+                "abbreviation": "OKC",
+                "city": "Oklahoma City",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Oklahoma City Thunder",
+                "name": "Thunder"
+            },
+            "home_team_score": 119,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 109
+        },
+        {
+            "id": 30086,
+            "date": "2012-11-19T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612742,
+                "abbreviation": "DAL",
+                "city": "Dallas",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Dallas Mavericks",
+                "name": "Mavericks"
+            },
+            "home_team_score": 101,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 105
+        },
+        {
+            "id": 31802,
+            "date": "2012-11-21T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "home_team_score": 102,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612751,
+                "abbreviation": "BKN",
+                "city": "Brooklyn",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Brooklyn Nets",
+                "name": "Nets"
+            },
+            "visitor_team_score": 93
+        },
+        {
+            "id": 30729,
+            "date": "2012-11-23T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612743,
+                "abbreviation": "DEN",
+                "city": "Denver",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Denver Nuggets",
+                "name": "Nuggets"
+            },
+            "home_team_score": 102,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 91
+        },
+        {
+            "id": 30633,
+            "date": "2012-11-24T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "home_team_score": 96,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612750,
+                "abbreviation": "MIN",
+                "city": "Minnesota",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Minnesota Timberwolves",
+                "name": "Timberwolves"
+            },
+            "visitor_team_score": 85
+        },
+        {
+            "id": 32339,
+            "date": "2012-11-29T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "home_team_score": 106,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612743,
+                "abbreviation": "DEN",
+                "city": "Denver",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Denver Nuggets",
+                "name": "Nuggets"
+            },
+            "visitor_team_score": 105
+        },
+        {
+            "id": 31939,
+            "date": "2012-12-01T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "home_team_score": 103,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612754,
+                "abbreviation": "IND",
+                "city": "Indiana",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Indiana Pacers",
+                "name": "Pacers"
+            },
+            "visitor_team_score": 92
+        },
+        {
+            "id": 31275,
+            "date": "2012-12-03T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "home_team_score": 94,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612753,
+                "abbreviation": "ORL",
+                "city": "Orlando",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Orlando Magic",
+                "name": "Magic"
+            },
+            "visitor_team_score": 102
+        },
+        {
+            "id": 31277,
+            "date": "2012-12-05T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612765,
+                "abbreviation": "DET",
+                "city": "Detroit",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Detroit Pistons",
+                "name": "Pistons"
+            },
+            "home_team_score": 97,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 104
+        },
+        {
+            "id": 31944,
+            "date": "2012-12-07T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612751,
+                "abbreviation": "BKN",
+                "city": "Brooklyn",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Brooklyn Nets",
+                "name": "Nets"
+            },
+            "home_team_score": 102,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 109
+        },
+        {
+            "id": 31946,
+            "date": "2012-12-08T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612764,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "home_team_score": 97,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 101
+        },
+        {
+            "id": 31422,
+            "date": "2012-12-10T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612766,
+                "abbreviation": "CHA",
+                "city": "Charlotte",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Charlotte Hornets",
+                "name": "Hornets"
+            },
+            "home_team_score": 96,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 104
+        },
+        {
+            "id": 32213,
+            "date": "2012-12-12T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "home_team_score": 95,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 97
+        },
+        {
+            "id": 31425,
+            "date": "2012-12-14T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612753,
+                "abbreviation": "ORL",
+                "city": "Orlando",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Orlando Magic",
+                "name": "Magic"
+            },
+            "home_team_score": 99,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 85
+        },
+        {
+            "id": 32086,
+            "date": "2012-12-15T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612737,
+                "abbreviation": "ATL",
+                "city": "Atlanta",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Atlanta Hawks",
+                "name": "Hawks"
+            },
+            "home_team_score": 93,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 115
+        },
+        {
+            "id": 31427,
+            "date": "2012-12-18T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "home_team_score": 103,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612740,
+                "abbreviation": "NOP",
+                "city": "New Orleans",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "New Orleans Pelicans",
+                "name": "Pelicans"
+            },
+            "visitor_team_score": 96
+        },
+        {
+            "id": 31155,
+            "date": "2012-12-19T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612758,
+                "abbreviation": "SAC",
+                "city": "Sacramento",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Sacramento Kings",
+                "name": "Kings"
+            },
+            "home_team_score": 131,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 127
+        },
+        {
+            "id": 31953,
+            "date": "2012-12-21T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "home_team_score": 115,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612766,
+                "abbreviation": "CHA",
+                "city": "Charlotte",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Charlotte Hornets",
+                "name": "Hornets"
+            },
+            "visitor_team_score": 100
+        },
+        {
+            "id": 30651,
+            "date": "2012-12-22T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "home_team_score": 115,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612747,
+                "abbreviation": "LAL",
+                "city": "Los Angeles",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Los Angeles Lakers",
+                "name": "Lakers"
+            },
+            "visitor_team_score": 118
+        },
+        {
+            "id": 30654,
+            "date": "2012-12-26T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612762,
+                "abbreviation": "UTA",
+                "city": "Utah",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Utah Jazz",
+                "name": "Jazz"
+            },
+            "home_team_score": 83,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 94
+        },
+        {
+            "id": 32363,
+            "date": "2012-12-28T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "home_team_score": 96,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "visitor_team_score": 89
+        },
+        {
+            "id": 27187,
+            "date": "2012-12-29T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "home_team_score": 101,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612738,
+                "abbreviation": "BOS",
+                "city": "Boston",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Boston Celtics",
+                "name": "Celtics"
+            },
+            "visitor_team_score": 83
+        },
+        {
+            "id": 27194,
+            "date": "2013-01-02T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "home_team_score": 115,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612746,
+                "abbreviation": "LAC",
+                "city": "LA",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "LA Clippers",
+                "name": "Clippers"
+            },
+            "visitor_team_score": 94
+        },
+        {
+            "id": 30764,
+            "date": "2013-01-05T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612746,
+                "abbreviation": "LAC",
+                "city": "LA",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "LA Clippers",
+                "name": "Clippers"
+            },
+            "home_team_score": 115,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 89
+        },
+        {
+            "id": 31304,
+            "date": "2013-01-09T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "home_team_score": 87,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612763,
+                "abbreviation": "MEM",
+                "city": "Memphis",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Memphis Grizzlies",
+                "name": "Grizzlies"
+            },
+            "visitor_team_score": 94
+        },
+        {
+            "id": 32106,
+            "date": "2013-01-11T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "home_team_score": 103,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612757,
+                "abbreviation": "POR",
+                "city": "Portland",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Portland Trail Blazers",
+                "name": "Trail Blazers"
+            },
+            "visitor_team_score": 97
+        },
+        {
+            "id": 32371,
+            "date": "2013-01-13T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612743,
+                "abbreviation": "DEN",
+                "city": "Denver",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Denver Nuggets",
+                "name": "Nuggets"
+            },
+            "home_team_score": 116,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 105
+        },
+        {
+            "id": 32375,
+            "date": "2013-01-16T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "home_team_score": 75,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612748,
+                "abbreviation": "MIA",
+                "city": "Miami",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Miami Heat",
+                "name": "Heat"
+            },
+            "visitor_team_score": 92
+        },
+        {
+            "id": 27220,
+            "date": "2013-01-18T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612759,
+                "abbreviation": "SAS",
+                "city": "San Antonio",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "San Antonio Spurs",
+                "name": "Spurs"
+            },
+            "home_team_score": 95,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 88
+        },
+        {
+            "id": 32378,
+            "date": "2013-01-19T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612740,
+                "abbreviation": "NOP",
+                "city": "New Orleans",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "New Orleans Pelicans",
+                "name": "Pelicans"
+            },
+            "home_team_score": 112,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 116
+        },
+        {
+            "id": 32496,
+            "date": "2013-01-21T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "home_team_score": 106,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612746,
+                "abbreviation": "LAC",
+                "city": "LA",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "LA Clippers",
+                "name": "Clippers"
+            },
+            "visitor_team_score": 99
+        },
+        {
+            "id": 27345,
+            "date": "2013-01-23T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "home_team_score": 104,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612760,
+                "abbreviation": "OKC",
+                "city": "Oklahoma City",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Oklahoma City Thunder",
+                "name": "Thunder"
+            },
+            "visitor_team_score": 99
+        },
+        {
+            "id": 32116,
+            "date": "2013-01-25T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612741,
+                "abbreviation": "CHI",
+                "city": "Chicago",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Chicago Bulls",
+                "name": "Bulls"
+            },
+            "home_team_score": 103,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 87
+        },
+        {
+            "id": 27232,
+            "date": "2013-01-26T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612749,
+                "abbreviation": "MIL",
+                "city": "Milwaukee",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Milwaukee Bucks",
+                "name": "Bucks"
+            },
+            "home_team_score": 109,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 102
+        },
+        {
+            "id": 27349,
+            "date": "2013-01-28T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612761,
+                "abbreviation": "TOR",
+                "city": "Toronto",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Toronto Raptors",
+                "name": "Raptors"
+            },
+            "home_team_score": 102,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 114
+        },
+        {
+            "id": 32385,
+            "date": "2013-01-29T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612739,
+                "abbreviation": "CLE",
+                "city": "Cleveland",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Cleveland Cavaliers",
+                "name": "Cavaliers"
+            },
+            "home_team_score": 95,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 108
+        },
+        {
+            "id": 27886,
+            "date": "2013-01-31T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "home_team_score": 100,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612742,
+                "abbreviation": "DAL",
+                "city": "Dallas",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Dallas Mavericks",
+                "name": "Mavericks"
+            },
+            "visitor_team_score": 97
+        },
+        {
+            "id": 31324,
+            "date": "2013-02-02T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "home_team_score": 113,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612756,
+                "abbreviation": "PHX",
+                "city": "Phoenix",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Phoenix Suns",
+                "name": "Suns"
+            },
+            "visitor_team_score": 93
+        },
+        {
+            "id": 32255,
+            "date": "2013-02-05T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "home_team_score": 140,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 109
+        },
+        {
+            "id": 27608,
+            "date": "2013-02-06T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612760,
+                "abbreviation": "OKC",
+                "city": "Oklahoma City",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Oklahoma City Thunder",
+                "name": "Thunder"
+            },
+            "home_team_score": 119,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 98
+        },
+        {
+            "id": 27497,
+            "date": "2013-02-08T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612763,
+                "abbreviation": "MEM",
+                "city": "Memphis",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Memphis Grizzlies",
+                "name": "Grizzlies"
+            },
+            "home_team_score": 99,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 93
+        },
+        {
+            "id": 27892,
+            "date": "2013-02-09T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612742,
+                "abbreviation": "DAL",
+                "city": "Dallas",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Dallas Mavericks",
+                "name": "Mavericks"
+            },
+            "home_team_score": 116,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 91
+        },
+        {
+            "id": 27895,
+            "date": "2013-02-12T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "home_team_score": 107,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "visitor_team_score": 116
+        },
+        {
+            "id": 28274,
+            "date": "2013-02-19T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612762,
+                "abbreviation": "UTA",
+                "city": "Utah",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Utah Jazz",
+                "name": "Jazz"
+            },
+            "home_team_score": 115,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 101
+        },
+        {
+            "id": 31342,
+            "date": "2013-02-20T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "home_team_score": 108,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612756,
+                "abbreviation": "PHX",
+                "city": "Phoenix",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Phoenix Suns",
+                "name": "Suns"
+            },
+            "visitor_team_score": 98
+        },
+        {
+            "id": 29108,
+            "date": "2013-02-22T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "home_team_score": 107,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612759,
+                "abbreviation": "SAS",
+                "city": "San Antonio",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "San Antonio Spurs",
+                "name": "Spurs"
+            },
+            "visitor_team_score": 101
+        },
+        {
+            "id": 28808,
+            "date": "2013-02-24T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612750,
+                "abbreviation": "MIN",
+                "city": "Minnesota",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Minnesota Timberwolves",
+                "name": "Timberwolves"
+            },
+            "home_team_score": 99,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 100
+        },
+        {
+            "id": 31349,
+            "date": "2013-02-26T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612754,
+                "abbreviation": "IND",
+                "city": "Indiana",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Indiana Pacers",
+                "name": "Pacers"
+            },
+            "home_team_score": 108,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 97
+        },
+        {
+            "id": 28281,
+            "date": "2013-02-27T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612752,
+                "abbreviation": "NYK",
+                "city": "New York",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "New York Knicks",
+                "name": "Knicks"
+            },
+            "home_team_score": 109,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 105
+        },
+        {
+            "id": 28812,
+            "date": "2013-03-01T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612738,
+                "abbreviation": "BOS",
+                "city": "Boston",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Boston Celtics",
+                "name": "Celtics"
+            },
+            "home_team_score": 94,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 86
+        },
+        {
+            "id": 31353,
+            "date": "2013-03-02T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612755,
+                "abbreviation": "PHI",
+                "city": "Philadelphia",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Philadelphia 76ers",
+                "name": "76ers"
+            },
+            "home_team_score": 104,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 97
+        },
+        {
+            "id": 28696,
+            "date": "2013-03-04T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "home_team_score": 125,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612761,
+                "abbreviation": "TOR",
+                "city": "Toronto",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "Toronto Raptors",
+                "name": "Raptors"
+            },
+            "visitor_team_score": 118
+        },
+        {
+            "id": 29118,
+            "date": "2013-03-06T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "home_team_score": 87,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612758,
+                "abbreviation": "SAC",
+                "city": "Sacramento",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Sacramento Kings",
+                "name": "Kings"
+            },
+            "visitor_team_score": 83
+        },
+        {
+            "id": 28954,
+            "date": "2013-03-08T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "home_team_score": 88,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "visitor_team_score": 94
+        },
+        {
+            "id": 29509,
+            "date": "2013-03-09T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "home_team_score": 93,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612749,
+                "abbreviation": "MIL",
+                "city": "Milwaukee",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Milwaukee Bucks",
+                "name": "Bucks"
+            },
+            "visitor_team_score": 103
+        },
+        {
+            "id": 29511,
+            "date": "2013-03-11T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "home_team_score": 92,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612752,
+                "abbreviation": "NYK",
+                "city": "New York",
+                "conference": "East",
+                "division": "Atlantic",
+                "full_name": "New York Knicks",
+                "name": "Knicks"
+            },
+            "visitor_team_score": 63
+        },
+        {
+            "id": 29514,
+            "date": "2013-03-13T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "home_team_score": 105,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612765,
+                "abbreviation": "DET",
+                "city": "Detroit",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Detroit Pistons",
+                "name": "Pistons"
+            },
+            "visitor_team_score": 97
+        },
+        {
+            "id": 28711,
+            "date": "2013-03-15T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "home_team_score": 95,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612741,
+                "abbreviation": "CHI",
+                "city": "Chicago",
+                "conference": "East",
+                "division": "Central",
+                "full_name": "Chicago Bulls",
+                "name": "Bulls"
+            },
+            "visitor_team_score": 113
+        },
+        {
+            "id": 28296,
+            "date": "2013-03-17T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612745,
+                "abbreviation": "HOU",
+                "city": "Houston",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "Houston Rockets",
+                "name": "Rockets"
+            },
+            "home_team_score": 78,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 108
+        },
+        {
+            "id": 29640,
+            "date": "2013-03-18T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612740,
+                "abbreviation": "NOP",
+                "city": "New Orleans",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "New Orleans Pelicans",
+                "name": "Pelicans"
+            },
+            "home_team_score": 72,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 93
+        },
+        {
+            "id": 29519,
+            "date": "2013-03-20T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612759,
+                "abbreviation": "SAS",
+                "city": "San Antonio",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "San Antonio Spurs",
+                "name": "Spurs"
+            },
+            "home_team_score": 104,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 93
+        },
+        {
+            "id": 29521,
+            "date": "2013-03-23T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "home_team_score": 101,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612764,
+                "abbreviation": "WAS",
+                "city": "Washington",
+                "conference": "East",
+                "division": "Southeast",
+                "full_name": "Washington Wizards",
+                "name": "Wizards"
+            },
+            "visitor_team_score": 92
+        },
+        {
+            "id": 29132,
+            "date": "2013-03-25T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "home_team_score": 109,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612747,
+                "abbreviation": "LAL",
+                "city": "Los Angeles",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Los Angeles Lakers",
+                "name": "Lakers"
+            },
+            "visitor_team_score": 103
+        },
+        {
+            "id": 28435,
+            "date": "2013-03-27T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "home_team_score": 98,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612758,
+                "abbreviation": "SAC",
+                "city": "Sacramento",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Sacramento Kings",
+                "name": "Kings"
+            },
+            "visitor_team_score": 105
+        },
+        {
+            "id": 29776,
+            "date": "2013-03-30T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "home_team_score": 125,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612757,
+                "abbreviation": "POR",
+                "city": "Portland",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Portland Trail Blazers",
+                "name": "Trail Blazers"
+            },
+            "visitor_team_score": 98
+        },
+        {
+            "id": 29654,
+            "date": "2013-04-03T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "home_team_score": 98,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612740,
+                "abbreviation": "NOP",
+                "city": "New Orleans",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "New Orleans Pelicans",
+                "name": "Pelicans"
+            },
+            "visitor_team_score": 88
+        },
+        {
+            "id": 29140,
+            "date": "2013-04-05T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612756,
+                "abbreviation": "PHX",
+                "city": "Phoenix",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Phoenix Suns",
+                "name": "Suns"
+            },
+            "home_team_score": 107,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 111
+        },
+        {
+            "id": 29143,
+            "date": "2013-04-07T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "home_team_score": 90,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612762,
+                "abbreviation": "UTA",
+                "city": "Utah",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Utah Jazz",
+                "name": "Jazz"
+            },
+            "visitor_team_score": 97
+        },
+        {
+            "id": 28843,
+            "date": "2013-04-09T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "home_team_score": 105,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612750,
+                "abbreviation": "MIN",
+                "city": "Minnesota",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Minnesota Timberwolves",
+                "name": "Timberwolves"
+            },
+            "visitor_team_score": 89
+        },
+        {
+            "id": 28445,
+            "date": "2013-04-11T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "home_team_score": 97,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612760,
+                "abbreviation": "OKC",
+                "city": "Oklahoma City",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Oklahoma City Thunder",
+                "name": "Thunder"
+            },
+            "visitor_team_score": 116
+        },
+        {
+            "id": 28755,
+            "date": "2013-04-12T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612747,
+                "abbreviation": "LAL",
+                "city": "Los Angeles",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Los Angeles Lakers",
+                "name": "Lakers"
+            },
+            "home_team_score": 118,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 116
+        },
+        {
+            "id": 28451,
+            "date": "2013-04-15T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "home_team_score": 116,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612759,
+                "abbreviation": "SAS",
+                "city": "San Antonio",
+                "conference": "West",
+                "division": "Southwest",
+                "full_name": "San Antonio Spurs",
+                "name": "Spurs"
+            },
+            "visitor_team_score": 106
+        },
+        {
+            "id": 29539,
+            "date": "2013-04-17T00:00:00.000Z",
+            "home_team": {
+                "id": 1610612757,
+                "abbreviation": "POR",
+                "city": "Portland",
+                "conference": "West",
+                "division": "Northwest",
+                "full_name": "Portland Trail Blazers",
+                "name": "Trail Blazers"
+            },
+            "home_team_score": 88,
+            "period": 4,
+            "postseason": false,
+            "season": 2012,
+            "status": "Final",
+            "time": " ",
+            "visitor_team": {
+                "id": 1610612744,
+                "abbreviation": "GSW",
+                "city": "Golden State",
+                "conference": "West",
+                "division": "Pacific",
+                "full_name": "Golden State Warriors",
+                "name": "Warriors"
+            },
+            "visitor_team_score": 99
+        }
+    ]
+}
