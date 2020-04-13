@@ -8,7 +8,6 @@ Team::Team(nlohmann::json j) {
     for (auto& s: j["elo"])
         this->rsELO.push_back(s);
 }
-
 Team::~Team() {}
 
 string Team::getCity() {
