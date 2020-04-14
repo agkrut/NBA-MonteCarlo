@@ -11,7 +11,7 @@ using json = nlohmann::json;
 class Season
 {
 public:
-    Season(int year, json eloJSON, json playoffsJSON);
+    Season(int year, json eloJSON);
     ~Season();
     
     int getYear();

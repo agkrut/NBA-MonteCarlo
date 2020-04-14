@@ -1,7 +1,7 @@
 #include <season.hpp>
 #include <iostream>
 
-Season::Season(int year, json eloJSON, json playoffsJSON) {
+Season::Season(int year, json eloJSON) {
     this->year = year;
     for (auto& s: eloJSON) {
         string tricode = s["tricode"];
