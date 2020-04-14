@@ -38,9 +38,15 @@ void deallocateSeasons(vector<Season*>& seasons) {
         delete seasons.at(i);
 }
 
+void deallocatePostseasons(vector<Playoffs*>& playoffs) {
+    for (size_t i = 0; i < playoffs.size(); i++)
+        delete playoffs.at(i);
+}
+
 int main() {
 
     vector<Season*> seasons;
+    vector<Playoffs*> postseasons;
 
     for (int i = FIRST_SEASON; i <= LAST_SEASON; i++) {
         string dir = "../data/season" + std::to_string(i) + "/clean/";
@@ -49,7 +55,11 @@ int main() {
 
         Season* season = new Season(i, eloJSON);
         Playoffs* playoffs = new Playoffs(playoffsJSON, season->getTeams());
+
+        seasons.push_back(season);
+        postseasons.push_back(playoffs);
     }
 
     deallocateSeasons(seasons);
+    deallocatePostseasons(postseasons);
 }
