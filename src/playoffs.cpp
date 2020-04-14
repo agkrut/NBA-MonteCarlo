@@ -1,6 +1,5 @@
 #include <playoffs.hpp>
-    #include <iostream>
-    using namespace std;
+
 Playoffs::Playoffs(json playoffsJSON, map<string,Team*> teams) {
     // Routine to initialize first round
     for (json::iterator it = playoffsJSON.begin(); it != playoffsJSON.end(); ++it) {
