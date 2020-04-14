@@ -39,7 +39,7 @@ Series::Series(int round) {
         this->games.push_back(new SimulatedGame);
 }
 Series::~Series() {
-    for (int i = 0; i < 7; i++)
+    for (int i = 0; i < this->games.size(); i++)
         delete this->games.at(i);
 }
 

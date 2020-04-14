@@ -1,5 +1,6 @@
 #include <playoffs.hpp>
-
+    #include <iostream>
+    using namespace std;
 Playoffs::Playoffs(json playoffsJSON, map<string,Team*> teams) {
     // Routine to initialize first round
     for (json::iterator it = playoffsJSON.begin(); it != playoffsJSON.end(); ++it) {
@@ -72,4 +73,10 @@ Playoffs::Playoffs(json playoffsJSON, map<string,Team*> teams) {
     this->westernConference.back()->setAdvance(this->finals);
 }
 
-Playoffs::Playoffs::~Playoffs() {}
+Playoffs::Playoffs::~Playoffs() {
+    for (size_t i = 0; i < easternConference.size(); i++)
+        delete easternConference.at(i);
+    for (size_t i = 0; i < westernConference.size(); i++)
+        delete westernConference.at(i);
+    delete finals;
+}
