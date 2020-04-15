@@ -1,11 +1,11 @@
 #include <season.hpp>
 
-Season::Season(int year, json eloJSON) {
+Season::Season(int year, json eloJSON, string dataDir) {
     this->year = year;
     
     for (json::iterator it = eloJSON.begin(); it != eloJSON.end(); ++it) {
         string tricode = (string) it.key();
-        this->teams[tricode] = new Team(*it);
+        this->teams[tricode] = new Team(*it, dataDir);
     }
 }
 Season::~Season() {

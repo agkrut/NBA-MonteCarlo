@@ -12,7 +12,7 @@ using json = nlohmann::json;
 class Season
 {
 public:
-    Season(int year, json eloJSON);
+    Season(int year, json eloJSON, string dataDir);
     ~Season();
     
     int getYear();

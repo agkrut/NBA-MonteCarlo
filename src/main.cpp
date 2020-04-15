@@ -51,7 +51,7 @@ int main() {
         json eloJSON = readTeamsJSON(dir, i);
         json playoffsJSON = readPlayoffsJSON(dir, i);
 
-        Season* season = new Season(i, eloJSON);
+        Season* season = new Season(i, eloJSON, dir);
         Playoffs* playoffs = new Playoffs(playoffsJSON, season->getTeams());
 
         seasons.push_back(season);

@@ -150,12 +150,31 @@ void Playoffs::simulateRound3() {
 }
 
 void Playoffs::simulateFinals() {
-    // for now assume west coast won all-star game
-    // therefore west coast has home-court advantage
     pair<int,Team*> ecTeam = this->easternConference.at(6)->getWinnerPair();
     pair<int,Team*> wcTeam = this->westernConference.at(6)->getWinnerPair();
-    this->finals->setHighSeed(wcTeam);
-    this->finals->setLowSeed(ecTeam);
+
+    // ec gets home court advantage based on RS wins
+    if (ecTeam.second->getRsWins() > wcTeam.second->getRsWins()) {
+        this->finals->setHighSeed(ecTeam);
+        this->finals->setLowSeed(wcTeam);        
+    }
+    // wc gets home court advantage based on RS wins
+    else if (ecTeam.second->getRsWins() < wcTeam.second->getRsWins()) {
+        this->finals->setHighSeed(wcTeam);
+        this->finals->setLowSeed(ecTeam);        
+    }
+    // tiebreaker on regular season ELO (not actually what happens)
+    else {
+        if (ecTeam.second->getRsELO() > wcTeam.second->getRsELO()) {
+            this->finals->setHighSeed(ecTeam);
+            this->finals->setLowSeed(wcTeam);        
+        }
+        // wc gets home court advantage based on RS wins
+        else if (ecTeam.second->getRsELO() < wcTeam.second->getRsELO()) {
+            this->finals->setHighSeed(wcTeam);
+            this->finals->setLowSeed(ecTeam);        
+        }
+    }
     this->finals->simulateSeries();
 }
 

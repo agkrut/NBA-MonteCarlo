@@ -143,7 +143,7 @@ void Series::setLowSeed(pair<int,Team*> lowSeed) {
     this->games.at(2)->setHomeTeam(lowSeed.second);
     this->games.at(3)->setHomeTeam(lowSeed.second);
 }
-#include <iostream>
+
 void Series::simulateSeries() {
     // simulate games 1-4
     for (int i = 0; i < 4; i++) {
