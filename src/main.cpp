@@ -7,8 +7,6 @@
 #include <playoffs.hpp>
 
 using std::string;
-using std::cout;
-using std::endl;
 using std::map;
 using json = nlohmann::json;
 
@@ -58,6 +56,8 @@ int main() {
 
         seasons.push_back(season);
         postseasons.push_back(playoffs);
+
+        playoffs->simulate();
     }
 
     deallocateSeasons(seasons);

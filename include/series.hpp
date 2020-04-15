@@ -4,6 +4,9 @@
 #include <team.hpp>
 #include <simgame.hpp>
 #include <vector>
+#include <utility>
+
+using std::pair;
 
 class Series
 {
@@ -42,8 +45,14 @@ public:
     vector<SimulatedGame*> getGames();
     void setGames(vector<SimulatedGame*> games);
 
-    Series* getAdvance();
-    void setAdvance(Series* advance);
+    pair<int,Team*> getWinnerPair();
+    pair<int,Team*> getLoserPair();
+
+    void setHighSeed(pair<int,Team*> highSeed);
+    void setLowSeed(pair<int,Team*> lowSeed);
+
+    void simulateSeries();
+    void initNextRound();
 
 private:
     int round;
@@ -56,7 +65,6 @@ private:
     int highSeedWins;
     int lowSeedWins;
     vector<SimulatedGame*> games;
-    Series* advance;
 };
 
 #endif

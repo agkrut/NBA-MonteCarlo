@@ -2,6 +2,7 @@
 #define SEASON_HPP_
 
 #include <map>
+#include <string>
 #include <team.hpp>
 #include <json.hpp>
 

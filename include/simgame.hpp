@@ -6,7 +6,7 @@
 class SimulatedGame
 {
 public:
-    SimulatedGame(Team* homeTeam, Team* awayTeam);
+    SimulatedGame(Team* homeTeam, Team* roadTeam);
     SimulatedGame();
     ~SimulatedGame();
     
@@ -16,9 +16,19 @@ public:
     Team* getRoadTeam();
     void setRoadTeam(Team* roadTeam);
 
+    Team* getWinner();
+    void setWinner(Team* winner);
+
+    Team* getLoser();
+    void setLoser(Team* loser);
+    
+    void simulateGame();
+
 private:
     Team* homeTeam;
     Team* roadTeam;
+    Team* winner;
+    Team* loser;
 };
 
 #endif

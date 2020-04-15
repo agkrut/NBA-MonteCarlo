@@ -113,10 +113,68 @@ void Series::setGames(vector<SimulatedGame*> games) {
     this->games = games;
 }
 
-Series* Series::getAdvance() {
-    return this->advance;
+pair<int,Team*> Series::getWinnerPair() {
+    if (this->seriesWinner == this->highSeedTeam)
+        return std::make_pair(this->highSeedNum, this->highSeedTeam);
+    else
+        return std::make_pair(this->lowSeedNum, this->lowSeedTeam);
 }
 
-void Series::setAdvance(Series* advance) {
-    this->advance = advance;
+pair<int,Team*> Series::getLoserPair() {
+    if (this->seriesLoser == this->highSeedTeam)
+        return std::make_pair(this->highSeedNum, this->highSeedTeam);
+    else
+        return std::make_pair(this->lowSeedNum, this->lowSeedTeam);    
+}
+
+void Series::setHighSeed(pair<int,Team*> highSeed) {
+    this->highSeedNum = highSeed.first;
+    this->highSeedTeam = highSeed.second;
+    this->games.at(0)->setHomeTeam(highSeed.second);
+    this->games.at(1)->setHomeTeam(highSeed.second);
+    this->games.at(2)->setRoadTeam(highSeed.second);
+    this->games.at(3)->setRoadTeam(highSeed.second);
+}
+void Series::setLowSeed(pair<int,Team*> lowSeed) {
+    this->lowSeedNum = lowSeed.first;
+    this->lowSeedTeam = lowSeed.second;
+    this->games.at(0)->setRoadTeam(lowSeed.second);
+    this->games.at(1)->setRoadTeam(lowSeed.second);
+    this->games.at(2)->setHomeTeam(lowSeed.second);
+    this->games.at(3)->setHomeTeam(lowSeed.second);
+}
+#include <iostream>
+void Series::simulateSeries() {
+    // simulate games 1-4
+    for (int i = 0; i < 4; i++) {
+        SimulatedGame* currGame = this->games.at(i);
+        currGame->simulateGame();
+        if (this->highSeedTeam == currGame->getWinner()) // high seed wins
+            this->highSeedWins++;
+        else // low seed wins
+            this->lowSeedWins++;
+    }
+
+    while (!(this->highSeedWins == 4 || this->lowSeedWins == 4)) {
+        SimulatedGame* nextGame = nullptr;
+        if (this->games.size() == 4 || this->games.size() == 6)
+            nextGame = new SimulatedGame(this->highSeedTeam, this->lowSeedTeam);
+        else
+            nextGame = new SimulatedGame(this->lowSeedTeam, this->highSeedTeam);
+        this->games.push_back(nextGame);
+        nextGame->simulateGame();
+        if (this->highSeedTeam == nextGame->getWinner()) // high seed wins
+            this->highSeedWins++;
+        else // low seed wins
+            this->lowSeedWins++;
+    }
+
+    if (this->highSeedWins == 4) { // high seed wins series
+        this->seriesWinner = this->highSeedTeam;
+        this->seriesLoser = this->lowSeedTeam;
+    }
+    else { // low seed wins series
+        this->seriesWinner = this->lowSeedTeam;
+        this->seriesLoser = this->highSeedTeam;
+    }
 }

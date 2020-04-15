@@ -1,14 +1,18 @@
 #include <season.hpp>
-#include <iostream>
 
 Season::Season(int year, json eloJSON) {
     this->year = year;
-    for (auto& s: eloJSON) {
-        string tricode = s["tricode"];
-        this->teams[tricode] = new Team((json) s);
+    
+    for (json::iterator it = eloJSON.begin(); it != eloJSON.end(); ++it) {
+        string tricode = (string) it.key();
+        this->teams[tricode] = new Team(*it);
     }
 }
-Season::~Season() {}
+Season::~Season() {
+    map<string,Team*>::iterator it = this->teams.begin();
+    for (; it != this->teams.end(); ++it)
+        delete it->second;
+}
 
 int Season::getYear() {
     return this->year;
