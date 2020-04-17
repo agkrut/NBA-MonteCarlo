@@ -9,6 +9,7 @@ Team::Team(json j, string dataDir) {
     this->rsLosses = 0;
     for (auto& s: j["elo"])
         this->rsELO.push_back(s);
+    this->psELO.push_back(this->rsELO.back());
     json sched = this->readScheduleJSON(dataDir)["games"];
     for (json::iterator it = sched.begin(); it != sched.end(); ++it) {
         if ((*it)["home_team_score"] > (*it)["visitor_team_score"]) {
@@ -55,11 +56,11 @@ void Team::setRsELO(vector<double> rsELO) {
     this->rsELO = rsELO;
 }
 
-double Team::getCurrELO() {
-    return this->currELO;
+vector<double> Team::getPsELO() {
+    return this->psELO;
 }
-void Team::setCurrELO(double currELO) {
-    this->currELO = currELO;
+void Team::setPsELO(vector<double> psELO) {
+    this->psELO = psELO;
 }
 
 string Team::getTeamID() {
@@ -90,4 +91,8 @@ json Team::readScheduleJSON(string dir) {
     ss >> scheduleJSON;
     ss.close();
     return scheduleJSON;
+}
+
+void Team::addPsELO(double newElo) {
+    this->psELO.push_back(newElo);
 }

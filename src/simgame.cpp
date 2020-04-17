@@ -43,7 +43,37 @@ void SimulatedGame::setLoser(Team* loser) {
 }
 
 void SimulatedGame::simulateGame() {
-    // for now set home as win and road as loss
-    this->winner = this->homeTeam;
-    this->loser = this->roadTeam;
+    double homeTeamELO = this->homeTeam->getPsELO().back();
+    double roadTeamELO = this->roadTeam->getPsELO().back();
+    double probabilityHomeTeamWins = 1.0 / (1 + pow(10, ((roadTeamELO-homeTeamELO-A)/400)));
+    double probabilityRoadTeamWins = 1.0 / (1 + pow(10, ((homeTeamELO-roadTeamELO+A)/400)));
+
+    std::random_device rd;
+    std::default_random_engine generator(rd()); // rd() provides a random seed
+    std::uniform_real_distribution<double> distribution(0.01, 1.00);
+    
+    int homeTeamWinCnt = 0;
+    int roadTeamWinCnt = 0;
+    for (int i = 0; i < N; i++) {
+        double randNum = distribution(generator);
+        if (randNum <= probabilityHomeTeamWins)
+            homeTeamWinCnt++;
+        else
+            roadTeamWinCnt++;
+    }
+
+    if (homeTeamWinCnt > roadTeamWinCnt) {
+        this->winner = this->homeTeam;
+        this->loser = this->roadTeam;
+        homeTeamELO += K*(1-probabilityHomeTeamWins);
+        roadTeamELO += K*(0-probabilityRoadTeamWins);
+    }
+    else {
+        this->winner = this->roadTeam;
+        this->loser = this->homeTeam;
+        homeTeamELO += K*(0-probabilityHomeTeamWins);
+        roadTeamELO += K*(1-probabilityRoadTeamWins);
+    }
+    this->homeTeam->addPsELO(homeTeamELO);
+    this->roadTeam->addPsELO(roadTeamELO);
 }

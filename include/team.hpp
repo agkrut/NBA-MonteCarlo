@@ -28,8 +28,8 @@ public:
 	vector<double> getRsELO();
 	void setRsELO(vector<double> rsELO);
 
-	double getCurrELO();
-	void setCurrELO(double currELO);
+	vector<double> getPsELO();
+	void setPsELO(vector<double> psELO);
 
 	string getTeamID();
 	void setTeamID(string teamID);
@@ -40,12 +40,14 @@ public:
 	int getRsLosses();
 	void setRsLosses(int rsLosses);
 
+	void addPsELO(double newElo);
+	
 private:
 	string city;
 	string name;
 	string tricode;
 	vector<double> rsELO;
-	double currELO;
+	vector<double> psELO;
 	string teamID;
 	int rsWins;
 	int rsLosses;

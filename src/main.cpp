@@ -9,9 +9,12 @@
 using std::string;
 using std::map;
 using json = nlohmann::json;
+using std::cerr;
+using std::cout;
+using std::endl;
 
 #define FIRST_SEASON 2012
-#define LAST_SEASON  2012
+#define LAST_SEASON  2018
 
 json readTeamsJSON(string dir, int season) {
     string eloPath = dir + "elo.json";
@@ -41,7 +44,22 @@ void deallocatePostseasons(vector<Playoffs*>& playoffs) {
         delete playoffs.at(i);
 }
 
-int main() {
+int K;
+int A;
+int N;
+
+int main(int argc, char** argv) {
+    
+    if (argc < 4) {
+        cerr << "[Error] Need to supply three arguments: ./exec [K] [A] [N]" << endl;
+        exit(-1);
+    }
+    
+    K = atoi(argv[1]);
+    A = atoi(argv[2]);
+    N = atoi(argv[3]);
+
+    cout << "Parameters: K=" << K << " A=" << A << " N=" << N << endl;
 
     vector<Season*> seasons;
     vector<Playoffs*> postseasons;
