@@ -3,10 +3,7 @@
 
 #include <team.hpp>
 #include <random>
-
-// #define N 100001 // Number of MC iterations (must be odd)
-// #define K 30   // ELO weight of each game
-// #define A 20   // Home-court advantage constant
+#include <omp.h>
 
 extern int K;
 extern int A;

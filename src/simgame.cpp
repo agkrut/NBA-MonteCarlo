@@ -96,6 +96,7 @@ void SimulatedGame::setWinTeamSimLosses(int winTeamSimLosses) {
     this->winTeamSimLosses = winTeamSimLosses;
 }
 
+#include <iostream>
 void SimulatedGame::simulateGame() {
     double homeTeamELO = this->homeTeam->getPsELO().back();
     double roadTeamELO = this->roadTeam->getPsELO().back();
@@ -108,12 +109,20 @@ void SimulatedGame::simulateGame() {
     
     int homeTeamWinCnt = 0;
     int roadTeamWinCnt = 0;
+
+    #pragma omp parallel for
     for (int i = 0; i < N; i++) {
         double randNum = distribution(generator);
         if (randNum <= probabilityHomeTeamWins)
-            homeTeamWinCnt++;
+            #pragma omp critical
+            {
+                homeTeamWinCnt++;
+            }
         else
-            roadTeamWinCnt++;
+            #pragma omp critical
+            {
+                roadTeamWinCnt++;
+            }
     }
 
     if (homeTeamWinCnt > roadTeamWinCnt) {
