@@ -14,7 +14,7 @@ using std::cout;
 using std::endl;
 
 #define FIRST_SEASON 2012
-#define LAST_SEASON  2018
+#define LAST_SEASON  2012
 
 json readTeamsJSON(string dir, int season) {
     string eloPath = dir + "elo.json";
@@ -65,7 +65,8 @@ int main(int argc, char** argv) {
     vector<Playoffs*> postseasons;
 
     for (int i = FIRST_SEASON; i <= LAST_SEASON; i++) {
-        string dir = "../data/season" + std::to_string(i) + "/clean/";
+        string year = std::to_string(i);
+        string dir = "../data/season" + year + "/clean/";
         json eloJSON = readTeamsJSON(dir, i);
         json playoffsJSON = readPlayoffsJSON(dir, i);
 
@@ -76,6 +77,7 @@ int main(int argc, char** argv) {
         postseasons.push_back(playoffs);
 
         playoffs->simulate();
+        playoffs->output(year);
     }
 
     deallocateSeasons(seasons);

@@ -5,12 +5,24 @@ SimulatedGame::SimulatedGame(Team* homeTeam, Team* roadTeam) {
     this->roadTeam = roadTeam;
     this->winner = nullptr;
     this->loser = nullptr;
+    this->winTeamOldELO = -1;
+    this->loseTeamOldELO = -1;
+    this->winTeamNewELO = -1;
+    this->loseTeamNewELO = -1;
+    this->winTeamSimWins = 0;
+    this->winTeamSimLosses = 0;
 }
 SimulatedGame::SimulatedGame() {
     this->homeTeam = nullptr;
     this->roadTeam = nullptr;
     this->winner = nullptr;
     this->loser = nullptr;
+    this->winTeamOldELO = -1;
+    this->loseTeamOldELO = -1;
+    this->winTeamNewELO = -1;
+    this->loseTeamNewELO = -1;
+    this->winTeamSimWins = 0;
+    this->winTeamSimLosses = 0;
 }
 SimulatedGame::~SimulatedGame() {}
 
@@ -42,6 +54,48 @@ void SimulatedGame::setLoser(Team* loser) {
     this->loser = loser;
 }
 
+double SimulatedGame::getWinTeamOldELO() {
+    return this->winTeamOldELO;
+}
+void SimulatedGame::setWinTeamOldELO(double winTeamOldELO) {
+    this->winTeamOldELO = winTeamOldELO;
+}
+
+double SimulatedGame::getWinTeamNewELO() {
+    return this->winTeamNewELO;
+}
+void SimulatedGame::setWinTeamNewELO(double winTeamNewELO) {
+    this->winTeamNewELO = winTeamNewELO;
+}
+
+double SimulatedGame::getLoseTeamOldELO() {
+    return this->loseTeamOldELO;
+}
+void SimulatedGame::setLoseTeamOldELO(double loseTeamOldELO) {
+    this->loseTeamOldELO = loseTeamOldELO;
+}
+
+double SimulatedGame::getLoseTeamNewELO() {
+    return this->loseTeamNewELO;
+}
+void SimulatedGame::setLoseTeamNewELO(double loseTeamNewELO) {
+    this->loseTeamNewELO = loseTeamNewELO;
+}
+
+int SimulatedGame::getWinTeamSimWins() {
+    return this->winTeamSimWins;
+}
+void SimulatedGame::setWinTeamSimWins(int winTeamSimWins) {
+    this->winTeamSimWins = winTeamSimWins;
+}
+
+int SimulatedGame::getWinTeamSimLosses() {
+    return this->winTeamSimLosses;
+}
+void SimulatedGame::setWinTeamSimLosses(int winTeamSimLosses) {
+    this->winTeamSimLosses = winTeamSimLosses;
+}
+
 void SimulatedGame::simulateGame() {
     double homeTeamELO = this->homeTeam->getPsELO().back();
     double roadTeamELO = this->roadTeam->getPsELO().back();
@@ -65,14 +119,34 @@ void SimulatedGame::simulateGame() {
     if (homeTeamWinCnt > roadTeamWinCnt) {
         this->winner = this->homeTeam;
         this->loser = this->roadTeam;
+        
+        this->winTeamOldELO = homeTeamELO;
+        this->loseTeamOldELO = roadTeamELO;
+        
         homeTeamELO += K*(1-probabilityHomeTeamWins);
         roadTeamELO += K*(0-probabilityRoadTeamWins);
+        
+        this->winTeamNewELO = homeTeamELO;
+        this->loseTeamNewELO = roadTeamELO;
+
+        this->winTeamSimWins = homeTeamWinCnt;
+        this->winTeamSimLosses = roadTeamWinCnt;
     }
     else {
         this->winner = this->roadTeam;
         this->loser = this->homeTeam;
+
+        this->winTeamOldELO = roadTeamELO;
+        this->loseTeamOldELO = homeTeamELO;
+
         homeTeamELO += K*(0-probabilityHomeTeamWins);
         roadTeamELO += K*(1-probabilityRoadTeamWins);
+
+        this->winTeamNewELO = roadTeamELO;
+        this->loseTeamNewELO = homeTeamELO;
+        
+        this->winTeamSimWins = roadTeamWinCnt;
+        this->winTeamSimLosses = homeTeamWinCnt;
     }
     this->homeTeam->addPsELO(homeTeamELO);
     this->roadTeam->addPsELO(roadTeamELO);

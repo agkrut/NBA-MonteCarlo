@@ -2,10 +2,12 @@
 #define PLAYOFFS_HPP_
 
 #include <series.hpp>
+#include <fstream>
 
 using json = nlohmann::json;
 using std::map;
 using std::string;
+using std::ofstream;
 
 class Playoffs
 {
@@ -20,6 +22,7 @@ public:
     void setEasternConference(vector<Series*> easternConference);
 
     void simulate();
+    void output(string year);
 
 private:
     vector<Series*> westernConference;

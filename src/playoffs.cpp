@@ -184,3 +184,86 @@ void Playoffs::simulate() {
     this->simulateRound3();
     this->simulateFinals();
 }
+
+void Playoffs::output(string year) {
+    char buf[25];
+    snprintf(buf, 25, "sim_%d_%d_%d.csv", K,A,N);
+    string outputPath = "../data/season" + year + "/clean/" + (string) buf;
+    ofstream file(outputPath);
+
+    /*
+        Conf = conference
+        R = round
+        S1 = seed number 1
+        S2 = seed number 2
+        T1 = team1 tricode
+        T2 = team2 tricode
+        G = game number
+        Home = home team tricode
+        Winner = winner tricode
+        WOELO = winner's old elo
+        WNELO = winner's new elo
+        LOELO = loser's old elo
+        LNELO = loser's new elo
+        SIMSW = num sims won by game winner/num sims lost by game loser
+        SIMSL = num sims lost by game winner/num games won by series loser
+    */
+
+    file << "Conf,R,S1,S2,T1,T2,G,Home,Winner,WOELO,WNELO,LOELO,LNELO,SIMSW,SIMSL" << "\n";
+
+    for (size_t i = 0; i < this->easternConference.size(); i++) {
+        Series* s = this->easternConference.at(i);
+        Team* hs = s->getHighSeedTeam();
+        Team* ls = s->getLowSeedTeam();
+        
+        for (size_t j = 0; j < s->getGames().size(); j++) {
+            file << "Eastern," << s->getRound() << ",";
+            file << s->getHighSeedNum() << "," << s->getLowSeedNum() << ",";
+            file << hs->getTricode() << "," << ls->getTricode() << ",";
+            file << j + 1 << ",";
+            SimulatedGame* g = s->getGames().at(j);
+            file << g->getHomeTeam()->getTricode() << ",";
+            file << g->getWinner()->getTricode() << ",";
+            file << g->getWinTeamOldELO() << "," << g->getWinTeamNewELO() << ",";
+            file << g->getLoseTeamOldELO() << "," << g->getLoseTeamNewELO() << ",";
+            file << g->getWinTeamSimWins() << "," << g->getWinTeamSimLosses() << ",";
+            file << "\n";
+        }
+    }
+
+    for (size_t i = 0; i < this->westernConference.size(); i++) {
+        Series* s = this->westernConference.at(i);
+        Team* hs = s->getHighSeedTeam();
+        Team* ls = s->getLowSeedTeam();
+        
+        for (size_t j = 0; j < s->getGames().size(); j++) {
+            file << "Western," << s->getRound() << ",";
+            file << s->getHighSeedNum() << "," << s->getLowSeedNum() << ",";
+            file << hs->getTricode() << "," << ls->getTricode() << ",";
+            file << j + 1 << ",";
+            SimulatedGame* g = s->getGames().at(j);
+            file << g->getHomeTeam()->getTricode() << ",";
+            file << g->getWinner()->getTricode() << ",";
+            file << g->getWinTeamOldELO() << "," << g->getWinTeamNewELO() << ",";
+            file << g->getLoseTeamOldELO() << "," << g->getLoseTeamNewELO() << ",";
+            file << g->getWinTeamSimWins() << "," << g->getWinTeamSimLosses() << ",";
+            file << "\n";
+        }
+    }
+
+    Team* hs = this->finals->getHighSeedTeam();
+    Team* ls = this->finals->getLowSeedTeam();
+    for (size_t i = 0; i < this->finals->getGames().size(); i++) {
+        file << "Western," << this->finals->getRound() << ",";
+        file << this->finals->getHighSeedNum() << "," << this->finals->getLowSeedNum() << ",";
+        file << hs->getTricode() << "," << ls->getTricode() << ",";
+        file << i + 1 << ",";
+        SimulatedGame* g = this->finals->getGames().at(i);
+        file << g->getHomeTeam()->getTricode() << ",";
+        file << g->getWinner()->getTricode() << ",";
+        file << g->getWinTeamOldELO() << "," << g->getWinTeamNewELO() << ",";
+        file << g->getLoseTeamOldELO() << "," << g->getLoseTeamNewELO() << ",";
+        file << g->getWinTeamSimWins() << "," << g->getWinTeamSimLosses() << ",";
+        file << "\n";
+    }
+}

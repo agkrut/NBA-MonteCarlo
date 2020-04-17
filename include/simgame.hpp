@@ -31,6 +31,24 @@ public:
     Team* getLoser();
     void setLoser(Team* loser);
     
+    double getWinTeamOldELO();
+    void setWinTeamOldELO(double winTeamOldELO);
+
+    double getWinTeamNewELO();
+    void setWinTeamNewELO(double winTeamNewELO);
+
+    double getLoseTeamOldELO();
+    void setLoseTeamOldELO(double loseTeamOldELO);
+
+    double getLoseTeamNewELO();
+    void setLoseTeamNewELO(double loseTeamNewELO);
+
+    int getWinTeamSimWins();
+    void setWinTeamSimWins(int winTeamSimWins);
+
+    int getWinTeamSimLosses();
+    void setWinTeamSimLosses(int winTeamSimLosses);
+
     void simulateGame();
 
 private:
@@ -38,6 +56,12 @@ private:
     Team* roadTeam;
     Team* winner;
     Team* loser;
+    double winTeamOldELO;
+    double winTeamNewELO;
+    double loseTeamOldELO;
+    double loseTeamNewELO;
+    int winTeamSimWins;
+    int winTeamSimLosses;
 };
 
 #endif
