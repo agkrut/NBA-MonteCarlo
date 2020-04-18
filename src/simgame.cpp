@@ -112,7 +112,7 @@ void SimulatedGame::simulateGame() {
 
     #pragma omp parallel for
     for (int i = 0; i < N; i++) {
-        double randNum = distribution(generator);
+        double randNum = srand(generator);
         if (randNum <= probabilityHomeTeamWins)
             #pragma omp critical
             {
