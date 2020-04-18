@@ -1,5 +1,6 @@
 #include <simgame.hpp>
 #include <chrono>
+#include "omprng.h"
 using namespace std::chrono; 
 
 
@@ -108,15 +109,14 @@ void SimulatedGame::simulateGame() {
     
     int homeTeamWinCnt = 0;
     int roadTeamWinCnt = 0;
+    omprng myRng;
     // get the start time
     auto start = high_resolution_clock::now(); 
     #pragma omp parallel for
     for (int i = 0; i < N; i++) {
-        std::random_device rd;
-        std::default_random_engine generator(rd()); // rd() provides a random seed
-        std::uniform_real_distribution<double> distribution(0.01, 1.00);
-        double randNum = distribution(generator);
-        //std::cout<<omp_get_thread_num() << ": " << randNum<< std::endl;
+        
+        double randNum = myRng.runif();
+        std::cout<<omp_get_thread_num() << ": " << randNum<< std::endl;
         if (randNum <= probabilityHomeTeamWins)
             #pragma omp critical
             {
