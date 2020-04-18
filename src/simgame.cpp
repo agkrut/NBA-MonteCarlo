@@ -105,8 +105,6 @@ void SimulatedGame::simulateGame() {
     double roadTeamELO = this->roadTeam->getPsELO().back();
     double probabilityHomeTeamWins = 1.0 / (1 + pow(10, ((roadTeamELO-homeTeamELO-A)/400)));
     double probabilityRoadTeamWins = 1.0 / (1 + pow(10, ((homeTeamELO-roadTeamELO+A)/400)));
-
-
     
     int homeTeamWinCnt = 0;
     int roadTeamWinCnt = 0;
