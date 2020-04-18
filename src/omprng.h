@@ -49,7 +49,7 @@ omprng::omprng ()
 
 
 void omprng::fixedSeed (int myInt) {
-	unsigned long mySeed[6] = {myInt, myInt, myInt, myInt, myInt, myInt};
+	unsigned long mySeed[6] = {(unsigned long)myInt, (unsigned long)myInt,(unsigned long) myInt, (unsigned long)myInt,(unsigned long) myInt, (unsigned long)myInt};
 	RngStream::SetPackageSeed(mySeed);
 	nprocs = omp_get_num_procs();
 	myRng = new RngStream[nprocs];
@@ -61,8 +61,8 @@ void omprng::fixedSeed (int myInt) {
 void omprng::randomSeed () {
 	timeval tim;
 	gettimeofday(&tim, NULL);
-	unsigned long int seed[6] = {tim.tv_sec, tim.tv_usec, tim.tv_sec+tim.tv_usec, 
-		abs(tim.tv_sec-tim.tv_usec), abs(tim.tv_usec-tim.tv_sec), 5};
+	unsigned long int seed[6] = {(unsigned long)tim.tv_sec, (unsigned long)tim.tv_usec, (unsigned long)tim.tv_sec+(unsigned long)tim.tv_usec, 
+		(unsigned long)abs(tim.tv_sec-tim.tv_usec),(unsigned long) abs(tim.tv_usec-tim.tv_sec), 5};
 	RngStream::SetPackageSeed(seed);
 }
 
