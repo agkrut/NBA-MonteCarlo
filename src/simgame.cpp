@@ -105,15 +105,6 @@ void SimulatedGame::simulateGame() {
     double roadTeamELO = this->roadTeam->getPsELO().back();
     double probabilityHomeTeamWins = 1.0 / (1 + pow(10, ((roadTeamELO-homeTeamELO-A)/400)));
     double probabilityRoadTeamWins = 1.0 / (1 + pow(10, ((homeTeamELO-roadTeamELO+A)/400)));
-<<<<<<< HEAD
- 
-
-    //start timer
-    std::random_device rd;
-    std::default_random_engine generator(rd()); // rd() provides a random seed
-    std::uniform_real_distribution<double> distribution(0.01, 1.00);
-=======
->>>>>>> chelou
     
     int homeTeamWinCnt = 0;
     int roadTeamWinCnt = 0;
@@ -137,14 +128,10 @@ void SimulatedGame::simulateGame() {
                 roadTeamWinCnt++;
             }
     }
-<<<<<<< HEAD
-    // end timer
-=======
     //stop timing
     auto stop = high_resolution_clock::now();
     auto duration = duration_cast<microseconds>(stop - start); 
     std::cout << duration.count() << " microseconds" << std::endl; 
->>>>>>> chelou
 
     if (homeTeamWinCnt > roadTeamWinCnt) {
         this->winner = this->homeTeam;
