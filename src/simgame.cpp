@@ -112,7 +112,7 @@ void SimulatedGame::simulateGame() {
 
     #pragma omp parallel for
     for (int i = 0; i < N; i++) {
-        double randNum = srand(generator);
+        double randNum = srand(<omp_get_thread_num() * 1000);
         std::cout<<omp_get_thread_num() << ": " << randNum<< endl;
         if (randNum <= probabilityHomeTeamWins)
             #pragma omp critical
