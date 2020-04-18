@@ -47,6 +47,7 @@ public:
     void setWinTeamSimLosses(int winTeamSimLosses);
 
     void simulateGame();
+    void seedThreads();
 
 private:
     Team* homeTeam;

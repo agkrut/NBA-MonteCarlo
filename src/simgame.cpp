@@ -1,6 +1,5 @@
 #include <simgame.hpp>
 #include <chrono>
-#include "omprng.h"
 using namespace std::chrono; 
 
 
@@ -99,6 +98,24 @@ int SimulatedGame::getWinTeamSimLosses() {
 void SimulatedGame::setWinTeamSimLosses(int winTeamSimLosses) {
     this->winTeamSimLosses = winTeamSimLosses;
 }
+unsigned int seeds[1000];
+void SimulatedGame::seedThreads() {
+    int my_thread_id;
+    unsigned int seed;
+    #pragma omp parallel private (seed, my_thread_id)
+    {
+        my_thread_id = omp_get_thread_num();
+        
+        //create seed on thread using current time
+        unsigned int seed = (unsigned) time(NULL);
+        
+        //munge the seed using our thread number so that each thread has its
+        //own unique seed, therefore ensuring it will generate a different set of numbers
+        seeds[my_thread_id] = (seed & 0xFFFFFFF0) | (my_thread_id + 1);
+        
+    }
+}
+  
 
 #include <iostream>
 void SimulatedGame::simulateGame() {
@@ -109,14 +126,18 @@ void SimulatedGame::simulateGame() {
     
     int homeTeamWinCnt = 0;
     int roadTeamWinCnt = 0;
-    omprng myRng;
+    seedThreads();
+    int tid = omp_get_thread_num();   
+    unsigned int seed = seeds[tid];         
+    srand(seed);
+
     // get the start time
     auto start = high_resolution_clock::now(); 
     #pragma omp parallel for
     for (int i = 0; i < N; i++) {
-        
-        double randNum = myRng.runif();
-        std::cout<<omp_get_thread_num() << ": " << randNum<< std::endl;
+
+        double randNum = (rand_r(&seed))%100/(100.00);
+        // std::cout<<omp_get_thread_num() << ": " << randNum<< std::endl;
         if (randNum <= probabilityHomeTeamWins)
             #pragma omp critical
             {
