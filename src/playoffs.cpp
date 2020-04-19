@@ -186,8 +186,8 @@ void Playoffs::simulate() {
 }
 
 void Playoffs::output(string year) {
-    char buf[25];
-    snprintf(buf, 25, "sim_%d_%d_%d.csv", K,A,N);
+    char buf[30];
+    snprintf(buf, 30, "sim_%d_%d_%d_%d.csv", K,A,N,T);
     string outputPath = "../data/season" + year + "/clean/" + (string) buf;
     ofstream file(outputPath);
 
@@ -207,9 +207,10 @@ void Playoffs::output(string year) {
         LNELO = loser's new elo
         SIMSW = num sims won by game winner/num sims lost by game loser
         SIMSL = num sims lost by game winner/num games won by series loser
+        D = duration of game simulation in microseconds
     */
 
-    file << "Conf,R,S1,S2,T1,T2,G,Home,Winner,WOELO,WNELO,LOELO,LNELO,SIMSW,SIMSL" << "\n";
+    file << "Conf,R,S1,S2,T1,T2,G,Home,Winner,WOELO,WNELO,LOELO,LNELO,SIMSW,SIMSL,D" << "\n";
 
     for (size_t i = 0; i < this->easternConference.size(); i++) {
         Series* s = this->easternConference.at(i);
@@ -227,6 +228,7 @@ void Playoffs::output(string year) {
             file << g->getWinTeamOldELO() << "," << g->getWinTeamNewELO() << ",";
             file << g->getLoseTeamOldELO() << "," << g->getLoseTeamNewELO() << ",";
             file << g->getWinTeamSimWins() << "," << g->getWinTeamSimLosses() << ",";
+            file << g->getTime() << ",";
             file << "\n";
         }
     }
@@ -247,6 +249,7 @@ void Playoffs::output(string year) {
             file << g->getWinTeamOldELO() << "," << g->getWinTeamNewELO() << ",";
             file << g->getLoseTeamOldELO() << "," << g->getLoseTeamNewELO() << ",";
             file << g->getWinTeamSimWins() << "," << g->getWinTeamSimLosses() << ",";
+            file << g->getTime() << ",";
             file << "\n";
         }
     }
@@ -254,7 +257,7 @@ void Playoffs::output(string year) {
     Team* hs = this->finals->getHighSeedTeam();
     Team* ls = this->finals->getLowSeedTeam();
     for (size_t i = 0; i < this->finals->getGames().size(); i++) {
-        file << "Western," << this->finals->getRound() << ",";
+        file << "Final," << this->finals->getRound() << ",";
         file << this->finals->getHighSeedNum() << "," << this->finals->getLowSeedNum() << ",";
         file << hs->getTricode() << "," << ls->getTricode() << ",";
         file << i + 1 << ",";
@@ -264,6 +267,7 @@ void Playoffs::output(string year) {
         file << g->getWinTeamOldELO() << "," << g->getWinTeamNewELO() << ",";
         file << g->getLoseTeamOldELO() << "," << g->getLoseTeamNewELO() << ",";
         file << g->getWinTeamSimWins() << "," << g->getWinTeamSimLosses() << ",";
+        file << g->getTime() << ",";
         file << "\n";
     }
 }

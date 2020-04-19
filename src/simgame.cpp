@@ -1,7 +1,4 @@
 #include <simgame.hpp>
-#include <chrono>
-using namespace std::chrono; 
-
 
 SimulatedGame::SimulatedGame(Team* homeTeam, Team* roadTeam) {
     this->homeTeam = homeTeam;
@@ -27,7 +24,9 @@ SimulatedGame::SimulatedGame() {
     this->winTeamSimWins = 0;
     this->winTeamSimLosses = 0;
 }
-SimulatedGame::~SimulatedGame() {}
+SimulatedGame::~SimulatedGame() {
+    delete[] this->seeds;
+}
 
 Team* SimulatedGame::getHomeTeam() {
     return this->homeTeam;
@@ -98,27 +97,44 @@ int SimulatedGame::getWinTeamSimLosses() {
 void SimulatedGame::setWinTeamSimLosses(int winTeamSimLosses) {
     this->winTeamSimLosses = winTeamSimLosses;
 }
-unsigned int seeds[1000];
+
+unsigned int* SimulatedGame::getSeeds() {
+    return this->seeds;
+}
+void SimulatedGame::setSeeds(unsigned int* seeds) {
+    this->seeds = seeds;
+}
+
+double SimulatedGame::getTime() {
+    return this->time;
+}
+void SimulatedGame::setTime(double time) {
+    this->time = time;
+}
+
 void SimulatedGame::seedThreads() {
-    int my_thread_id;
+    this->seeds = new unsigned int[T];
+
+    int threadID;
     unsigned int seed;
-    #pragma omp parallel private (seed, my_thread_id)
+
+    #pragma omp parallel private (seed, threadID)
     {
-        my_thread_id = omp_get_thread_num();
+        threadID = omp_get_thread_num();
         
         //create seed on thread using current time
-        unsigned int seed = (unsigned) time(NULL);
+        unsigned int seed = (unsigned) std::time(NULL);
         
         //munge the seed using our thread number so that each thread has its
         //own unique seed, therefore ensuring it will generate a different set of numbers
-        seeds[my_thread_id] = (seed & 0xFFFFFFF0) | (my_thread_id + 1);
-        
+        this->seeds[threadID] = (seed & 0xFFFFFFF0) | (threadID + 1);
     }
 }
   
-
-#include <iostream>
 void SimulatedGame::simulateGame() {
+    // get the start time
+    auto start = high_resolution_clock::now(); 
+
     double homeTeamELO = this->homeTeam->getPsELO().back();
     double roadTeamELO = this->roadTeam->getPsELO().back();
     double probabilityHomeTeamWins = 1.0 / (1 + pow(10, ((roadTeamELO-homeTeamELO-A)/400)));
@@ -126,33 +142,25 @@ void SimulatedGame::simulateGame() {
     
     int homeTeamWinCnt = 0;
     int roadTeamWinCnt = 0;
+
     seedThreads();
-    int tid = omp_get_thread_num();   
-    unsigned int seed = seeds[tid];         
-    srand(seed);
-
-    // get the start time
-    auto start = high_resolution_clock::now(); 
-    #pragma omp parallel for
-    for (int i = 0; i < N; i++) {
-
-        double randNum = (rand_r(&seed))%100/(100.00);
-        // std::cout<<omp_get_thread_num() << ": " << randNum<< std::endl;
-        if (randNum <= probabilityHomeTeamWins)
-            #pragma omp critical
-            {
+    int i; int threadID; unsigned int seed;
+    #pragma omp parallel num_threads(T) default(none) \
+        private(i, threadID, seed) \
+        shared(N, T, this->seeds, probabilityHomeTeamWins, probabilityRoadTeamWins) \
+        reduction(+:homeTeamWinCnt, roadTeamWinCnt)
+    {
+        threadID = omp_get_thread_num();   
+        seed = seeds[threadID];         
+        
+        for (i = 0; i < N/T; i++) {
+            double randNum = (rand_r(&seed)) % 100 / (100.00);
+            if (randNum <= probabilityHomeTeamWins)
                 homeTeamWinCnt++;
-            }
-        else
-            #pragma omp critical
-            {
+            else
                 roadTeamWinCnt++;
-            }
+        }
     }
-    //stop timing
-    auto stop = high_resolution_clock::now();
-    auto duration = duration_cast<microseconds>(stop - start); 
-    std::cout << duration.count() << " microseconds" << std::endl; 
 
     if (homeTeamWinCnt > roadTeamWinCnt) {
         this->winner = this->homeTeam;
@@ -188,4 +196,8 @@ void SimulatedGame::simulateGame() {
     }
     this->homeTeam->addPsELO(homeTeamELO);
     this->roadTeam->addPsELO(roadTeamELO);
+
+    // stop timing
+    auto stop = high_resolution_clock::now();
+    this->time = duration_cast<microseconds>(stop - start).count();
 }

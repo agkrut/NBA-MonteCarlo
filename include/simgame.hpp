@@ -4,10 +4,14 @@
 #include <team.hpp>
 #include <random>
 #include <omp.h>
+#include <chrono>
+
+using namespace std::chrono; 
 
 extern int K;
 extern int A;
 extern int N;
+extern int T;
 
 class SimulatedGame
 {
@@ -46,8 +50,13 @@ public:
     int getWinTeamSimLosses();
     void setWinTeamSimLosses(int winTeamSimLosses);
 
+    unsigned int* getSeeds();
+    void setSeeds(unsigned int* seeds);
+
+    double getTime();
+    void setTime(double time);
+
     void simulateGame();
-    void seedThreads();
 
 private:
     Team* homeTeam;
@@ -60,6 +69,10 @@ private:
     double loseTeamNewELO;
     int winTeamSimWins;
     int winTeamSimLosses;
+    unsigned int* seeds;
+    double time;
+
+    void seedThreads();
 };
 
 #endif

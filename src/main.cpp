@@ -44,22 +44,24 @@ void deallocatePostseasons(vector<Playoffs*>& playoffs) {
         delete playoffs.at(i);
 }
 
-int K;
-int A;
-int N;
+int K; // weight of each game
+int A; // home-court advantage constant
+int N; // number of iterations
+int T; // number of threads
 
 int main(int argc, char** argv) {
     
-    if (argc < 4) {
-        cerr << "[Error] Need to supply three arguments: ./exec [K] [A] [N]" << endl;
+    if (argc < 5) {
+        cerr << "[Error] Need to supply three arguments: ./exec [K] [A] [N] [T]" << endl;
         exit(-1);
     }
     
     K = atoi(argv[1]);
     A = atoi(argv[2]);
     N = atoi(argv[3]);
+    T = atoi(argv[4]);
 
-    cout << "Parameters: K=" << K << " A=" << A << " N=" << N << endl;
+    cout << "Parameters: K=" << K << " A=" << A << " N=" << N << " T=" << T << endl;
 
     vector<Season*> seasons;
     vector<Playoffs*> postseasons;
