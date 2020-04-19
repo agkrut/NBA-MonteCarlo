@@ -188,7 +188,7 @@ void Playoffs::simulate() {
 void Playoffs::output(string year) {
     char buf[30];
     snprintf(buf, 30, "sim_%d_%d_%d_%d.csv", K,A,N,T);
-    string outputPath = "../data/season" + year + "/clean/" + (string) buf;
+    string outputPath = "../data/season" + year + "/results/" + (string) buf;
     ofstream file(outputPath);
 
     /*

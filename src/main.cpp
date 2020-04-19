@@ -14,7 +14,7 @@ using std::cout;
 using std::endl;
 
 #define FIRST_SEASON 2012
-#define LAST_SEASON  2012
+#define LAST_SEASON  2018
 
 json readTeamsJSON(string dir, int season) {
     string eloPath = dir + "elo.json";

@@ -44,8 +44,10 @@ def createOutputStructure():
         targetDir.mkdir(parents=True, exist_ok=True)
         uncleanDir = targetDir.joinpath("unclean")
         cleanDir = targetDir.joinpath("clean")
+        resultsDir = targetDir.joinpath("results")
         uncleanDir.mkdir(parents=True, exist_ok=True)
         cleanDir.mkdir(parents=True, exist_ok=True)
+        resultsDir.mkdir(parents=True,exist_ok=True)
         uncleanDir.joinpath("schedules").mkdir(parents=True, exist_ok=True)
         cleanDir.joinpath("schedules").mkdir(parents=True, exist_ok=True)
 
