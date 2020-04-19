@@ -210,7 +210,7 @@ void Playoffs::output(string year) {
         D = duration of game simulation in microseconds
     */
 
-    file << "Conf,R,S1,S2,T1,T2,G,Home,Winner,WOELO,WNELO,LOELO,LNELO,SIMSW,SIMSL,D" << "\n";
+    file << "Conf,R,S1,S2,T1,T2,G,Home,Winner,WOELO,WNELO,LOELO,LNELO,SIMSW,SIMSL,D," << "\n";
 
     for (size_t i = 0; i < this->easternConference.size(); i++) {
         Series* s = this->easternConference.at(i);
