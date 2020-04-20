@@ -4,7 +4,7 @@ import itertools
 K = [20,30,40]
 A = [40,50,60,70]
 N = [8**i for i in range(1,7)]
-T = [2**i for i in range(0,5)]
+T = [2**i for i in range(0,4)]
 
 os.system("rm ../data/season*/results/*.csv")
 
