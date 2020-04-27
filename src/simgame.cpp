@@ -147,7 +147,7 @@ void SimulatedGame::simulateGame() {
     int i; int threadID; unsigned int seed;
     #pragma omp parallel num_threads(T) default(none) \
         private(i, threadID, seed) \
-        shared(N, T, this->seeds, probabilityHomeTeamWins, probabilityRoadTeamWins) \
+        shared(N, T, probabilityHomeTeamWins, probabilityRoadTeamWins) \
         reduction(+:homeTeamWinCnt, roadTeamWinCnt)
     {
         threadID = omp_get_thread_num();   
