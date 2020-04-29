@@ -140,27 +140,57 @@ void SimulatedGame::simulateGame() {
     double probabilityHomeTeamWins = 1.0 / (1 + pow(10, ((roadTeamELO-homeTeamELO-A)/400)));
     double probabilityRoadTeamWins = 1.0 / (1 + pow(10, ((homeTeamELO-roadTeamELO+A)/400)));
     
+
+    // Parallelsim type 1 - arrays (false sharing)
     int homeTeamWinCnt = 0;
     int roadTeamWinCnt = 0;
-
     seedThreads();
-    int i; int threadID; unsigned int seed;
-    #pragma omp parallel num_threads(T) default(none) \
-        private(i, threadID, seed) \
-        shared(N, T, probabilityHomeTeamWins, probabilityRoadTeamWins) \
-        reduction(+:homeTeamWinCnt, roadTeamWinCnt)
+    int* homeWinsArr = new int[T];
+    int* roadWinsArr = new int[T];
+
+    #pragma omp parallel num_threads(T)
     {
-        threadID = omp_get_thread_num();   
-        seed = seeds[threadID];         
-        
-        for (i = 0; i < N/T; i++) {
+        uint threadID = omp_get_thread_num();
+        uint seed = seeds[threadID];
+
+        for (int i = 0; i < N/T; i++) {
             double randNum = (rand_r(&seed)) % 100 / (100.00);
             if (randNum <= probabilityHomeTeamWins)
-                homeTeamWinCnt++;
+                homeWinsArr[threadID]++;
             else
-                roadTeamWinCnt++;
+                roadWinsArr[threadID]++;     
         }
     }
+    for (int i = 0; i < T; i++) {
+        homeTeamWinCnt += homeWinsArr[i];
+        roadTeamWinCnt += roadWinsArr[i];
+    }
+
+    // Parallelism type 2 - local variables
+    // int homeTeamWinCnt = 0;
+    // int roadTeamWinCnt = 0;
+    // seedThreads();
+    // #pragma omp parallel num_threads(T)
+    // {
+    //     uint threadID = omp_get_thread_num();
+    //     uint seed = seeds[threadID];
+        
+    //     int localHomeTeamWinCnt = 0;
+    //     int localRoadTeamWinCnt = 0;
+    //     for (int i = 0; i < N/T; i++) {
+    //         double randNum = (rand_r(&seed)) % 100 / (100.00);
+    //         if (randNum <= probabilityHomeTeamWins)
+    //             localHomeTeamWinCnt++;
+    //         else
+    //             localRoadTeamWinCnt++;        
+    //     }
+    
+    //     #pragma omp critical
+    //     {
+    //         homeTeamWinCnt += localHomeTeamWinCnt;
+    //         roadTeamWinCnt += localRoadTeamWinCnt;
+    //     }
+    // }
 
     if (homeTeamWinCnt > roadTeamWinCnt) {
         this->winner = this->homeTeam;
