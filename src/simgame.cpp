@@ -11,6 +11,7 @@ SimulatedGame::SimulatedGame(Team* homeTeam, Team* roadTeam) {
     this->loseTeamNewELO = -1;
     this->winTeamSimWins = 0;
     this->winTeamSimLosses = 0;
+    this->seeds = new unsigned int[T];
 }
 SimulatedGame::SimulatedGame() {
     this->homeTeam = nullptr;
@@ -23,6 +24,7 @@ SimulatedGame::SimulatedGame() {
     this->loseTeamNewELO = -1;
     this->winTeamSimWins = 0;
     this->winTeamSimLosses = 0;
+    this->seeds = new unsigned int[T];
 }
 SimulatedGame::~SimulatedGame() {
     delete[] this->seeds;
@@ -113,22 +115,17 @@ void SimulatedGame::setTime(double time) {
 }
 
 void SimulatedGame::seedThreads() {
-    this->seeds = new unsigned int[T];
-
-    int threadID;
-    unsigned int seed;
-
-    #pragma omp parallel private (seed, threadID)
-    {
-        threadID = omp_get_thread_num();
+    // #pragma omp parallel num_threads(T)
+    // {
+    //     uint threadID = omp_get_thread_num();
         
-        //create seed on thread using current time
-        unsigned int seed = (unsigned) std::time(NULL);
+    //     //create seed on thread using current time
+    //     unsigned int seed = (unsigned) std::time(NULL);
         
-        //munge the seed using our thread number so that each thread has its
-        //own unique seed, therefore ensuring it will generate a different set of numbers
-        this->seeds[threadID] = (seed & 0xFFFFFFF0) | (threadID + 1);
-    }
+    //     //munge the seed using our thread number so that each thread has its
+    //     //own unique seed, therefore ensuring it will generate a different set of numbers
+    //     this->seeds[threadID] = (seed & 0xFFFFFFF0) | (threadID + 1);
+    // }
 }
   
 void SimulatedGame::simulateGame() {
@@ -141,20 +138,23 @@ void SimulatedGame::simulateGame() {
     double probabilityRoadTeamWins = 1.0 / (1 + pow(10, ((homeTeamELO-roadTeamELO+A)/400)));
     
 
-    // Parallelsim type 1 - arrays (false sharing)
+    // Parallel type 1 - arrays (false sharing)
     int homeTeamWinCnt = 0;
     int roadTeamWinCnt = 0;
-    seedThreads();
+    std::random_device rd;
+    std::default_random_engine generator(rd()); // rd() provides a random seed
+    std::uniform_real_distribution<double> distribution(0.01, 1.00);
     int* homeWinsArr = new int[T];
     int* roadWinsArr = new int[T];
-
+    for (int i = 0; i < T; i++) {
+        homeWinsArr[i] = 0;
+        roadWinsArr[i] = 0;
+    }
     #pragma omp parallel num_threads(T)
     {
         uint threadID = omp_get_thread_num();
-        uint seed = seeds[threadID];
-
         for (int i = 0; i < N/T; i++) {
-            double randNum = (rand_r(&seed)) % 100 / (100.00);
+            double randNum = distribution(generator);
             if (randNum <= probabilityHomeTeamWins)
                 homeWinsArr[threadID]++;
             else
@@ -165,20 +165,25 @@ void SimulatedGame::simulateGame() {
         homeTeamWinCnt += homeWinsArr[i];
         roadTeamWinCnt += roadWinsArr[i];
     }
+    delete[] homeWinsArr;
+    delete[] roadWinsArr;
 
     // Parallelism type 2 - local variables
     // int homeTeamWinCnt = 0;
     // int roadTeamWinCnt = 0;
-    // seedThreads();
+
+    // std::random_device rd;
+    // std::default_random_engine generator(rd()); // rd() provides a random seed
+    // std::uniform_real_distribution<double> distribution(0.01, 1.00);
+
     // #pragma omp parallel num_threads(T)
     // {
     //     uint threadID = omp_get_thread_num();
-    //     uint seed = seeds[threadID];
         
     //     int localHomeTeamWinCnt = 0;
     //     int localRoadTeamWinCnt = 0;
     //     for (int i = 0; i < N/T; i++) {
-    //         double randNum = (rand_r(&seed)) % 100 / (100.00);
+    //         double randNum = distribution(generator);
     //         if (randNum <= probabilityHomeTeamWins)
     //             localHomeTeamWinCnt++;
     //         else

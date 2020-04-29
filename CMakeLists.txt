@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 2.80)
 
-set (CMAKE_CXX_FLAGS "-g -Wall -fopenmp")
+set (CMAKE_CXX_FLAGS "-std=c++11 -g -Wall -fopenmp")
 set(CMAKE_CXX_STANDARD 11)
 
 project(NBA-MonteCarlo)
